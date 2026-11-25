@@ -1,0 +1,26 @@
+city,poiID,name,qid,category,lat,lon
+Vien,1,Schönbrunn Palace,Q131330,palace_castle,48.184516,16.311865
+Vien,3,Wiener Riesenrad,Q697578,historic_infrastructure,48.2166505,16.3959494
+Vien,4,"Albertina, Vienna",Q371908,museum_library,48.20444,16.36778
+Vien,5,Hofburg Palace,Q46242,palace_castle,48.206507,16.365262
+Vien,6,Kunsthistorisches Museum,Q95569,museum_library,48.2037,16.3614
+Vien,7,Belvedere (palace),Q211818,palace_castle,48.191439,16.380787
+Vien,8,Donauturm,Q686544,historic_infrastructure,48.24,16.41083
+Vien,9,Naturhistorisches Museum,Q688704,museum_library,48.2052,16.3599
+Vien,11,Leopold Museum,Q59435,museum_library,48.2025,16.35889
+Vien,13,Technisches Museum Wien,Q372676,museum_library,48.19083,16.3175
+Vien,14,Schatzkammer (Vienna),Q317701,museum_library,48.20667,16.36556
+Vien,15,Spanish Riding School,Q269273,performing_arts,48.2075,16.36611
+Vien,16,MUMOK,Q689951,museum_library,48.203722,16.357444
+Vien,17,"St. Stephen's Cathedral, Vienna",Q5943,religious,48.2085,16.373
+Vien,18,"Imperial Crypt, Vienna",Q662652,religious,48.20556,16.36972
+Vien,19,Haus der Musik,Q351228,museum_library,48.20417,16.37333
+Vien,20,"St. Charles's Church, Vienna",Q408847,religious,48.198333,16.371389
+Vien,21,Museum für angewandte Kunst Wien,Q478455,museum_library,48.2075,16.38167
+Vien,22,KunstHausWien,Q638493,museum_library,48.210917,16.393389
+Vien,23,Vienna State Opera,Q209937,performing_arts,48.20278,16.368472
+Vien,24,Palmenhaus Schönbrunn,Q874600,historic_civic,48.18472,16.30278
+Vien,25,Austrian National Library,Q304037,museum_library,48.20611,16.36639
+Vien,26,Austrian Parliament Building,Q702121,historic_civic,48.20806,16.35806
+Vien,27,Mozarthaus Vienna,Q387667,museum_library,48.20778,16.37528
+Vien,28,Heeresgeschichtliches Museum,Q700751,museum_library,48.18528,16.3875

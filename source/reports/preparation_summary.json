@@ -1,0 +1,14 @@
+{
+  "raw_photo_rows": 153208,
+  "quarantined_photo_rows": 53,
+  "clean_photo_rows": 153155,
+  "raw_catalog_pois": 236,
+  "canonical_pois": 234,
+  "merged_duplicate_rows": 2,
+  "prepared_visits": 33778,
+  "aligned_original_pois": 236,
+  "aligned_canonical_pois": 234,
+  "scope_verified": false,
+  "h2_diagnostic_definition": ">=3 earlier provisional cultural visits in earlier sequences and >=3 provisional cultural visits in current sequence; short-term prefix >=2; illustrative availability diagnostic, not an approved evaluation split",
+  "caveat": "Exact-identity and coordinate screens are provisional; source-category cultural status requires individual review; no training or model evaluation was performed."
+}

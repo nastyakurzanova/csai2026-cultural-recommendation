@@ -1,0 +1,21 @@
+city,poiID,name,qid,category,lat,lon
+Delh,1,India Gate,Q245347,monument,28.6128639,77.229306
+Delh,3,Rashtrapati Bhavan,Q677555,historic_civic,28.6143417,77.1998028
+Delh,6,Purana Quila,Q1151529,palace_castle,28.61,77.245
+Delh,7,Red Fort,Q45957,palace_castle,28.655747,77.241625
+Delh,8,Salimgarh Fort,Q2336156,palace_castle,28.661,77.24
+Delh,10,Safdarjung's Tomb,Q375624,monument,28.589266,77.210506
+Delh,11,Qutub Minar,Q187635,monument,28.524355,77.185248
+Delh,13,Tughlaqabad,Q2511605,palace_castle,28.51194,77.26083
+Delh,14,Akshardham (Delhi),Q1849858,religious,28.6125,77.27722
+Delh,15,Cathedral Church of Redemption,Q5052220,religious,28.618038,77.201978
+Delh,16,Gurdwara Bangla Sahib,Q2375435,religious,28.6267,77.2089
+Delh,17,ISKCON Temple Delhi,Q4500907,religious,28.55806,77.24333
+Delh,18,"Jama Masjid, Delhi",Q233678,religious,28.6507,77.2334
+Delh,19,Lotus Temple,Q940843,religious,28.553325,77.2586
+Delh,20,"St. James' Church, Delhi",Q2985087,religious,28.665637,77.230784
+Delh,21,"National Museum, New Delhi",Q1356138,museum_library,28.611811,77.219262
+Delh,22,"National Rail Museum, New Delhi",Q1138924,museum_library,28.58472,77.18139
+Delh,23,Jantar Mantar (Delhi),Q2045115,monument,28.6271083,77.2164778
+Delh,24,Nizamuddin Dargah,Q2983384,religious,28.591306,77.241806
+Delh,25,Raj Ghat and other memorials,Q1210083,monument,28.64055,77.249433

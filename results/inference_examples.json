@@ -1,0 +1,298 @@
+[
+  {
+    "city": "Buda",
+    "context_id": "Buda:12432802@N07:99:2",
+    "user": "12432802@N07",
+    "prefix": [
+      33,
+      37
+    ],
+    "old_items": [
+      33,
+      5,
+      3
+    ],
+    "observed_target": 1,
+    "variant": "optimized",
+    "result": {
+      "variant": "optimized",
+      "short_weight": 0.6388888888888888,
+      "recommendations": [
+        {
+          "poiID": 1,
+          "name": "Sándor Palace",
+          "score": 0.06324073638201914
+        },
+        {
+          "poiID": 9,
+          "name": "Fisherman's Bastion",
+          "score": 0.06044088448815638
+        },
+        {
+          "poiID": 8,
+          "name": "Matthias Church",
+          "score": 0.05817793237843856
+        },
+        {
+          "poiID": 3,
+          "name": "Gresham Palace",
+          "score": 0.05729787288339313
+        },
+        {
+          "poiID": 32,
+          "name": "Hungarian Parliament Building",
+          "score": 0.05371189812958508
+        }
+      ]
+    },
+    "selection": "first chronological eligible test context by input file order; not selected for success"
+  },
+  {
+    "city": "Buda",
+    "context_id": "Buda:12432802@N07:99:2",
+    "user": "12432802@N07",
+    "prefix": [
+      33,
+      37
+    ],
+    "old_items": [
+      33,
+      5,
+      3
+    ],
+    "observed_target": 1,
+    "variant": "graph_positive",
+    "result": {
+      "variant": "graph_positive",
+      "short_weight": 0.45833333333333337,
+      "recommendations": [
+        {
+          "poiID": 8,
+          "name": "Matthias Church",
+          "score": 0.06557636043014642
+        },
+        {
+          "poiID": 29,
+          "name": "Dohány Street Synagogue",
+          "score": 0.05493725826039411
+        },
+        {
+          "poiID": 5,
+          "name": "Hungarian State Opera House",
+          "score": 0.05424354187661819
+        },
+        {
+          "poiID": 4,
+          "name": "Buda Castle",
+          "score": 0.053604812084361575
+        },
+        {
+          "poiID": 1,
+          "name": "Sándor Palace",
+          "score": 0.05360183638998038
+        }
+      ]
+    },
+    "selection": "first chronological eligible test context by input file order; not selected for success"
+  },
+  {
+    "city": "Vien",
+    "context_id": "Vien:100757375@N02:7:2",
+    "user": "100757375@N02",
+    "prefix": [
+      17,
+      18
+    ],
+    "old_items": [
+      17,
+      15,
+      5,
+      15
+    ],
+    "observed_target": 17,
+    "variant": "optimized",
+    "result": {
+      "variant": "optimized",
+      "short_weight": 0.6666666666666666,
+      "recommendations": [
+        {
+          "poiID": 23,
+          "name": "Vienna State Opera",
+          "score": 0.06883374684853164
+        },
+        {
+          "poiID": 15,
+          "name": "Spanish Riding School",
+          "score": 0.06555412766385567
+        },
+        {
+          "poiID": 4,
+          "name": "Albertina, Vienna",
+          "score": 0.06182893325673136
+        },
+        {
+          "poiID": 9,
+          "name": "Naturhistorisches Museum",
+          "score": 0.061407815425204945
+        },
+        {
+          "poiID": 5,
+          "name": "Hofburg Palace",
+          "score": 0.059352870879676015
+        }
+      ]
+    },
+    "selection": "first chronological eligible test context by input file order; not selected for success"
+  },
+  {
+    "city": "Vien",
+    "context_id": "Vien:100757375@N02:7:2",
+    "user": "100757375@N02",
+    "prefix": [
+      17,
+      18
+    ],
+    "old_items": [
+      17,
+      15,
+      5,
+      15
+    ],
+    "observed_target": 17,
+    "variant": "graph_positive",
+    "result": {
+      "variant": "graph_positive",
+      "short_weight": 0.5,
+      "recommendations": [
+        {
+          "poiID": 23,
+          "name": "Vienna State Opera",
+          "score": 0.11264243027548604
+        },
+        {
+          "poiID": 20,
+          "name": "St. Charles's Church, Vienna",
+          "score": 0.11009424739801343
+        },
+        {
+          "poiID": 17,
+          "name": "St. Stephen's Cathedral, Vienna",
+          "score": 0.0650763252709342
+        },
+        {
+          "poiID": 1,
+          "name": "Schönbrunn Palace",
+          "score": 0.05402584402238436
+        },
+        {
+          "poiID": 7,
+          "name": "Belvedere (palace)",
+          "score": 0.04839490885098086
+        }
+      ]
+    },
+    "selection": "first chronological eligible test context by input file order; not selected for success"
+  },
+  {
+    "city": "Edin",
+    "context_id": "Edin:10287726@N02:33:2",
+    "user": "10287726@N02",
+    "prefix": [
+      17,
+      29
+    ],
+    "old_items": [
+      17,
+      2,
+      3,
+      29,
+      9,
+      8
+    ],
+    "observed_target": 1,
+    "variant": "optimized",
+    "result": {
+      "variant": "optimized",
+      "short_weight": 0.5,
+      "recommendations": [
+        {
+          "poiID": 9,
+          "name": "St Giles' Cathedral",
+          "score": 0.08199624102034417
+        },
+        {
+          "poiID": 1,
+          "name": "Edinburgh Castle",
+          "score": 0.07355803645866346
+        },
+        {
+          "poiID": 15,
+          "name": "Royal Scottish Academy Building",
+          "score": 0.07174585430133311
+        },
+        {
+          "poiID": 3,
+          "name": "National Museum of Scotland",
+          "score": 0.06580792812374336
+        },
+        {
+          "poiID": 19,
+          "name": "Balmoral Hotel",
+          "score": 0.06357906833006088
+        }
+      ]
+    },
+    "selection": "first chronological eligible test context by input file order; not selected for success"
+  },
+  {
+    "city": "Edin",
+    "context_id": "Edin:10287726@N02:33:2",
+    "user": "10287726@N02",
+    "prefix": [
+      17,
+      29
+    ],
+    "old_items": [
+      17,
+      2,
+      3,
+      29,
+      9,
+      8
+    ],
+    "observed_target": 1,
+    "variant": "graph_positive",
+    "result": {
+      "variant": "graph_positive",
+      "short_weight": 0.25,
+      "recommendations": [
+        {
+          "poiID": 4,
+          "name": "Scottish Parliament Building",
+          "score": 0.08391178478400987
+        },
+        {
+          "poiID": 23,
+          "name": "St Andrew's House",
+          "score": 0.07374880589077878
+        },
+        {
+          "poiID": 11,
+          "name": "National Monument of Scotland",
+          "score": 0.07036146834758486
+        },
+        {
+          "poiID": 19,
+          "name": "Balmoral Hotel",
+          "score": 0.06917032112009562
+        },
+        {
+          "poiID": 1,
+          "name": "Edinburgh Castle",
+          "score": 0.06664667256303006
+        }
+      ]
+    },
+    "selection": "first chronological eligible test context by input file order; not selected for success"
+  }
+]

@@ -1,0 +1,10 @@
+city,poiID,name,qid,category,lat,lon
+Pert,1,Perth Town Hall,Q7170899,historic_civic,-31.955,115.860556
+Pert,2,"Parliament House, Perth",Q1371068,historic_civic,-31.951634,115.847209
+Pert,3,State Library of Western Australia,Q7603408,museum_library,-31.949031,115.860513
+Pert,7,Stirling Gardens,Q7617571,historic_garden,-31.9565,115.86
+Pert,8,"Queens Gardens, Perth",Q7270764,historic_garden,-31.9595,115.8766
+Pert,11,"Hyde Park, Perth",Q14935818,historic_garden,-31.9379,115.8628
+Pert,12,Art Gallery of Western Australia,Q4796833,museum_library,-31.950624,115.860898
+Pert,13,Western Australian Museum,Q3567483,museum_library,-31.94956,115.861391
+Pert,22,"Perth Concert Hall, Western Australia",Q7170839,performing_arts,-31.95806,115.86361

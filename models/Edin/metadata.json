@@ -1,0 +1,169 @@
+{
+  "city": "Edin",
+  "feature_keys": [
+    [
+      "P138",
+      "Q149727"
+    ],
+    [
+      "P138",
+      "Q202083"
+    ],
+    [
+      "P138",
+      "Q43399"
+    ],
+    [
+      "P138",
+      "Q4758785"
+    ],
+    [
+      "P149",
+      "Q173782"
+    ],
+    [
+      "P149",
+      "Q176483"
+    ],
+    [
+      "P149",
+      "Q54111"
+    ],
+    [
+      "P149",
+      "Q595448"
+    ],
+    [
+      "P84",
+      "Q11682592"
+    ],
+    [
+      "P84",
+      "Q29832410"
+    ],
+    [
+      "P84",
+      "Q312635"
+    ],
+    [
+      "P84",
+      "Q3415248"
+    ],
+    [
+      "P84",
+      "Q4890237"
+    ],
+    [
+      "P84",
+      "Q706350"
+    ],
+    [
+      "P84",
+      "Q723669"
+    ],
+    [
+      "P84",
+      "Q727525"
+    ],
+    [
+      "P84",
+      "Q7793744"
+    ],
+    [
+      "P84",
+      "Q8006170"
+    ],
+    [
+      "class",
+      "historic_civic"
+    ],
+    [
+      "class",
+      "historic_garden"
+    ],
+    [
+      "class",
+      "historic_infrastructure"
+    ],
+    [
+      "class",
+      "monument"
+    ],
+    [
+      "class",
+      "museum_library"
+    ],
+    [
+      "class",
+      "palace_castle"
+    ],
+    [
+      "class",
+      "performing_arts"
+    ],
+    [
+      "class",
+      "religious"
+    ]
+  ],
+  "parameters": {
+    "CategoryFixed": {
+      "restart": 0.15,
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "CulturalFixed": {
+      "restart": 0.15,
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "CulturalFlatFixed": {
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "ItemKNN": {
+      "alpha": 1.0
+    },
+    "Markov": {
+      "prior": 0.0
+    },
+    "EASE": {
+      "l2": 10.0
+    },
+    "GeoFixed": {
+      "bandwidth_km": 0.25,
+      "alpha": 1.0
+    },
+    "CulturalAdaptive": {
+      "minimum": 0.5,
+      "maximum": 1.0,
+      "c": 1.0
+    },
+    "CulturalFixedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 1.0
+    },
+    "CategoryFixedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 0.7
+    },
+    "CulturalFlatFixedForced": {
+      "eta": 0.25,
+      "alpha": 1.0
+    },
+    "CulturalAdaptiveForced": {
+      "minimum": 0.25,
+      "maximum": 1.0,
+      "c": 1.0
+    },
+    "NoCultureMatchedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 1.0
+    }
+  },
+  "snapshot": "2026-10-26",
+  "forced_variant_status": "exploratory positive-graph component chosen on validation; primary unrestricted result preserved"
+}

@@ -1,0 +1,4 @@
+contrast,a,b,subset,metric,delta,ci_low,ci_high,p_two_sided,users_global,contexts,cities,bootstrap_draws_used
+H3,Markov,Popularity,all,NDCG5,0.11820970464614713,0.024229860078490584,0.2095838029698636,0.019198080191980802,40,76,Delh|Glas|Osak|Pert|Toro,8736
+H1,GraphPositive,CategoryMatched,all,NDCG5,0.0006355969152591287,-0.018678793172316365,0.022085111495868885,1.0,40,76,Delh|Glas|Osak|Pert|Toro,8736
+end_to_end,AdaptiveFree,Markov,all,NDCG5,-0.01846313078365951,-0.05820673317027348,0.022542991889998823,0.33996600339966004,40,76,Delh|Glas|Osak|Pert|Toro,8736

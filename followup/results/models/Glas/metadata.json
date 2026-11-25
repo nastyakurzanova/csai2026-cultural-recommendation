@@ -1,0 +1,157 @@
+{
+  "city": "Glas",
+  "feature_keys": [
+    [
+      "P138",
+      "Q545175"
+    ],
+    [
+      "P149",
+      "Q1295040"
+    ],
+    [
+      "P149",
+      "Q176483"
+    ],
+    [
+      "P149",
+      "Q46261"
+    ],
+    [
+      "P149",
+      "Q845318"
+    ],
+    [
+      "P84",
+      "Q104898"
+    ],
+    [
+      "P84",
+      "Q1820811"
+    ],
+    [
+      "P84",
+      "Q220703"
+    ],
+    [
+      "P84",
+      "Q3610803"
+    ],
+    [
+      "P84",
+      "Q4969157"
+    ],
+    [
+      "P84",
+      "Q6139771"
+    ],
+    [
+      "class",
+      "historic_civic"
+    ],
+    [
+      "class",
+      "historic_infrastructure"
+    ],
+    [
+      "class",
+      "museum_library"
+    ],
+    [
+      "class",
+      "performing_arts"
+    ],
+    [
+      "class",
+      "religious"
+    ]
+  ],
+  "parameters": {},
+  "snapshot": "2026-10-26",
+  "markov_prior": 0,
+  "variants": {
+    "Markov": {
+      "eta": 0.0,
+      "alpha": 1.0,
+      "beta": 0.0,
+      "kind": "none"
+    },
+    "CategoryFree": {
+      "kind": "category",
+      "eta": 0.05,
+      "alpha": 0.5,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "CategoryPositive": {
+      "kind": "category",
+      "eta": 0.05,
+      "alpha": 0.5,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "FlatFree": {
+      "kind": "flat",
+      "eta": 0.05,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    },
+    "FlatPositive": {
+      "kind": "flat",
+      "eta": 0.05,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    },
+    "GraphFree": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "GraphPositive": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "AdaptiveFree": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0,
+      "c": 3
+    },
+    "AdaptivePositive": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0,
+      "c": 3
+    },
+    "CategoryMatched": {
+      "kind": "category",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "FlatMatched": {
+      "kind": "flat",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    }
+  },
+  "development_cities": [
+    "Buda",
+    "Vien"
+  ],
+  "validation_contexts": 263
+}

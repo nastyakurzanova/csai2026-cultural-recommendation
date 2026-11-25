@@ -1,0 +1,3 @@
+city,poiID,name,lat,lon,source_poi_ids,source_categories,category_candidate,scope_verified,coordinate_outlier_50km,wikidata_id,wikidata_label,match_status,distance_km,match_method,revision_id,coordinate_screen_passed,is_disambiguation_or_category,shared_entity_requires_review,entity_usable_for_screening
+Edin,3,National Museum of Scotland,55.94694,-3.19,3,Museum,True,False,False,Q1633842,National Museum of Scotland,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2558742494,True,False,True,False
+Edin,26,Royal Museum,55.94694,-3.19,26,Museum,True,False,False,Q1633842,National Museum of Scotland,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2558742494,True,False,True,False

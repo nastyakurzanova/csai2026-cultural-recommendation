@@ -1,0 +1,251 @@
+city city_name  raw_photo_rows  exact_duplicate_rows_removed  invalid_rows_quarantined  conflicting_photo_rows_quarantined  clean_photo_rows  users  catalog_pois  observed_pois  sequences  reconstructed_visits  sequences_2plus_visits  sequences_3plus_visits  users_2plus_sequences  later_sequences_2plus_visits  overlapping_sequences  category_candidate_pois  candidate_category_visits  candidate_category_sequences_2plus  ambiguous_photo_rows  coordinate_outliers                 start_utc                   end_utc
+Buda  Budapest           18513                             0                         0                                   0             18513    935            39             38       2361                  5454                     933                     591                    506                           563                      0                       23                       3681                                 662                   227                    0 1970-01-21T00:26:51+00:00 2014-04-25T08:17:53+00:00
+Delh     Delhi            3993                             0                         0                                   0              3993    279            26             23        489                   744                     129                      50                    102                            53                      0                       21                        603                                  92                    16                    0 1984-04-28T02:02:05+00:00 2014-04-14T23:51:20+00:00
+Edin Edinburgh           33944                             0                         0                                   0             33944   1454            29             28       5028                  8624                    1412                     715                    732                           963                      0                       12                       4239                                 624                   234                    0 1982-07-24T04:19:23+00:00 2014-04-26T03:16:36+00:00
+Glas   Glasgow           11434                             0                         3                                   0             11431    601            29             27       2224                  2833                     351                     133                    279                           219                      0                        6                        622                                  55                   145                    0 1978-12-31T13:00:00+00:00 2014-04-25T01:26:29+00:00
+Osak     Osaka            7747                             0                         0                                   0              7747    450            29             27       1115                  1419                     186                      64                    190                           103                      0                        6                         84                                   3                     9                    1 1993-07-31T14:00:00+00:00 2014-04-27T00:15:13+00:00
+Pert     Perth            3643                             0                         1                                   0              3642    158            25             22        715                   975                     123                      59                     70                            92                      0                        2                        128                                   7                     2                    0 2000-11-20T07:51:25+00:00 2014-04-26T17:10:56+00:00
+Toro   Toronto           39419                             0                        42                                   0             39377   1394            30             29       6029                  7876                     974                     420                    721                           744                      0                        8                       1904                                 104                   174                    0 1970-03-31T14:00:00+00:00 2014-04-26T22:08:46+00:00
+Vien    Vienna           34515                             0                         7                                   0             34508   1153            29             28       3189                  5853                     935                     536                    559                           530                      0                       22                       4822                                 804                   235                    0 1975-06-30T14:00:00+00:00 2014-04-25T06:11:04+00:00
+
+CATALOG
+city  poiID                              decoded_name         theme
+Buda      1                             Sándor Palace    Historical
+Buda      2                       Ervin Szabó Library    Historical
+Buda      3                            Gresham Palace    Historical
+Buda      4                               Buda Castle    Historical
+Buda      5               Hungarian State Opera House      Cultural
+Buda      6                           House of Terror        Museum
+Buda      7                National Széchényi Library    Historical
+Buda      8                           Matthias Church      Cultural
+Buda      9                       Fisherman's Bastion    Historical
+Buda     10                      City Park (Budapest)          Park
+Buda     11                  Széchenyi Medicinal Bath          Park
+Buda     12                        Vajdahunyad Castle    Historical
+Buda     13                       Vigadó Concert Hall      Cultural
+Buda     14                           Erzsébet Bridge     Transport
+Buda     15              Franz Liszt Academy of Music      Cultural
+Buda     16                             Gellért Baths          Park
+Buda     17                              Gellért Hill          Park
+Buda     18                         Gellért Hill Cave          Park
+Buda     19                 Liberty Statue (Budapest)          Park
+Buda     20              Geological Museum (Budapest)        Museum
+Buda     21              Great Market Hall (Budapest)      Shopping
+Buda     22                 Liberty Bridge (Budapest)     Transport
+Buda     23                       Budapest Kunsthalle        Museum
+Buda     24            Museum of Fine Arts (Budapest)        Museum
+Buda     25                           Margaret Island          Park
+Buda     26         Museum of Applied Arts (Budapest)        Museum
+Buda     27                 Hungarian National Museum        Museum
+Buda     28                             Szabadság tér          Park
+Buda     29                   Dohány Street Synagogue        Museum
+Buda     30                                     Óbuda    Historical
+Buda     31                 Palace of Arts (Budapest)      Cultural
+Buda     32             Hungarian Parliament Building    Historical
+Buda     33                  Saint Stephen's Basilica      Cultural
+Buda     34                                   Sashegy          Park
+Buda     35             Shoes on the Danube Promenade          Park
+Buda     36                    Statue Park (Budapest)        Museum
+Buda     37                    Széchenyi Chain Bridge     Transport
+Buda     38                                 Váci utca      Shopping
+Buda     39        Western Railway Station (Budapest)     Transport
+Delh      1                                India Gate      Building
+Delh      2                             Sansad Bhavan      Building
+Delh      3                        Rashtrapati Bhavan      Building
+Delh      4                Connaught Place, New Delhi          Park
+Delh      5                             Lodhi Gardens          Park
+Delh      6                              Purana Quila Architectural
+Delh      7                                  Red Fort Architectural
+Delh      8                            Salimgarh Fort Architectural
+Delh      9                             Chandni Chowk      Precinct
+Delh     10                         Safdarjung's Tomb Architectural
+Delh     11                               Qutub Minar Architectural
+Delh     12                              Qutb complex Architectural
+Delh     13                               Tughlaqabad Architectural
+Delh     14                        Akshardham (Delhi)     Religious
+Delh     15            Cathedral Church of Redemption     Religious
+Delh     16                     Gurdwara Bangla Sahib     Religious
+Delh     17                       ISKCON Temple Delhi     Religious
+Delh     18                        Jama Masjid, Delhi     Religious
+Delh     19                              Lotus Temple     Religious
+Delh     20                  St. James' Church, Delhi     Religious
+Delh     21                National Museum, New Delhi        Museum
+Delh     22           National Rail Museum, New Delhi        Museum
+Delh     23                     Jantar Mantar (Delhi) Architectural
+Delh     24                         Nizamuddin Dargah     Religious
+Delh     25              Raj Ghat and other memorials          Park
+Delh     26            National Zoological Park Delhi          Park
+Edin      1                          Edinburgh Castle    Historical
+Edin      2                           Holyrood Palace    Historical
+Edin      3               National Museum of Scotland        Museum
+Edin      4              Scottish Parliament Building     Structure
+Edin      5                         Forth Rail Bridge     Structure
+Edin      6                         Forth Road Bridge     Structure
+Edin      7                             Arthur's Seat          Park
+Edin      8                            Scott Monument    Historical
+Edin      9                       St Giles' Cathedral      Cultural
+Edin     10                               Calton Hill          Park
+Edin     11             National Monument of Scotland    Historical
+Edin     12                                Usher Hall      Cultural
+Edin     13                Edinburgh Festival Theatre      Cultural
+Edin     14 Edinburgh International Conference Centre     Structure
+Edin     15           Royal Scottish Academy Building     Structure
+Edin     16                 Scottish National Gallery        Museum
+Edin     17               Parliament House, Edinburgh     Structure
+Edin     18                    Princes Street Gardens          Park
+Edin     19                            Balmoral Hotel     Structure
+Edin     20            Royal Botanic Garden Edinburgh          Park
+Edin     21                   Victoria Quay, Scotland     Structure
+Edin     22                                Bute House     Structure
+Edin     23                         St Andrew's House     Structure
+Edin     24                         Our Dynamic Earth Entertainment
+Edin     25                      Craiglockhart Castle    Historical
+Edin     26                              Royal Museum        Museum
+Edin     27   Scottish National Gallery of Modern Art        Museum
+Edin     28      Old College, University of Edinburgh     Structure
+Edin     29                    New College, Edinburgh     Structure
+Glas      1           Glasgow Central railway station     Transport
+Glas      2      Glasgow Queen Street railway station     Transport
+Glas      3                           Glasgow Airport     Transport
+Glas      4   Glasgow Prestwick International Airport     Transport
+Glas      5                              Clyde Tunnel     Transport
+Glas      6                  Kingston Bridge, Glasgow     Transport
+Glas      7                 University of Strathclyde     Education
+Glas      8             Glasgow Caledonian University     Education
+Glas      9                     University of Glasgow     Education
+Glas     10      University of Glasgow Medical School     Education
+Glas     11                     Glasgow School of Art     Education
+Glas     12 Royal Scottish Academy of Music and Drama     Education
+Glas     13            St. Mungo's Cathedral, Glasgow      Religion
+Glas     14                    Glasgow Central Mosque      Religion
+Glas     15                               Ashton Lane      Shopping
+Glas     16                           Buchanan Street      Shopping
+Glas     17                        Burrell Collection        Museum
+Glas     18                               Celtic Park          Park
+Glas     19                          Clyde Auditorium     Structure
+Glas     20                Glasgow Royal Concert Hall     Structure
+Glas     21                     Gallery of Modern Art        Museum
+Glas     22                             Glasgow Green          Park
+Glas     23                            Holmwood House     Structure
+Glas     24                             Ibrox Stadium     Structure
+Glas     25               Glasgow Museum of Transport        Museum
+Glas     26        Kelvingrove Art Gallery and Museum        Museum
+Glas     27                              Pollok House     Structure
+Glas     28                           Willow Tearooms     Structure
+Glas     29        Glasgow International Hilton Hotel     Structure
+Osak      1                   Osaka Aquarium Kaiyukan     Amusement
+Osak      2                     Tempozan Ferris Wheel     Amusement
+Osak      3                               Tennōji Zoo     Amusement
+Osak      4                   Universal Studios Japan     Amusement
+Osak      5                                  HEP Five     Amusement
+Osak      6                        Umeda Sky Building     Amusement
+Osak      7                          Nakanoshima Park          Park
+Osak      8                              Osaka Castle          Park
+Osak      9                            Sumiyoshi Park          Park
+Osak     10                              Tennōji Park          Park
+Osak     11                               Utsubo Park          Park
+Osak     12                                Nagai Park          Park
+Osak     13                              Osaka Castle    Historical
+Osak     14                              Sankō Shrine    Historical
+Osak     15                               Shitennō-ji    Historical
+Osak     16                          Sumiyoshi taisha    Historical
+Osak     17                  Tamatsukuri Inari Shrine    Historical
+Osak     18                     Ōsaka Tenmangū Shrine    Historical
+Osak     19                                 Dōtonbori Entertainment
+Osak     20                                     Namba Entertainment
+Osak     21                              Shinsaibashi Entertainment
+Osak     22                                 Shinsekai Entertainment
+Osak     23                               Nipponbashi Entertainment
+Osak     24                               Amerikamura Entertainment
+Osak     25                                      Jūsō Entertainment
+Osak     26                            Kyōbashi#Osaka Entertainment
+Osak     27                                      Zepp Entertainment
+Osak     28                      Doyama, Osaka, Japan Entertainment
+Osak     29                            Tobita Shinchi Entertainment
+Pert      1                           Perth Town Hall     Structure
+Pert      2                   Parliament House, Perth     Structure
+Pert      3        State Library of Western Australia     Structure
+Pert      4                          Chinatown, Perth      Precinct
+Pert      5            Northbridge, Western Australia      Precinct
+Pert      6                     Supreme Court Gardens          Park
+Pert      7                          Stirling Gardens          Park
+Pert      8                     Queens Gardens, Perth          Park
+Pert      9                     Russell Square, Perth          Park
+Pert     10             Kings Park, Western Australia          Park
+Pert     11                          Hyde Park, Perth          Park
+Pert     12          Art Gallery of Western Australia      Cultural
+Pert     13                 Western Australian Museum      Cultural
+Pert     14                               WACA Ground         Sport
+Pert     15                                Perth Oval         Sport
+Pert     16                East Perth railway station     Transport
+Pert     17                     Perth railway station     Transport
+Pert     18                 Esplanade railway station     Transport
+Pert     19                         Esplanade Busport     Transport
+Pert     20             Wellington Street bus station     Transport
+Pert     21                               Crown Perth Entertainment
+Pert     22     Perth Concert Hall, Western Australia Entertainment
+Pert     23                               Perth Arena Entertainment
+Pert     24                           Cottesloe Beach         Beach
+Pert     25                 Coogee, Western Australia         Beach
+Toro      1                         Air Canada Centre         Sport
+Toro      2                                 BMO Field         Sport
+Toro      3                        Maple Leaf Gardens         Sport
+Toro      4                             Rogers Centre         Sport
+Toro      5                        Woodbine Racetrack         Sport
+Toro      6                    Art Gallery of Ontario      Cultural
+Toro      7                       Hockey Hall of Fame      Cultural
+Toro      8               Ripley's Aquarium of Canada      Cultural
+Toro      9                    Ontario Science Centre      Cultural
+Toro     10                            Riverdale Farm      Cultural
+Toro     11                      Royal Ontario Museum      Cultural
+Toro     12                               Toronto Zoo      Cultural
+Toro     13                                 Casa Loma      Cultural
+Toro     14              Canadian National Exhibition     Amusement
+Toro     15                Centreville Amusement Park     Amusement
+Toro     16                                  CN Tower     Amusement
+Toro     17                          Exhibition Place     Amusement
+Toro     18                  Sunnyside Amusement Park     Amusement
+Toro     19                           Toronto Islands         Beach
+Toro     20                                 High Park         Beach
+Toro     21                       Yonge-Dundas Square         Beach
+Toro     22                    Nathan Phillips Square         Beach
+Toro     23                      Toronto Eaton Centre      Shopping
+Toro     24                       Harbourfront Centre      Shopping
+Toro     25                         Kensington Market      Shopping
+Toro     26                  Yorkdale Shopping Centre      Shopping
+Toro     27                        Yorkville, Toronto      Shopping
+Toro     28                   Old City Hall (Toronto)     Structure
+Toro     29              Ontario Legislative Building     Structure
+Toro     30                   Union Station (Toronto)     Structure
+Vien      1                         Schönbrunn Palace        Palace
+Vien      2                     Tiergarten Schönbrunn           Zoo
+Vien      3                          Wiener Riesenrad Entertainment
+Vien      4                         Albertina, Vienna        Museum
+Vien      5                            Hofburg Palace        Palace
+Vien      6                  Kunsthistorisches Museum        Museum
+Vien      7                        Belvedere (palace)        Palace
+Vien      8                                 Donauturm     Structure
+Vien      9                  Naturhistorisches Museum        Museum
+Vien     10                           Haus des Meeres           Zoo
+Vien     11                            Leopold Museum        Museum
+Vien     12                        Belvedere (palace)        Palace
+Vien     13                   Technisches Museum Wien        Museum
+Vien     14                     Schatzkammer (Vienna)        Museum
+Vien     15                     Spanish Riding School Entertainment
+Vien     16                                     MUMOK        Museum
+Vien     17           St. Stephen's Cathedral, Vienna    Historical
+Vien     18                    Imperial Crypt, Vienna    Historical
+Vien     19                            Haus der Musik        Museum
+Vien     20              St. Charles's Church, Vienna    Historical
+Vien     21          Museum für angewandte Kunst Wien        Museum
+Vien     22                             KunstHausWien        Museum
+Vien     23                        Vienna State Opera    Historical
+Vien     24                     Palmenhaus Schönbrunn          Park
+Vien     25                 Austrian National Library    Historical
+Vien     26              Austrian Parliament Building    Historical
+Vien     27                         Mozarthaus Vienna      Cultural
+Vien     28              Heeresgeschichtliches Museum        Museum
+Vien     29                     Wüstenhaus Schönbrunn          Park
+
+FLAGS
+[{'city': 'Osak', 'type': 'duplicate_name', 'detail': '8; 13: Osaka Castle'}, {'city': 'Osak', 'type': 'coordinate_outlier_50km', 'detail': '26: Kyōbashi#Osaka; 35.6751778, 139.7692944'}, {'city': 'Vien', 'type': 'duplicate_name', 'detail': '7; 12: Belvedere (palace)'}]

@@ -1,0 +1,12 @@
+{
+  "transfer_graph_better": 5,
+  "transfer_graph_same": 61,
+  "transfer_graph_worse": 15,
+  "transfer_repeats": 40,
+  "transfer_within_km": 52,
+  "transfer_before_final_dev_cutoff": 5,
+  "transfer_with_both_profiles": 16,
+  "transfer_with_both_profiles_and_metadata": 12,
+  "transfer_linked_values": 5,
+  "transfer_feature_values": 39
+}

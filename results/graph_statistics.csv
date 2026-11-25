@@ -1,0 +1,7 @@
+city,graph,items,feature_nodes,edges,components,items_with_cultural_attributes
+Buda,category,30,7,30,7,23
+Buda,cultural,30,49,89,2,23
+Vien,category,25,6,25,6,18
+Vien,cultural,25,43,67,3,18
+Edin,category,23,8,23,8,11
+Edin,cultural,23,26,42,8,11

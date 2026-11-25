@@ -1,0 +1,9 @@
+city,poiID,name,qid,category,lat,lon
+Toro,6,Art Gallery of Ontario,Q670250,museum_library,43.65389,-79.39278
+Toro,7,Hockey Hall of Fame,Q1136687,museum_library,43.646976,-79.377253
+Toro,9,Ontario Science Centre,Q1500067,museum_library,43.71667,-79.33833
+Toro,11,Royal Ontario Museum,Q649250,museum_library,43.6675,-79.39417
+Toro,13,Casa Loma,Q1046446,palace_castle,43.6781,-79.4095
+Toro,28,Old City Hall (Toronto),Q439501,historic_civic,43.6525,-79.38167
+Toro,29,Ontario Legislative Building,Q980270,historic_civic,43.662447,-79.391708
+Toro,30,Union Station (Toronto),Q511316,historic_infrastructure,43.64528,-79.38056

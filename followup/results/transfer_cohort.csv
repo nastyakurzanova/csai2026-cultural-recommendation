@@ -1,0 +1,6 @@
+city,places,train_sequences,test_contexts_all,test_contexts,test_users,two_profiles,warm
+Delh,20,216,21,13,11,1,0
+Glas,14,724,55,15,11,0,0
+Osak,6,129,2,2,2,0,0
+Pert,9,226,19,18,6,7,6
+Toro,8,1404,36,33,14,8,3

@@ -1,0 +1,6 @@
+{
+  "status": "Exploratory follow-up, added after observing the selected beta=0; no claims of independent confirmation",
+  "selection": "Best nonzero beta from the original frozen validation grid; no test-based selection",
+  "beta": 0.25,
+  "validation_NDCG5": 0.5178084983149905
+}

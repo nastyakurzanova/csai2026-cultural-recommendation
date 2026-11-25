@@ -1,0 +1,4 @@
+photoID,userID,dateTaken,poiID,poiTheme,poiFreq,seqID,reason
+4354365954,24469639@N00,-3316154692,12,Education,517,476,"missing identifier, unknown POI, or timestamp outside 1970 through 2015"
+4354376038,24469639@N00,-3146162692,12,Education,517,477,"missing identifier, unknown POI, or timestamp outside 1970 through 2015"
+178936027,36744244@N00,-1704189600,16,Shopping,848,1044,"missing identifier, unknown POI, or timestamp outside 1970 through 2015"

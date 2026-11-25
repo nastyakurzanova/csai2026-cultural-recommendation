@@ -1,0 +1,197 @@
+{
+  "city": "Edin",
+  "feature_keys": [
+    [
+      "P138",
+      "Q149727"
+    ],
+    [
+      "P138",
+      "Q202083"
+    ],
+    [
+      "P138",
+      "Q43399"
+    ],
+    [
+      "P138",
+      "Q4758785"
+    ],
+    [
+      "P149",
+      "Q173782"
+    ],
+    [
+      "P149",
+      "Q176483"
+    ],
+    [
+      "P149",
+      "Q54111"
+    ],
+    [
+      "P149",
+      "Q595448"
+    ],
+    [
+      "P84",
+      "Q11682592"
+    ],
+    [
+      "P84",
+      "Q29832410"
+    ],
+    [
+      "P84",
+      "Q312635"
+    ],
+    [
+      "P84",
+      "Q3415248"
+    ],
+    [
+      "P84",
+      "Q4890237"
+    ],
+    [
+      "P84",
+      "Q706350"
+    ],
+    [
+      "P84",
+      "Q723669"
+    ],
+    [
+      "P84",
+      "Q727525"
+    ],
+    [
+      "P84",
+      "Q7793744"
+    ],
+    [
+      "P84",
+      "Q8006170"
+    ],
+    [
+      "class",
+      "historic_civic"
+    ],
+    [
+      "class",
+      "historic_garden"
+    ],
+    [
+      "class",
+      "historic_infrastructure"
+    ],
+    [
+      "class",
+      "monument"
+    ],
+    [
+      "class",
+      "museum_library"
+    ],
+    [
+      "class",
+      "palace_castle"
+    ],
+    [
+      "class",
+      "performing_arts"
+    ],
+    [
+      "class",
+      "religious"
+    ]
+  ],
+  "parameters": {},
+  "snapshot": "2026-10-26",
+  "markov_prior": 0,
+  "variants": {
+    "Markov": {
+      "eta": 0.0,
+      "alpha": 1.0,
+      "beta": 0.0,
+      "kind": "none"
+    },
+    "CategoryFree": {
+      "kind": "category",
+      "eta": 0.05,
+      "alpha": 0.5,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "CategoryPositive": {
+      "kind": "category",
+      "eta": 0.05,
+      "alpha": 0.5,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "FlatFree": {
+      "kind": "flat",
+      "eta": 0.05,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    },
+    "FlatPositive": {
+      "kind": "flat",
+      "eta": 0.05,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    },
+    "GraphFree": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "GraphPositive": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "AdaptiveFree": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0,
+      "c": 3
+    },
+    "AdaptivePositive": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0,
+      "c": 3
+    },
+    "CategoryMatched": {
+      "kind": "category",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "FlatMatched": {
+      "kind": "flat",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    }
+  },
+  "development_cities": [
+    "Buda",
+    "Vien"
+  ],
+  "validation_contexts": 263
+}

@@ -1,0 +1,237 @@
+city,poiID,source_name,wikidata_id,wikidata_label,match_status,match_method,distance_km,revision_id,modified,scope_status
+Buda,1,Sándor Palace,Q927806,Sándor Palace,exact_sitelink_coordinate_consistent,exact_sitelink,0.03,2557666684,2026-10-16T13:26:49Z,candidate_by_category
+Buda,2,Ervin Szabó Library,Q620968,Metropolitan Ervin Szabo Library,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2491551288,2026-05-14T11:30:59Z,candidate_by_category
+Buda,3,Gresham Palace,Q854317,Gresham Palace,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2383623664,2025-07-24T12:30:21Z,candidate_by_category
+Buda,4,Buda Castle,Q46313,Buda Castle,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2557966990,2026-10-17T11:33:38Z,candidate_by_category
+Buda,5,Hungarian State Opera House,Q36833,Hungarian State Opera House,exact_sitelink_coordinate_consistent,exact_sitelink,0.011,2515832112,2026-07-10T10:38:41Z,candidate_by_category
+Buda,6,House of Terror,Q372376,House of Terror Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.016,2517655909,2026-07-15T05:25:32Z,candidate_by_category
+Buda,7,National Széchényi Library,Q1063819,National Széchényi Library,exact_sitelink_coordinate_consistent,exact_sitelink,0.027,2558005780,2026-10-17T14:31:44Z,candidate_by_category
+Buda,8,Matthias Church,Q493133,Matthias Church,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2489685284,2026-05-11T09:38:22Z,candidate_by_category
+Buda,9,Fisherman's Bastion,Q493117,Fisherman's Bastion,exact_sitelink_coordinate_consistent,exact_sitelink,0.065,2513533625,2026-07-03T20:00:47Z,candidate_by_category
+Buda,10,City Park (Budapest),Q427016,City Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2535558376,2026-08-23T21:09:46Z,requires_individual_review
+Buda,11,Széchenyi Medicinal Bath,Q194783,Széchenyi thermal bath,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.037,2516595172,2026-07-12T10:35:50Z,requires_individual_review
+Buda,12,Vajdahunyad Castle,Q1092030,Vajdahunyad Castle,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2512688785,2026-07-01T18:11:39Z,candidate_by_category
+Buda,13,Vigadó Concert Hall,Q674032,Vigadó Concert Hall,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2344113598,2025-05-03T01:57:31Z,candidate_by_category
+Buda,14,Erzsébet Bridge,Q699098,Elisabeth Bridge,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.021,2516594661,2026-07-12T10:32:40Z,outside_initial_scope
+Buda,15,Franz Liszt Academy of Music,Q847099,Franz Liszt Academy of Music,exact_sitelink_coordinate_consistent,exact_sitelink,0.022,2557095675,2026-10-15T01:06:32Z,candidate_by_category
+Buda,16,Gellért Baths,Q646140,Gellért Baths,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2502454639,2026-06-06T05:56:25Z,requires_individual_review
+Buda,17,Gellért Hill,Q577122,Gellért Hill,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2519337284,2026-07-18T21:28:14Z,requires_individual_review
+Buda,18,Gellért Hill Cave,Q839142,Gellért Hill Cave,exact_sitelink_coordinate_consistent,exact_sitelink,0.025,2480720116,2026-04-12T18:36:43Z,requires_individual_review
+Buda,19,Liberty Statue (Budapest),Q933182,Liberty Statue,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2509020559,2026-06-22T03:30:36Z,requires_individual_review
+Buda,20,Geological Museum (Budapest),Q1162605,Geological Museum of Budapest,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2487170796,2026-05-04T07:00:52Z,candidate_by_category
+Buda,21,Great Market Hall (Budapest),Q195344,Great Market Hall,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.007,2555867031,2026-10-11T11:54:34Z,outside_initial_scope
+Buda,22,Liberty Bridge (Budapest),Q915195,Liberty Bridge,exact_sitelink_coordinate_consistent,exact_sitelink,0.031,2527242411,2026-08-04T17:42:38Z,outside_initial_scope
+Buda,23,Budapest Kunsthalle,Q368537,Hall of Arts,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2528140516,2026-08-06T14:33:53Z,candidate_by_category
+Buda,24,Museum of Fine Arts (Budapest),Q840886,"Museum of Fine Arts, Budapest",exact_sitelink_coordinate_consistent,exact_sitelink,0.04,2504789026,2026-06-11T21:49:16Z,candidate_by_category
+Buda,25,Margaret Island,Q18816,Margaret Island,exact_sitelink_coordinate_consistent,exact_sitelink,0.64,2549962775,2026-09-27T09:59:11Z,requires_individual_review
+Buda,26,Museum of Applied Arts (Budapest),Q1088467,Museum of Applied Arts,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2560812002,2026-10-25T20:30:48Z,candidate_by_category
+Buda,27,Hungarian National Museum,Q914141,Hungarian National Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2522327579,2026-07-24T23:27:07Z,candidate_by_category
+Buda,28,Szabadság tér,Q299975,Szabadság tér,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2517677619,2026-07-15T06:46:30Z,requires_individual_review
+Buda,29,Dohány Street Synagogue,Q754397,Dohány Street Synagogue,exact_sitelink_coordinate_consistent,exact_sitelink,0.012,2525274999,2026-07-31T18:58:20Z,candidate_by_category
+Buda,30,Óbuda,Q292927,Óbuda,exact_sitelink_coordinate_consistent,exact_sitelink,0.025,2517664108,2026-07-15T05:55:19Z,candidate_by_category
+Buda,31,Palace of Arts (Budapest),Q897556,Müpa Budapest,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.001,2557702278,2026-10-16T17:32:29Z,candidate_by_category
+Buda,32,Hungarian Parliament Building,Q11819,Hungarian Parliament Building,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2558887461,2026-10-19T18:59:39Z,candidate_by_category
+Buda,33,Saint Stephen's Basilica,Q338665,St. Stephen's Basilica,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2473403083,2026-03-18T22:16:21Z,candidate_by_category
+Buda,34,Sashegy,Q714048,Sas Hill,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2517171655,2026-07-13T20:38:04Z,requires_individual_review
+Buda,35,Shoes on the Danube Promenade,Q473811,Shoes on the Danube Bank,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2545151125,2026-09-13T17:58:13Z,requires_individual_review
+Buda,36,Statue Park (Budapest),Q1069906,Memento Park,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.004,2464854698,2026-02-20T05:55:10Z,candidate_by_category
+Buda,37,Széchenyi Chain Bridge,Q465534,Széchenyi Chain Bridge,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2541299398,2026-09-06T20:27:03Z,outside_initial_scope
+Buda,38,Váci utca,Q950534,Váci Street,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.008,2465870465,2026-02-23T05:56:01Z,outside_initial_scope
+Buda,39,Western Railway Station (Budapest),Q522868,Budapest-Nyugati railway station,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2550114585,2026-09-27T17:45:49Z,outside_initial_scope
+Delh,1,India Gate,Q245347,India Gate,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2556024201,2026-10-11T22:42:31Z,candidate_by_category
+Delh,2,Sansad Bhavan,Q139960735,Sansad Bhavan,exact_sitelink_no_coordinate,exact_sitelink,,2504507918,2026-06-11T07:10:01Z,candidate_by_category
+Delh,3,Rashtrapati Bhavan,Q677555,Rashtrapati Bhavan,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2556665971,2026-10-13T19:28:36Z,candidate_by_category
+Delh,4,"Connaught Place, New Delhi",Q2341950,Connaught Place,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2555578899,2026-10-10T11:26:41Z,requires_individual_review
+Delh,5,Lodhi Gardens,Q2985076,Lodi Gardens,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.161,2466899313,2026-02-25T22:24:50Z,requires_individual_review
+Delh,6,Purana Quila,Q1151529,Purana Qila,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.102,2553993247,2026-10-06T15:28:57Z,candidate_by_category
+Delh,7,Red Fort,Q45957,Red Fort,exact_sitelink_coordinate_consistent,exact_sitelink,0.132,2553274657,2026-10-05T02:52:22Z,candidate_by_category
+Delh,8,Salimgarh Fort,Q2336156,Salimgarh Fort,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2553970775,2026-10-06T14:33:44Z,candidate_by_category
+Delh,9,Chandni Chowk,Q3236763,Chandni Chowk,exact_sitelink_coordinate_consistent,exact_sitelink,0.285,2527953599,2026-08-06T04:45:53Z,requires_individual_review
+Delh,10,Safdarjung's Tomb,Q375624,Tomb of Safdar Jang,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.01,2542546969,2026-09-09T03:58:34Z,candidate_by_category
+Delh,11,Qutub Minar,Q187635,Qutb Minar,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2560612446,2026-10-25T08:35:44Z,candidate_by_category
+Delh,12,Qutb complex,Q1074330,Qutb complex,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2550101234,2026-09-27T16:53:32Z,candidate_by_category
+Delh,13,Tughlaqabad,Q2511605,Tughlaqabad Fort,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.309,2557096879,2026-10-15T01:16:29Z,candidate_by_category
+Delh,14,Akshardham (Delhi),Q1849858,Akshardham,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.008,2558417857,2026-10-18T14:27:57Z,candidate_by_category
+Delh,15,Cathedral Church of Redemption,Q5052220,Cathedral Church of the Redemption,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,1971125502,2023-09-09T16:01:49Z,candidate_by_category
+Delh,16,Gurdwara Bangla Sahib,Q2375435,Gurudwara Bangla Sahib,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2543895818,2026-09-11T10:25:28Z,candidate_by_category
+Delh,17,ISKCON Temple Delhi,Q4500907,ISKCON Temple Delhi,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.001,2475844898,2026-03-28T12:38:45Z,candidate_by_category
+Delh,18,"Jama Masjid, Delhi",Q233678,"Jama Masjid, Delhi",exact_sitelink_coordinate_consistent,exact_sitelink,0.037,2545720291,2026-09-14T17:09:44Z,candidate_by_category
+Delh,19,Lotus Temple,Q940843,Lotus Temple,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2532359999,2026-08-17T14:16:16Z,candidate_by_category
+Delh,20,"St. James' Church, Delhi",Q2985087,"St. James' Church, Delhi",exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2551252305,2026-09-30T09:28:18Z,candidate_by_category
+Delh,21,"National Museum, New Delhi",Q1356138,National Museum,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2506379227,2026-06-15T17:28:56Z,candidate_by_category
+Delh,22,"National Rail Museum, New Delhi",Q1138924,National Rail Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.013,2355833324,2025-06-02T00:31:59Z,candidate_by_category
+Delh,23,Jantar Mantar (Delhi),Q2045115,Jantar Mantar,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2556151282,2026-10-12T06:01:25Z,candidate_by_category
+Delh,24,Nizamuddin Dargah,Q2983384,Hazrat Nizamuddin Dargah,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2560261940,2026-10-24T10:26:45Z,candidate_by_category
+Delh,25,Raj Ghat and other memorials,Q1210083,Raj Ghat and associated memorials,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2550102699,2026-09-27T16:56:47Z,requires_individual_review
+Delh,26,National Zoological Park Delhi,Q3364809,National Zoological Park Delhi,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2527962287,2026-08-06T05:21:31Z,requires_individual_review
+Edin,1,Edinburgh Castle,Q212065,Edinburgh Castle,exact_sitelink_coordinate_consistent,exact_sitelink,0.012,2556633104,2026-10-13T17:21:40Z,candidate_by_category
+Edin,2,Holyrood Palace,Q505950,Holyrood Palace,exact_sitelink_coordinate_consistent,exact_sitelink,0.026,2538604103,2026-08-31T11:56:56Z,candidate_by_category
+Edin,3,National Museum of Scotland,Q1633842,National Museum of Scotland,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2558742494,2026-10-19T10:38:34Z,candidate_by_category
+Edin,4,Scottish Parliament Building,Q2746031,Scottish Parliament Building,exact_sitelink_coordinate_consistent,exact_sitelink,0.031,2541080515,2026-09-06T13:08:04Z,requires_individual_review
+Edin,5,Forth Rail Bridge,Q275,Forth Bridge,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.235,2550111141,2026-09-27T17:31:37Z,requires_individual_review
+Edin,6,Forth Road Bridge,Q933000,Forth Road Bridge,exact_sitelink_coordinate_consistent,exact_sitelink,0.097,2553929476,2026-10-06T12:50:41Z,requires_individual_review
+Edin,7,Arthur's Seat,Q712311,Arthur's Seat,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2554512700,2026-10-07T11:42:52Z,requires_individual_review
+Edin,8,Scott Monument,Q2502213,Scott Monument,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2560280878,2026-10-24T12:06:15Z,candidate_by_category
+Edin,9,St Giles' Cathedral,Q1547466,St Giles' Cathedral,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2532709317,2026-08-18T11:10:31Z,candidate_by_category
+Edin,10,Calton Hill,Q1199959,Calton Hill,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2534262084,2026-08-21T15:10:55Z,requires_individual_review
+Edin,11,National Monument of Scotland,Q6974379,National Monument of Scotland,exact_sitelink_coordinate_consistent,exact_sitelink,0.007,2532194446,2026-08-17T03:56:50Z,candidate_by_category
+Edin,12,Usher Hall,Q1636910,Usher Hall,exact_sitelink_coordinate_consistent,exact_sitelink,0.077,2500898620,2026-06-02T06:05:42Z,candidate_by_category
+Edin,13,Edinburgh Festival Theatre,Q3047596,Edinburgh Festival Theatre,exact_sitelink_coordinate_consistent,exact_sitelink,0.005,2250104002,2024-09-19T14:58:37Z,candidate_by_category
+Edin,14,Edinburgh International Conference Centre,Q5338210,Edinburgh International Conference Centre,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2242063441,2024-09-02T10:06:09Z,requires_individual_review
+Edin,15,Royal Scottish Academy Building,Q7374813,Royal Scottish Academy Building,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2254302007,2024-09-29T13:47:06Z,requires_individual_review
+Edin,16,Scottish National Gallery,Q942713,Scottish National Gallery,exact_sitelink_coordinate_consistent,exact_sitelink,0.002,2555984530,2026-10-11T20:16:45Z,candidate_by_category
+Edin,17,"Parliament House, Edinburgh",Q7138911,Parliament House,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2200017652,2024-07-10T03:33:08Z,requires_individual_review
+Edin,18,Princes Street Gardens,Q980646,Princes Street Gardens,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2534262386,2026-08-21T15:11:55Z,requires_individual_review
+Edin,19,Balmoral Hotel,Q3700280,Balmoral Hotel,exact_sitelink_coordinate_consistent,exact_sitelink,0.02,2475407419,2026-03-26T07:26:04Z,requires_individual_review
+Edin,20,Royal Botanic Garden Edinburgh,Q1807521,Royal Botanic Garden Edinburgh,exact_sitelink_coordinate_consistent,exact_sitelink,0.131,2534263394,2026-08-21T15:15:35Z,requires_individual_review
+Edin,21,"Victoria Quay, Scotland",Q7926982,Victoria Quay,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.002,2291951414,2024-12-27T22:24:50Z,requires_individual_review
+Edin,22,Bute House,Q2928830,Bute House,exact_sitelink_coordinate_consistent,exact_sitelink,0.008,2462006556,2026-02-09T15:17:44Z,requires_individual_review
+Edin,23,St Andrew's House,Q7592399,St Andrew's House,exact_sitelink_coordinate_consistent,exact_sitelink,0.015,2553311258,2026-10-05T05:47:20Z,requires_individual_review
+Edin,24,Our Dynamic Earth,Q3358350,Dynamic Earth,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.002,2513544131,2026-07-03T20:30:32Z,requires_individual_review
+Edin,25,Craiglockhart Castle,Q5181716,Craiglockhart Castle,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2512135492,2026-06-30T08:34:21Z,candidate_by_category
+Edin,26,Royal Museum,Q1633842,National Museum of Scotland,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2558742494,2026-10-19T10:38:34Z,candidate_by_category
+Edin,27,Scottish National Gallery of Modern Art,Q1889944,Scottish National Gallery of Modern Art,exact_sitelink_coordinate_consistent,exact_sitelink,0.019,2526354760,2026-08-02T17:55:35Z,candidate_by_category
+Edin,28,"Old College, University of Edinburgh",Q4283940,Old College,exact_sitelink_coordinate_consistent,exact_sitelink,0.044,2538520456,2026-08-31T06:26:43Z,requires_individual_review
+Edin,29,"New College, Edinburgh",Q7006603,New College,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2546089314,2026-09-15T08:02:21Z,requires_individual_review
+Glas,1,Glasgow Central railway station,Q800825,Glasgow Central railway station,exact_sitelink_coordinate_consistent,exact_sitelink,0.253,2543895698,2026-09-11T10:25:08Z,outside_initial_scope
+Glas,2,Glasgow Queen Street railway station,Q800823,Glasgow Queen Street railway station,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2543896498,2026-09-11T10:26:37Z,outside_initial_scope
+Glas,3,Glasgow Airport,Q8721,Glasgow Airport,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2548013321,2026-09-20T19:38:16Z,outside_initial_scope
+Glas,4,Glasgow Prestwick International Airport,Q8992,Glasgow Prestwick Airport,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.001,2551322325,2026-09-30T13:14:41Z,outside_initial_scope
+Glas,5,Clyde Tunnel,Q3542165,Clyde Tunnel,exact_sitelink_coordinate_consistent,exact_sitelink,0.003,2534263852,2026-08-21T15:17:31Z,outside_initial_scope
+Glas,6,"Kingston Bridge, Glasgow",Q6413473,Kingston Bridge,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2534266511,2026-08-21T15:26:11Z,outside_initial_scope
+Glas,7,University of Strathclyde,Q1859178,University of Strathclyde,exact_sitelink_coordinate_consistent,exact_sitelink,0.007,2560838685,2026-10-25T22:24:44Z,requires_individual_review
+Glas,8,Glasgow Caledonian University,Q1353139,Glasgow Caledonian University,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2557959881,2026-10-17T11:01:34Z,requires_individual_review
+Glas,9,University of Glasgow,Q192775,University of Glasgow,exact_sitelink_coordinate_consistent,exact_sitelink,0.047,2560508871,2026-10-25T01:54:56Z,requires_individual_review
+Glas,10,University of Glasgow Medical School,Q7895468,University of Glasgow Medical School,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.007,2535409772,2026-08-23T12:27:05Z,requires_individual_review
+Glas,11,Glasgow School of Art,Q748106,Glasgow School of Art,exact_sitelink_coordinate_consistent,exact_sitelink,0.011,2556699304,2026-10-13T21:53:12Z,requires_individual_review
+Glas,12,Royal Scottish Academy of Music and Drama,Q3446028,Royal Conservatoire of Scotland,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.004,2516514387,2026-07-12T05:18:37Z,requires_individual_review
+Glas,13,"St. Mungo's Cathedral, Glasgow",Q1473348,Glasgow Cathedral,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.017,2553600310,2026-10-05T19:37:09Z,candidate_by_category
+Glas,14,Glasgow Central Mosque,Q3493426,Glasgow Central Mosque,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2529502885,2026-08-10T06:35:26Z,candidate_by_category
+Glas,15,Ashton Lane,Q4806055,Ashton Lane,exact_sitelink_coordinate_consistent,exact_sitelink,0.005,2252891400,2024-09-25T20:06:36Z,outside_initial_scope
+Glas,16,Buchanan Street,Q4567908,Buchanan Street,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2512546699,2026-07-01T09:11:12Z,outside_initial_scope
+Glas,17,Burrell Collection,Q1016909,Burrell Collection,exact_sitelink_coordinate_consistent,exact_sitelink,0.018,2542568829,2026-09-09T06:00:05Z,candidate_by_category
+Glas,18,Celtic Park,Q216037,Celtic Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.002,2528900139,2026-08-08T19:29:36Z,requires_individual_review
+Glas,19,Clyde Auditorium,Q2980424,SEC Armadillo,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2484678035,2026-04-25T19:24:56Z,requires_individual_review
+Glas,20,Glasgow Royal Concert Hall,Q5566904,Glasgow Royal Concert Hall,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2550114796,2026-09-27T17:46:51Z,requires_individual_review
+Glas,21,Gallery of Modern Art,Q19956907,Gallery of Modern Art,exact_sitelink_no_coordinate,exact_sitelink,,2544071908,2026-09-11T16:04:49Z,candidate_by_category
+Glas,22,Glasgow Green,Q5566834,Glasgow Green,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2557923142,2026-10-17T08:23:10Z,requires_individual_review
+Glas,23,Holmwood House,Q5883823,Holmwood House,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2254310170,2024-09-29T14:09:46Z,requires_individual_review
+Glas,24,Ibrox Stadium,Q208709,Ibrox Stadium,exact_sitelink_coordinate_consistent,exact_sitelink,0.018,2528901959,2026-08-08T19:37:25Z,requires_individual_review
+Glas,25,Glasgow Museum of Transport,Q3511316,Glasgow Museum of Transport,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2375604858,2025-07-08T00:16:23Z,candidate_by_category
+Glas,26,Kelvingrove Art Gallery and Museum,Q1061094,Kelvingrove Art Gallery and Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.009,2555452560,2026-10-10T00:55:49Z,candidate_by_category
+Glas,27,Pollok House,Q1489852,Pollok House,exact_sitelink_coordinate_consistent,exact_sitelink,0.02,2534523752,2026-08-22T01:29:07Z,requires_individual_review
+Glas,28,Willow Tearooms,Q1537781,Willow Tearooms,exact_sitelink_coordinate_consistent,exact_sitelink,0.012,2526354432,2026-08-02T17:54:53Z,requires_individual_review
+Glas,29,Glasgow International Hilton Hotel,Q5764570,Hilton Glasgow,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.003,2484607178,2026-04-25T15:48:06Z,requires_individual_review
+Osak,1,Osaka Aquarium Kaiyukan,Q1191885,Osaka Aquarium Kaiyukan,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2394861423,2025-08-21T01:29:17Z,outside_initial_scope
+Osak,2,Tempozan Ferris Wheel,Q548263,Tempōzan Giant Ferris Wheel,exact_sitelink_coordinate_consistent,exact_sitelink,0.005,2343334277,2025-04-30T07:14:18Z,outside_initial_scope
+Osak,3,Tennōji Zoo,Q1054648,Tennōji Zoo,exact_sitelink_coordinate_consistent,exact_sitelink,0.046,2489668740,2026-05-11T08:12:14Z,outside_initial_scope
+Osak,4,Universal Studios Japan,Q1375103,Universal Studios Japan,exact_sitelink_coordinate_consistent,exact_sitelink,0.006,2535193732,2026-08-23T02:59:37Z,outside_initial_scope
+Osak,5,HEP Five,Q751156,HEP,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2471864748,2026-03-14T14:07:52Z,outside_initial_scope
+Osak,6,Umeda Sky Building,Q1151808,Umeda Sky Building,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2510707031,2026-06-26T12:23:33Z,outside_initial_scope
+Osak,7,Nakanoshima Park,Q6960289,Nakanoshima Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2372722304,2025-07-03T10:40:35Z,requires_individual_review
+Osak,8,Osaka Castle,Q321242,Osaka Castle,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2555642612,2026-10-10T17:22:35Z,requires_individual_review
+Osak,9,Sumiyoshi Park,Q7637168,Sumiyoshi Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2492326806,2026-05-16T01:39:12Z,requires_individual_review
+Osak,10,Tennōji Park,Q5364342,Tennōji Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.103,2413694549,2025-10-07T13:19:05Z,requires_individual_review
+Osak,11,Utsubo Park,Q7903271,Utsubo Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.02,2373910961,2025-07-05T09:37:11Z,requires_individual_review
+Osak,12,Nagai Park,Q5359309,Nagai Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2434053962,2025-11-26T00:32:59Z,requires_individual_review
+Osak,13,Osaka Castle,Q321242,Osaka Castle,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2555642612,2026-10-10T17:22:35Z,candidate_by_category
+Osak,14,Sankō Shrine,Q3472342,Sankō Shrine,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2554317152,2026-10-07T03:22:33Z,candidate_by_category
+Osak,15,Shitennō-ji,Q339859,Shitennō-ji Temple,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2559733465,2026-10-22T19:19:19Z,candidate_by_category
+Osak,16,Sumiyoshi taisha,Q705949,Sumiyoshi Taisha,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.032,2559824159,2026-10-23T02:51:48Z,candidate_by_category
+Osak,17,Tamatsukuri Inari Shrine,Q3514709,Tamatsukuri Inari Shrine,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2560176330,2026-10-24T01:43:30Z,candidate_by_category
+Osak,18,Ōsaka Tenmangū Shrine,Q385793,Ōsaka Tenmangū,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2554423903,2026-10-07T07:55:09Z,candidate_by_category
+Osak,19,Dōtonbori,Q964876,Dōtonbori,exact_sitelink_coordinate_consistent,exact_sitelink,1.894,2555006950,2026-10-08T11:38:23Z,requires_individual_review
+Osak,20,Namba,Q1075406,Namba,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2485240767,2026-04-27T22:55:08Z,requires_individual_review
+Osak,21,Shinsaibashi,Q1049109,Shinsaibashi,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2486302247,2026-05-02T00:18:09Z,requires_individual_review
+Osak,22,Shinsekai,Q1049117,Shinsekai,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2547165087,2026-09-17T22:12:41Z,requires_individual_review
+Osak,23,Nipponbashi,Q5191476,Nipponbashi,exact_sitelink_coordinate_consistent,exact_sitelink,1.037,2527754033,2026-08-05T19:34:38Z,requires_individual_review
+Osak,24,Amerikamura,Q4745722,Amerikamura,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2536573240,2026-08-26T08:38:11Z,requires_individual_review
+Osak,25,Jūsō,Q6322366,Jūsō,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2485114195,2026-04-27T13:12:06Z,requires_individual_review
+Osak,26,Kyōbashi#Osaka,Q1112936,Kyōbashi,exact_sitelink_no_coordinate,wikipedia_redirect,,2538958797,2026-09-01T06:59:44Z,requires_individual_review
+Osak,27,Zepp,Q681144,Zepp,exact_sitelink_coordinate_mismatch,exact_sitelink,1061.175,2527079382,2026-08-04T09:55:19Z,requires_individual_review
+Osak,28,"Doyama, Osaka, Japan",Q5303713,"Doyama, Osaka, Japan",exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2525239507,2026-07-31T17:00:03Z,requires_individual_review
+Osak,29,Tobita Shinchi,Q7811711,Tobita Shinchi,exact_sitelink_coordinate_consistent,exact_sitelink,0.041,2548845470,2026-09-23T15:43:37Z,requires_individual_review
+Pert,1,Perth Town Hall,Q7170899,Perth Town Hall,exact_sitelink_coordinate_consistent,exact_sitelink,0.012,2258522221,2024-10-09T23:35:03Z,requires_individual_review
+Pert,2,"Parliament House, Perth",Q1371068,Parliament House,exact_sitelink_coordinate_consistent,exact_sitelink,0.02,2296521225,2025-01-09T17:51:20Z,requires_individual_review
+Pert,3,State Library of Western Australia,Q7603408,State Library of Western Australia,exact_sitelink_coordinate_consistent,exact_sitelink,0.003,2550263637,2026-09-28T01:57:02Z,requires_individual_review
+Pert,4,"Chinatown, Perth",Q24089730,"Chinatown, Perth",exact_sitelink_coordinate_consistent,exact_sitelink,0.456,2516805291,2026-07-12T22:51:46Z,requires_individual_review
+Pert,5,"Northbridge, Western Australia",Q4327495,Northbridge,exact_sitelink_coordinate_consistent,exact_sitelink,0.583,2502147315,2026-06-05T05:36:00Z,requires_individual_review
+Pert,6,Supreme Court Gardens,Q18165701,Supreme Court Gardens,exact_sitelink_coordinate_consistent,exact_sitelink,0.009,2505760180,2026-06-14T06:14:39Z,requires_individual_review
+Pert,7,Stirling Gardens,Q7617571,Stirling Gardens,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2505759090,2026-06-14T06:11:06Z,requires_individual_review
+Pert,8,"Queens Gardens, Perth",Q7270764,Queens Gardens,exact_sitelink_coordinate_consistent,exact_sitelink,0.038,1950489562,2023-08-09T15:40:00Z,requires_individual_review
+Pert,9,"Russell Square, Perth",Q14935905,"Russell Square, Perth",exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2344428009,2025-05-04T05:38:30Z,requires_individual_review
+Pert,10,"Kings Park, Western Australia",Q3495894,Kings Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.287,2498100105,2026-05-27T01:58:51Z,requires_individual_review
+Pert,11,"Hyde Park, Perth",Q14935818,Hyde Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.009,2072942080,2024-02-09T18:36:47Z,requires_individual_review
+Pert,12,Art Gallery of Western Australia,Q4796833,Art Gallery of Western Australia,exact_sitelink_coordinate_consistent,exact_sitelink,0.006,2550003352,2026-09-27T12:14:05Z,candidate_by_category
+Pert,13,Western Australian Museum,Q3567483,Western Australian Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.096,2474427624,2026-03-22T06:04:12Z,candidate_by_category
+Pert,14,WACA Ground,Q2738971,WACA Ground,exact_sitelink_coordinate_consistent,exact_sitelink,0.027,2451730520,2026-01-05T15:13:06Z,outside_initial_scope
+Pert,15,Perth Oval,Q978904,Perth Rectangular Stadium,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.011,2487518686,2026-05-05T04:13:00Z,outside_initial_scope
+Pert,16,East Perth railway station,Q5329143,East Perth railway station,exact_sitelink_coordinate_consistent,exact_sitelink,0.002,2535662805,2026-08-24T03:30:13Z,outside_initial_scope
+Pert,17,Perth railway station,Q7170917,Perth railway station,exact_sitelink_coordinate_consistent,exact_sitelink,0.02,2505337690,2026-06-13T03:55:38Z,outside_initial_scope
+Pert,18,Esplanade railway station,Q5399042,Elizabeth Quay railway station,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.04,2493296025,2026-05-17T18:23:00Z,outside_initial_scope
+Pert,19,Esplanade Busport,Q14935793,Elizabeth Quay Bus Station,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2481384508,2026-04-14T12:01:48Z,outside_initial_scope
+Pert,20,Wellington Street bus station,Q7981514,Wellington Street bus station,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2482212720,2026-04-16T18:43:06Z,outside_initial_scope
+Pert,21,Crown Perth,Q1017078,Crown Perth,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2098756181,2024-03-10T17:40:03Z,requires_individual_review
+Pert,22,"Perth Concert Hall, Western Australia",Q7170839,Perth Concert Hall,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.024,2505335558,2026-06-13T03:36:33Z,requires_individual_review
+Pert,23,Perth Arena,Q2035401,Perth Arena,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2414919458,2025-10-10T22:45:51Z,requires_individual_review
+Pert,24,Cottesloe Beach,Q21955723,Cottesloe Beach,exact_sitelink_coordinate_consistent,exact_sitelink,0.681,2522728825,2026-07-26T01:50:48Z,outside_initial_scope
+Pert,25,"Coogee, Western Australia",Q5166851,Coogee,exact_sitelink_coordinate_consistent,exact_sitelink,0.378,2496543973,2026-05-23T21:32:35Z,outside_initial_scope
+Toro,1,Air Canada Centre,Q406972,Scotiabank Arena,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2513198505,2026-07-02T18:17:37Z,outside_initial_scope
+Toro,2,BMO Field,Q796351,BMO Field,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2520995349,2026-07-22T09:03:03Z,outside_initial_scope
+Toro,3,Maple Leaf Gardens,Q1814534,Maple Leaf Gardens,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2545530326,2026-09-14T09:49:57Z,outside_initial_scope
+Toro,4,Rogers Centre,Q76318,Rogers Centre,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2539727922,2026-09-03T14:55:37Z,outside_initial_scope
+Toro,5,Woodbine Racetrack,Q3135941,Woodbine Racetrack,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,1729984495,2022-09-16T17:41:26Z,outside_initial_scope
+Toro,6,Art Gallery of Ontario,Q670250,Art Gallery of Ontario,exact_sitelink_coordinate_consistent,exact_sitelink,0.031,2551842557,2026-10-01T17:09:59Z,candidate_by_category
+Toro,7,Hockey Hall of Fame,Q1136687,Hockey Hall of Fame,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2514360383,2026-07-06T06:02:57Z,candidate_by_category
+Toro,8,Ripley's Aquarium of Canada,Q14875406,Ripley's Aquarium of Canada,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2513543946,2026-07-03T20:29:56Z,candidate_by_category
+Toro,9,Ontario Science Centre,Q1500067,Ontario Science Centre,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2478584741,2026-04-05T16:25:33Z,candidate_by_category
+Toro,10,Riverdale Farm,Q7338138,Riverdale Farm,exact_sitelink_coordinate_consistent,exact_sitelink,0.001,2364506705,2025-06-20T21:27:13Z,candidate_by_category
+Toro,11,Royal Ontario Museum,Q649250,Royal Ontario Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.042,2551341510,2026-09-30T14:11:18Z,candidate_by_category
+Toro,12,Toronto Zoo,Q741395,Toronto Zoo,exact_sitelink_coordinate_consistent,exact_sitelink,0.045,2548996168,2026-09-24T09:56:47Z,candidate_by_category
+Toro,13,Casa Loma,Q1046446,Casa Loma,exact_sitelink_coordinate_consistent,exact_sitelink,0.013,2525039713,2026-07-31T03:31:02Z,candidate_by_category
+Toro,14,Canadian National Exhibition,Q857399,Canadian National Exhibition,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2514639632,2026-07-06T23:45:31Z,outside_initial_scope
+Toro,15,Centreville Amusement Park,Q5062718,Centreville Amusement Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.002,2343222690,2025-04-29T20:04:56Z,outside_initial_scope
+Toro,16,CN Tower,Q134883,CN Tower,exact_sitelink_coordinate_consistent,exact_sitelink,0.017,2542555379,2026-09-09T04:48:43Z,outside_initial_scope
+Toro,17,Exhibition Place,Q1383752,Exhibition Place,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2491205201,2026-05-13T14:37:12Z,outside_initial_scope
+Toro,18,Sunnyside Amusement Park,Q3503945,Sunnyside Amusement Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.003,2311079391,2025-02-13T21:47:55Z,outside_initial_scope
+Toro,19,Toronto Islands,Q248110,Toronto Islands,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2510434181,2026-06-25T17:38:05Z,outside_initial_scope
+Toro,20,High Park,Q1617812,High Park,exact_sitelink_coordinate_consistent,exact_sitelink,0.002,2400021837,2025-09-03T15:54:55Z,outside_initial_scope
+Toro,21,Yonge-Dundas Square,Q607810,Yonge Dundas Square,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2524071289,2026-07-28T20:34:58Z,outside_initial_scope
+Toro,22,Nathan Phillips Square,Q2915521,Nathan Phillips Square,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2524070249,2026-07-28T20:30:48Z,outside_initial_scope
+Toro,23,Toronto Eaton Centre,Q1278419,Toronto Eaton Centre,exact_sitelink_coordinate_consistent,exact_sitelink,0.011,2505182178,2026-06-12T18:15:46Z,outside_initial_scope
+Toro,24,Harbourfront Centre,Q14875166,Harbourfront Centre,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2475870274,2026-03-28T15:01:20Z,outside_initial_scope
+Toro,25,Kensington Market,Q3195260,Kensington Market,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2485045776,2026-04-27T08:47:24Z,outside_initial_scope
+Toro,26,Yorkdale Shopping Centre,Q8055633,Yorkdale Shopping Centre,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2517443035,2026-07-14T16:10:59Z,outside_initial_scope
+Toro,27,"Yorkville, Toronto",Q1022897,Yorkville,exact_sitelink_coordinate_consistent,exact_sitelink,0.002,2538295385,2026-08-30T19:08:09Z,outside_initial_scope
+Toro,28,Old City Hall (Toronto),Q439501,Old City Hall,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2397115457,2025-08-27T05:27:03Z,requires_individual_review
+Toro,29,Ontario Legislative Building,Q980270,Ontario Legislative Building,exact_sitelink_coordinate_consistent,exact_sitelink,0.005,2517846439,2026-07-15T18:56:55Z,requires_individual_review
+Toro,30,Union Station (Toronto),Q511316,Union Station,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2556998468,2026-10-14T18:37:20Z,requires_individual_review
+Vien,1,Schönbrunn Palace,Q131330,Schönbrunn Palace,exact_sitelink_coordinate_consistent,exact_sitelink,0.043,2551266506,2026-09-30T10:11:27Z,candidate_by_category
+Vien,2,Tiergarten Schönbrunn,Q752283,Schönbrunn Zoo,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2510731179,2026-06-26T14:02:23Z,outside_initial_scope
+Vien,3,Wiener Riesenrad,Q697578,Wiener Riesenrad,exact_sitelink_coordinate_consistent,exact_sitelink,0.02,2432271267,2025-11-21T20:39:33Z,requires_individual_review
+Vien,4,"Albertina, Vienna",Q371908,Albertina,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.052,2560546580,2026-10-25T04:41:13Z,candidate_by_category
+Vien,5,Hofburg Palace,Q46242,Hofburg Palace,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.013,2534711820,2026-08-22T09:33:06Z,candidate_by_category
+Vien,6,Kunsthistorisches Museum,Q95569,Kunsthistorisches Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.025,2558731053,2026-10-19T09:44:31Z,candidate_by_category
+Vien,7,Belvedere (palace),Q211818,Belvedere,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.219,2529490261,2026-08-10T05:45:44Z,candidate_by_category
+Vien,8,Donauturm,Q686544,Donauturm,exact_sitelink_coordinate_consistent,exact_sitelink,0.065,2547551696,2026-09-18T20:42:57Z,requires_individual_review
+Vien,9,Naturhistorisches Museum,Q688704,"Natural History Museum, Vienna",exact_sitelink_coordinate_consistent,wikipedia_redirect,0.008,2552806673,2026-10-03T23:19:05Z,candidate_by_category
+Vien,10,Haus des Meeres,Q460607,Haus des Meeres,exact_sitelink_coordinate_consistent,exact_sitelink,0.025,2479511568,2026-04-08T17:00:52Z,outside_initial_scope
+Vien,11,Leopold Museum,Q59435,Leopold Museum,exact_sitelink_coordinate_consistent,exact_sitelink,0.025,2516869361,2026-07-13T02:24:39Z,candidate_by_category
+Vien,12,Belvedere (palace),Q211818,Belvedere,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.219,2529490261,2026-08-10T05:45:44Z,candidate_by_category
+Vien,13,Technisches Museum Wien,Q372676,Vienna Technical Museum,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.041,2517657974,2026-07-15T05:33:05Z,candidate_by_category
+Vien,14,Schatzkammer (Vienna),Q317701,Imperial Treasury,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.015,2558758158,2026-10-19T11:37:32Z,candidate_by_category
+Vien,15,Spanish Riding School,Q269273,Spanish Riding School,exact_sitelink_coordinate_consistent,exact_sitelink,0.0,2505006571,2026-06-12T10:02:43Z,requires_individual_review
+Vien,16,MUMOK,Q689951,Mumok,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.0,2536110344,2026-08-25T08:05:42Z,candidate_by_category
+Vien,17,"St. Stephen's Cathedral, Vienna",Q5943,St. Stephen's Cathedral,exact_sitelink_coordinate_consistent,exact_sitelink,0.021,2550668771,2026-09-28T22:40:23Z,candidate_by_category
+Vien,18,"Imperial Crypt, Vienna",Q662652,Imperial Crypt,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.001,2505931658,2026-06-14T15:09:59Z,candidate_by_category
+Vien,19,Haus der Musik,Q351228,Haus der Musik,exact_sitelink_coordinate_consistent,exact_sitelink,0.004,2387969450,2025-08-04T11:34:48Z,candidate_by_category
+Vien,20,"St. Charles's Church, Vienna",Q408847,Karlskirche,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.037,2494362022,2026-05-19T16:00:26Z,candidate_by_category
+Vien,21,Museum für angewandte Kunst Wien,Q478455,MAK – Museum of Applied Arts,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.029,2522326828,2026-07-24T23:24:25Z,candidate_by_category
+Vien,22,KunstHausWien,Q638493,KunstHausWien,exact_sitelink_coordinate_consistent,exact_sitelink,0.021,2514024846,2026-07-05T05:03:32Z,candidate_by_category
+Vien,23,Vienna State Opera,Q209937,Vienna State Opera house,exact_sitelink_coordinate_consistent,exact_sitelink,0.08,2542500932,2026-09-08T23:34:23Z,candidate_by_category
+Vien,24,Palmenhaus Schönbrunn,Q874600,Palmenhaus Schönbrunn,exact_sitelink_coordinate_consistent,exact_sitelink,0.056,2427943802,2025-11-10T15:48:42Z,requires_individual_review
+Vien,25,Austrian National Library,Q304037,Austrian National Library,exact_sitelink_coordinate_consistent,exact_sitelink,0.01,2555448335,2026-10-10T00:32:23Z,candidate_by_category
+Vien,26,Austrian Parliament Building,Q702121,Austrian Parliament Building,exact_sitelink_coordinate_consistent,exact_sitelink,0.047,2550788239,2026-09-29T07:36:02Z,candidate_by_category
+Vien,27,Mozarthaus Vienna,Q387667,Mozarthaus Vienna,exact_sitelink_coordinate_consistent,exact_sitelink,0.05,2492982556,2026-05-17T05:17:11Z,candidate_by_category
+Vien,28,Heeresgeschichtliches Museum,Q700751,Heeresgeschichtliches Museum,exact_sitelink_coordinate_consistent,wikipedia_redirect,0.012,2537767198,2026-08-29T14:09:22Z,candidate_by_category
+Vien,29,Wüstenhaus Schönbrunn,Q1430654,Wüstenhaus Schönbrunn,exact_sitelink_coordinate_consistent,exact_sitelink,0.014,2138493521,2024-04-27T10:56:37Z,requires_individual_review

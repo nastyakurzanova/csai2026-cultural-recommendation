@@ -1,0 +1,34 @@
+{
+  "CategoryFixed": {
+    "restart": 0.15,
+    "eta": 0.0,
+    "alpha": 1.0
+  },
+  "CulturalFixed": {
+    "restart": 0.15,
+    "eta": 0.0,
+    "alpha": 1.0
+  },
+  "CulturalFlatFixed": {
+    "eta": 0.0,
+    "alpha": 1.0
+  },
+  "ItemKNN": {
+    "alpha": 1.0
+  },
+  "Markov": {
+    "prior": 0.0
+  },
+  "EASE": {
+    "l2": 10.0
+  },
+  "GeoFixed": {
+    "bandwidth_km": 0.25,
+    "alpha": 1.0
+  },
+  "CulturalAdaptive": {
+    "minimum": 0.5,
+    "maximum": 1.0,
+    "c": 1.0
+  }
+}

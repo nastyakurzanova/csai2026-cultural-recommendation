@@ -1,0 +1,36 @@
+{
+  "comparison": "initial completed study versus full successful offline reconstruction from original photographs and fixed Wikidata snapshot; SHA-256 of primary numerical outputs",
+  "all_identical": true,
+  "files": {
+    "results/predictions.csv": {
+      "initial_sha256": "7e0641e4e755e43e732fc6c5372a1ada7df98ffc9698e7fbe3712bcf082d462f",
+      "rebuilt_sha256": "7e0641e4e755e43e732fc6c5372a1ada7df98ffc9698e7fbe3712bcf082d462f",
+      "identical": true
+    },
+    "results/metrics.csv": {
+      "initial_sha256": "a4236112002f1b1e6c0b95a71824f78c6e1fe081542fa162f7f43bbc95cc7500",
+      "rebuilt_sha256": "a4236112002f1b1e6c0b95a71824f78c6e1fe081542fa162f7f43bbc95cc7500",
+      "identical": true
+    },
+    "results/paired_inference.csv": {
+      "initial_sha256": "8191d5010cafb07e40a8f716f37e7dc6b505d2e7068a7eb07afe6cd1a08e5935",
+      "rebuilt_sha256": "8191d5010cafb07e40a8f716f37e7dc6b505d2e7068a7eb07afe6cd1a08e5935",
+      "identical": true
+    },
+    "results/selected_parameters.json": {
+      "initial_sha256": "79c8d2401ae083e0aea1cfcd04e9b4c2f949496a26f1dcfe4dc4208b0b4219f2",
+      "rebuilt_sha256": "79c8d2401ae083e0aea1cfcd04e9b4c2f949496a26f1dcfe4dc4208b0b4219f2",
+      "identical": true
+    },
+    "data/contexts_main.jsonl": {
+      "initial_sha256": "37a77ebc23e8f0915232ebcec8e1e0db856a10a70b92ce3a8d7e801ac5ce2d78",
+      "rebuilt_sha256": "37a77ebc23e8f0915232ebcec8e1e0db856a10a70b92ce3a8d7e801ac5ce2d78",
+      "identical": true
+    },
+    "data/cultural_edges.csv": {
+      "initial_sha256": "147cd6619b4660c5f4ec9c6feb50b0934926684ff4fa1cbad62acd91be72499a",
+      "rebuilt_sha256": "147cd6619b4660c5f4ec9c6feb50b0934926684ff4fa1cbad62acd91be72499a",
+      "identical": true
+    }
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "nodes": [
+    {
+      "id": "poi:Buda:1",
+      "kind": "poi",
+      "label": "Sándor Palace",
+      "qid": "Q927806"
+    },
+    {
+      "id": "poi:Buda:3",
+      "kind": "poi",
+      "label": "Gresham Palace",
+      "qid": "Q854317"
+    },
+    {
+      "id": "poi:Buda:4",
+      "kind": "poi",
+      "label": "Buda Castle",
+      "qid": "Q46313"
+    },
+    {
+      "id": "poi:Buda:5",
+      "kind": "poi",
+      "label": "Hungarian State Opera House",
+      "qid": "Q36833"
+    },
+    {
+      "id": "poi:Buda:6",
+      "kind": "poi",
+      "label": "House of Terror",
+      "qid": "Q372376"
+    },
+    {
+      "id": "poi:Buda:7",
+      "kind": "poi",
+      "label": "National Széchényi Library",
+      "qid": "Q1063819"
+    },
+    {
+      "id": "poi:Buda:8",
+      "kind": "poi",
+      "label": "Matthias Church",
+      "qid": "Q493133"
+    },
+    {
+      "id": "poi:Buda:9",
+      "kind": "poi",
+      "label": "Fisherman's Bastion",
+      "qid": "Q493117"
+    },
+    {
+      "id": "poi:Buda:11",
+      "kind": "poi",
+      "label": "Széchenyi Medicinal Bath",
+      "qid": "Q194783"
+    },
+    {
+      "id": "poi:Buda:12",
+      "kind": "poi",
+      "label": "Vajdahunyad Castle",
+      "qid": "Q1092030"
+    },
+    {
+      "id": "poi:Buda:13",
+      "kind": "poi",
+      "label": "Vigadó Concert Hall",
+      "qid": "Q674032"
+    },
+    {
+      "id": "poi:Buda:15",
+      "kind": "poi",
+      "label": "Franz Liszt Academy of Music",
+      "qid": "Q847099"
+    },
+    {
+      "id": "poi:Buda:16",
+      "kind": "poi",
+      "label": "Gellért Baths",
+      "qid": "Q646140"
+    },
+    {
+      "id": "poi:Buda:18",
+      "kind": "poi",
+      "label": "Gellért Hill Cave",
+      "qid": "Q839142"
+    },
+    {
+      "id": "poi:Buda:19",
+      "kind": "poi",
+      "label": "Liberty Statue (Budapest)",
+      "qid": "Q933182"
+    },
+    {
+      "id": "poi:Buda:20",
+      "kind": "poi",
+      "label": "Geological Museum (Budapest)",
+      "qid": "Q1162605"
+    },
+    {
+      "id": "poi:Buda:21",
+      "kind": "poi",
+      "label": "Great Market Hall (Budapest)",
+      "qid": "Q195344"
+    },
+    {
+      "id": "poi:Buda:22",
+      "kind": "poi",
+      "label": "Liberty Bridge (Budapest)",
+      "qid": "Q915195"
+    },
+    {
+      "id": "poi:Buda:23",
+      "kind": "poi",
+      "label": "Budapest Kunsthalle",
+      "qid": "Q368537"
+    },
+    {
+      "id": "poi:Buda:24",
+      "kind": "poi",
+      "label": "Museum of Fine Arts (Budapest)",
+      "qid": "Q840886"
+    },
+    {
+      "id": "poi:Buda:26",
+      "kind": "poi",
+      "label": "Museum of Applied Arts (Budapest)",
+      "qid": "Q1088467"
+    },
+    {
+      "id": "poi:Buda:27",
+      "kind": "poi",
+      "label": "Hungarian National Museum",
+      "qid": "Q914141"
+    },
+    {
+      "id": "poi:Buda:29",
+      "kind": "poi",
+      "label": "Dohány Street Synagogue",
+      "qid": "Q754397"
+    },
+    {
+      "id": "poi:Buda:31",
+      "kind": "poi",
+      "label": "Palace of Arts (Budapest)",
+      "qid": "Q897556"
+    },
+    {
+      "id": "poi:Buda:32",
+      "kind": "poi",
+      "label": "Hungarian Parliament Building",
+      "qid": "Q11819"
+    },
+    {
+      "id": "poi:Buda:33",
+      "kind": "poi",
+      "label": "Saint Stephen's Basilica",
+      "qid": "Q338665"
+    },
+    {
+      "id": "poi:Buda:35",
+      "kind": "poi",
+      "label": "Shoes on the Danube Promenade",
+      "qid": "Q473811"
+    },
+    {
+      "id": "poi:Buda:36",
+      "kind": "poi",
+      "label": "Statue Park (Budapest)",
+      "qid": "Q1069906"
+    },
+    {
+      "id": "poi:Buda:37",
+      "kind": "poi",
+      "label": "Széchenyi Chain Bridge",
+      "qid": "Q465534"
+    },
+    {
+      "id": "poi:Buda:39",
+      "kind": "poi",
+      "label": "Western Railway Station (Budapest)",
+      "qid": "Q522868"
+    },
+    {
+      "id": "P138:Q177903",
+      "kind": "P138",
+      "label": "Q177903"
+    },
+    {
+      "id": "P138:Q188634",
+      "kind": "P138",
+      "label": "Q188634"
+    },
+    {
+      "id": "P138:Q279397",
+      "kind": "P138",
+      "label": "Q279397"
+    },
+    {
+      "id": "P138:Q2979",
+      "kind": "P138",
+      "label": "Q2979"
+    },
+    {
+      "id": "P138:Q375307",
+      "kind": "P138",
+      "label": "Q375307"
+    },
+    {
+      "id": "P138:Q41309",
+      "kind": "P138",
+      "label": "Q41309"
+    },
+    {
+      "id": "P138:Q51056",
+      "kind": "P138",
+      "label": "Q51056"
+    },
+    {
+      "id": "P138:Q577122",
+      "kind": "P138",
+      "label": "Q577122"
+    },
+    {
+      "id": "P149:Q1295040",
+      "kind": "P149",
+      "label": "Q1295040"
+    },
+    {
+      "id": "P149:Q170292",
+      "kind": "P149",
+      "label": "Q170292"
+    },
+    {
+      "id": "P149:Q176483",
+      "kind": "P149",
+      "label": "Q176483"
+    },
+    {
+      "id": "P149:Q186363",
+      "kind": "P149",
+      "label": "Q186363"
+    },
+    {
+      "id": "P149:Q236122",
+      "kind": "P149",
+      "label": "Q236122"
+    },
+    {
+      "id": "P149:Q2479493",
+      "kind": "P149",
+      "label": "Q2479493"
+    },
+    {
+      "id": "P149:Q502163",
+      "kind": "P149",
+      "label": "Q502163"
+    },
+    {
+      "id": "P149:Q54111",
+      "kind": "P149",
+      "label": "Q54111"
+    },
+    {
+      "id": "P149:Q74156",
+      "kind": "P149",
+      "label": "Q74156"
+    },
+    {
+      "id": "P149:Q744373",
+      "kind": "P149",
+      "label": "Q744373"
+    },
+    {
+      "id": "P149:Q840829",
+      "kind": "P149",
+      "label": "Q840829"
+    },
+    {
+      "id": "P149:Q911397",
+      "kind": "P149",
+      "label": "Q911397"
+    },
+    {
+      "id": "P84:Q1000981",
+      "kind": "P84",
+      "label": "Q1000981"
+    },
+    {
+      "id": "P84:Q1036379",
+      "kind": "P84",
+      "label": "Q1036379"
+    },
+    {
+      "id": "P84:Q1072997",
+      "kind": "P84",
+      "label": "Q1072997"
+    },
+    {
+      "id": "P84:Q1231856",
+      "kind": "P84",
+      "label": "Q1231856"
+    },
+    {
+      "id": "P84:Q1243875",
+      "kind": "P84",
+      "label": "Q1243875"
+    },
+    {
+      "id": "P84:Q1404630",
+      "kind": "P84",
+      "label": "Q1404630"
+    },
+    {
+      "id": "P84:Q1461564",
+      "kind": "P84",
+      "label": "Q1461564"
+    },
+    {
+      "id": "P84:Q15275947",
+      "kind": "P84",
+      "label": "Q15275947"
+    },
+    {
+      "id": "P84:Q1685720",
+      "kind": "P84",
+      "label": "Q1685720"
+    },
+    {
+      "id": "P84:Q294065",
+      "kind": "P84",
+      "label": "Q294065"
+    },
+    {
+      "id": "P84:Q337876",
+      "kind": "P84",
+      "label": "Q337876"
+    },
+    {
+      "id": "P84:Q460169",
+      "kind": "P84",
+      "label": "Q460169"
+    },
+    {
+      "id": "P84:Q51484503",
+      "kind": "P84",
+      "label": "Q51484503"
+    },
+    {
+      "id": "P84:Q541584",
+      "kind": "P84",
+      "label": "Q541584"
+    },
+    {
+      "id": "P84:Q661956",
+      "kind": "P84",
+      "label": "Q661956"
+    },
+    {
+      "id": "P84:Q690112",
+      "kind": "P84",
+      "label": "Q690112"
+    },
+    {
+      "id": "P84:Q698819",
+      "kind": "P84",
+      "label": "Q698819"
+    },
+    {
+      "id": "P84:Q713731",
+      "kind": "P84",
+      "label": "Q713731"
+    },
+    {
+      "id": "P84:Q79098",
+      "kind": "P84",
+      "label": "Q79098"
+    },
+    {
+      "id": "P84:Q837564",
+      "kind": "P84",
+      "label": "Q837564"
+    },
+    {
+      "id": "P84:Q899998",
+      "kind": "P84",
+      "label": "Q899998"
+    },
+    {
+      "id": "P84:Q998610",
+      "kind": "P84",
+      "label": "Q998610"
+    },
+    {
+      "id": "class:historic_civic",
+      "kind": "class",
+      "label": "historic_civic"
+    },
+    {
+      "id": "class:historic_infrastructure",
+      "kind": "class",
+      "label": "historic_infrastructure"
+    },
+    {
+      "id": "class:monument",
+      "kind": "class",
+      "label": "monument"
+    },
+    {
+      "id": "class:museum_library",
+      "kind": "class",
+      "label": "museum_library"
+    },
+    {
+      "id": "class:palace_castle",
+      "kind": "class",
+      "label": "palace_castle"
+    },
+    {
+      "id": "class:performing_arts",
+      "kind": "class",
+      "label": "performing_arts"
+    },
+    {
+      "id": "class:religious",
+      "kind": "class",
+      "label": "religious"
+    }
+  ],
+  "edges": [
+    {
+      "source": "poi:Buda:33",
+      "target": "P138:Q177903",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:8",
+      "target": "P138:Q188634",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:11",
+      "target": "P138:Q279397",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:37",
+      "target": "P138:Q279397",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:22",
+      "target": "P138:Q2979",
+      "relation": "P138",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:7",
+      "target": "P138:Q375307",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:15",
+      "target": "P138:Q41309",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:22",
+      "target": "P138:Q51056",
+      "relation": "P138",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:16",
+      "target": "P138:Q577122",
+      "relation": "P138",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:3",
+      "target": "P149:Q1295040",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:16",
+      "target": "P149:Q1295040",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:21",
+      "target": "P149:Q1295040",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:22",
+      "target": "P149:Q1295040",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:26",
+      "target": "P149:Q1295040",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:1",
+      "target": "P149:Q170292",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:11",
+      "target": "P149:Q170292",
+      "relation": "P149",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "P149:Q176483",
+      "relation": "P149",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:8",
+      "target": "P149:Q176483",
+      "relation": "P149",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:12",
+      "target": "P149:Q176483",
+      "relation": "P149",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:8",
+      "target": "P149:Q186363",
+      "relation": "P149",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:9",
+      "target": "P149:Q186363",
+      "relation": "P149",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:32",
+      "target": "P149:Q186363",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "P149:Q236122",
+      "relation": "P149",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:12",
+      "target": "P149:Q2479493",
+      "relation": "P149",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:5",
+      "target": "P149:Q502163",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:11",
+      "target": "P149:Q502163",
+      "relation": "P149",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:37",
+      "target": "P149:Q502163",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:33",
+      "target": "P149:Q54111",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:29",
+      "target": "P149:Q74156",
+      "relation": "P149",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:9",
+      "target": "P149:Q744373",
+      "relation": "P149",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "P149:Q840829",
+      "relation": "P149",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:11",
+      "target": "P149:Q911397",
+      "relation": "P149",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:13",
+      "target": "P84:Q1000981",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:33",
+      "target": "P84:Q1036379",
+      "relation": "P84",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "P84:Q1072997",
+      "relation": "P84",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:5",
+      "target": "P84:Q1072997",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:33",
+      "target": "P84:Q1072997",
+      "relation": "P84",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:21",
+      "target": "P84:Q1231856",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:3",
+      "target": "P84:Q1243875",
+      "relation": "P84",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:1",
+      "target": "P84:Q1404630",
+      "relation": "P84",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:3",
+      "target": "P84:Q1461564",
+      "relation": "P84",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:3",
+      "target": "P84:Q15275947",
+      "relation": "P84",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "P84:Q1685720",
+      "relation": "P84",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:26",
+      "target": "P84:Q294065",
+      "relation": "P84",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:32",
+      "target": "P84:Q337876",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:8",
+      "target": "P84:Q460169",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:9",
+      "target": "P84:Q460169",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:31",
+      "target": "P84:Q51484503",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:29",
+      "target": "P84:Q541584",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:12",
+      "target": "P84:Q661956",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:1",
+      "target": "P84:Q690112",
+      "relation": "P84",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:27",
+      "target": "P84:Q690112",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "P84:Q698819",
+      "relation": "P84",
+      "weight": 0.3333333333333333
+    },
+    {
+      "source": "poi:Buda:26",
+      "target": "P84:Q713731",
+      "relation": "P84",
+      "weight": 0.5
+    },
+    {
+      "source": "poi:Buda:23",
+      "target": "P84:Q79098",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:24",
+      "target": "P84:Q79098",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:37",
+      "target": "P84:Q837564",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:11",
+      "target": "P84:Q899998",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:22",
+      "target": "P84:Q998610",
+      "relation": "P84",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:11",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:16",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:21",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:32",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:22",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:37",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:39",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:19",
+      "target": "class:monument",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:35",
+      "target": "class:monument",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:6",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:7",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:20",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:23",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:24",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:26",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:27",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:36",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:1",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:3",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:4",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:9",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:12",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:5",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:13",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:15",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:31",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:8",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:18",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:29",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Buda:33",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    }
+  ],
+  "weighted_undirected": true
+}

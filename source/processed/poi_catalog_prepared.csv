@@ -1,0 +1,235 @@
+city,poiID,name,lat,lon,source_poi_ids,source_categories,category_candidate,scope_verified,coordinate_outlier_50km,wikidata_id,wikidata_label,match_status,distance_km,match_method,revision_id,coordinate_screen_passed,is_disambiguation_or_category,shared_entity_requires_review,entity_usable_for_screening
+Buda,1,Sándor Palace,47.4978,19.0378,1,Historical,True,False,False,Q927806,Sándor Palace,exact_sitelink_coordinate_consistent,0.03,exact_sitelink,2557666684,True,False,False,True
+Buda,2,Ervin Szabó Library,47.4893778,19.0648,2,Historical,True,False,False,Q620968,Metropolitan Ervin Szabo Library,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2491551288,True,False,False,True
+Buda,3,Gresham Palace,47.4997472,19.0479806,3,Historical,True,False,False,Q854317,Gresham Palace,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2383623664,True,False,False,True
+Buda,4,Buda Castle,47.49611,19.03972,4,Historical,True,False,False,Q46313,Buda Castle,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2557966990,True,False,False,True
+Buda,5,Hungarian State Opera House,47.5028083,19.0581889,5,Cultural,True,False,False,Q36833,Hungarian State Opera House,exact_sitelink_coordinate_consistent,0.011,exact_sitelink,2515832112,True,False,False,True
+Buda,6,House of Terror,47.50694,19.06528,6,Museum,True,False,False,Q372376,House of Terror Museum,exact_sitelink_coordinate_consistent,0.016,exact_sitelink,2517655909,True,False,False,True
+Buda,7,National Széchényi Library,47.495,19.03917,7,Historical,True,False,False,Q1063819,National Széchényi Library,exact_sitelink_coordinate_consistent,0.027,exact_sitelink,2558005780,True,False,False,True
+Buda,8,Matthias Church,47.50194,19.03417,8,Cultural,True,False,False,Q493133,Matthias Church,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2489685284,True,False,False,True
+Buda,9,Fisherman's Bastion,47.50167,19.035,9,Historical,True,False,False,Q493117,Fisherman's Bastion,exact_sitelink_coordinate_consistent,0.065,exact_sitelink,2513533625,True,False,False,True
+Buda,10,City Park (Budapest),47.51389,19.08472,10,Park,False,False,False,Q427016,City Park,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2535558376,True,False,False,True
+Buda,11,Széchenyi Medicinal Bath,47.51861,19.08194,11,Park,False,False,False,Q194783,Széchenyi thermal bath,exact_sitelink_coordinate_consistent,0.037,wikipedia_redirect,2516595172,True,False,False,True
+Buda,12,Vajdahunyad Castle,47.51528,19.08194,12,Historical,True,False,False,Q1092030,Vajdahunyad Castle,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2512688785,True,False,False,True
+Buda,13,Vigadó Concert Hall,47.4958944,19.0494556,13,Cultural,True,False,False,Q674032,Vigadó Concert Hall,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2344113598,True,False,False,True
+Buda,14,Erzsébet Bridge,47.49083,19.04889,14,Transport,False,False,False,Q699098,Elisabeth Bridge,exact_sitelink_coordinate_consistent,0.021,wikipedia_redirect,2516594661,True,False,False,True
+Buda,15,Franz Liszt Academy of Music,47.5032472,19.0645167,15,Cultural,True,False,False,Q847099,Franz Liszt Academy of Music,exact_sitelink_coordinate_consistent,0.022,exact_sitelink,2557095675,True,False,False,True
+Buda,16,Gellért Baths,47.4837083,19.050972,16,Park,False,False,False,Q646140,Gellért Baths,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2502454639,True,False,False,True
+Buda,17,Gellért Hill,47.48639,19.04583,17,Park,False,False,False,Q577122,Gellért Hill,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2519337284,True,False,False,True
+Buda,18,Gellért Hill Cave,47.4851056,19.0519778,18,Park,False,False,False,Q839142,Gellért Hill Cave,exact_sitelink_coordinate_consistent,0.025,exact_sitelink,2480720116,True,False,False,True
+Buda,19,Liberty Statue (Budapest),47.48639,19.04806,19,Park,False,False,False,Q933182,Liberty Statue,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2509020559,True,False,False,True
+Buda,20,Geological Museum (Budapest),47.5055833,19.0974361,20,Museum,True,False,False,Q1162605,Geological Museum of Budapest,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2487170796,True,False,False,True
+Buda,21,Great Market Hall (Budapest),47.48667,19.05889,21,Shopping,False,False,False,Q195344,Great Market Hall,exact_sitelink_coordinate_consistent,0.007,wikipedia_redirect,2555867031,True,False,False,True
+Buda,22,Liberty Bridge (Budapest),47.48583,19.055,22,Transport,False,False,False,Q915195,Liberty Bridge,exact_sitelink_coordinate_consistent,0.031,exact_sitelink,2527242411,True,False,False,True
+Buda,23,Budapest Kunsthalle,47.5140222,19.0786778,23,Museum,True,False,False,Q368537,Hall of Arts,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2528140516,True,False,False,True
+Buda,24,Museum of Fine Arts (Budapest),47.51611,19.07639,24,Museum,True,False,False,Q840886,"Museum of Fine Arts, Budapest",exact_sitelink_coordinate_consistent,0.04,exact_sitelink,2504789026,True,False,False,True
+Buda,25,Margaret Island,47.533,19.05,25,Park,False,False,False,Q18816,Margaret Island,exact_sitelink_coordinate_consistent,0.64,exact_sitelink,2549962775,True,False,False,True
+Buda,26,Museum of Applied Arts (Budapest),47.48611,19.06833,26,Museum,True,False,False,Q1088467,Museum of Applied Arts,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2560812002,True,False,False,True
+Buda,27,Hungarian National Museum,47.49111,19.06278,27,Museum,True,False,False,Q914141,Hungarian National Museum,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2522327579,True,False,False,True
+Buda,28,Szabadság tér,47.50472,19.05028,28,Park,False,False,False,Q299975,Szabadság tér,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2517677619,True,False,False,True
+Buda,29,Dohány Street Synagogue,47.49583,19.06083,29,Museum,True,False,False,Q754397,Dohány Street Synagogue,exact_sitelink_coordinate_consistent,0.012,exact_sitelink,2525274999,True,False,False,True
+Buda,30,Óbuda,47.55,19.033,30,Historical,True,False,False,Q292927,Óbuda,exact_sitelink_coordinate_consistent,0.025,exact_sitelink,2517664108,True,False,False,True
+Buda,31,Palace of Arts (Budapest),47.46944,19.07167,31,Cultural,True,False,False,Q897556,Müpa Budapest,exact_sitelink_coordinate_consistent,0.001,wikipedia_redirect,2557702278,True,False,False,True
+Buda,32,Hungarian Parliament Building,47.50694,19.04556,32,Historical,True,False,False,Q11819,Hungarian Parliament Building,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2558887461,True,False,False,True
+Buda,33,Saint Stephen's Basilica,47.500833,19.053889,33,Cultural,True,False,False,Q338665,St. Stephen's Basilica,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2473403083,True,False,False,True
+Buda,34,Sashegy,47.48111,19.01639,34,Park,False,False,False,Q714048,Sas Hill,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2517171655,True,False,False,True
+Buda,35,Shoes on the Danube Promenade,47.5039028,19.0447833,35,Park,False,False,False,Q473811,Shoes on the Danube Bank,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2545151125,True,False,False,True
+Buda,36,Statue Park (Budapest),47.4263333,18.9989306,36,Museum,True,False,False,Q1069906,Memento Park,exact_sitelink_coordinate_consistent,0.004,wikipedia_redirect,2464854698,True,False,False,True
+Buda,37,Széchenyi Chain Bridge,47.49889,19.04361,37,Transport,False,False,False,Q465534,Széchenyi Chain Bridge,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2541299398,True,False,False,True
+Buda,38,Váci utca,47.4942222,19.052425,38,Shopping,False,False,False,Q950534,Váci Street,exact_sitelink_coordinate_consistent,0.008,wikipedia_redirect,2465870465,True,False,False,True
+Buda,39,Western Railway Station (Budapest),47.51083,19.0575,39,Transport,False,False,False,Q522868,Budapest-Nyugati railway station,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2550114585,True,False,False,True
+Delh,1,India Gate,28.6128639,77.229306,1,Building,True,False,False,Q245347,India Gate,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2556024201,True,False,False,True
+Delh,2,Sansad Bhavan,28.617189,77.208084,2,Building,True,False,False,Q139960735,Sansad Bhavan,exact_sitelink_no_coordinate,,exact_sitelink,2504507918,False,True,False,False
+Delh,3,Rashtrapati Bhavan,28.6143417,77.1998028,3,Building,True,False,False,Q677555,Rashtrapati Bhavan,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2556665971,True,False,False,True
+Delh,4,"Connaught Place, New Delhi",28.63278,77.21972,4,Park,False,False,False,Q2341950,Connaught Place,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2555578899,True,False,False,True
+Delh,5,Lodhi Gardens,28.593,77.22,5,Park,False,False,False,Q2985076,Lodi Gardens,exact_sitelink_coordinate_consistent,0.161,wikipedia_redirect,2466899313,True,False,False,True
+Delh,6,Purana Quila,28.61,77.245,6,Architectural,True,False,False,Q1151529,Purana Qila,exact_sitelink_coordinate_consistent,0.102,wikipedia_redirect,2553993247,True,False,False,True
+Delh,7,Red Fort,28.655747,77.241625,7,Architectural,True,False,False,Q45957,Red Fort,exact_sitelink_coordinate_consistent,0.132,exact_sitelink,2553274657,True,False,False,True
+Delh,8,Salimgarh Fort,28.661,77.24,8,Architectural,True,False,False,Q2336156,Salimgarh Fort,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2553970775,True,False,False,True
+Delh,9,Chandni Chowk,28.656,77.231,9,Precinct,False,False,False,Q3236763,Chandni Chowk,exact_sitelink_coordinate_consistent,0.285,exact_sitelink,2527953599,True,False,False,True
+Delh,10,Safdarjung's Tomb,28.589266,77.210506,10,Architectural,True,False,False,Q375624,Tomb of Safdar Jang,exact_sitelink_coordinate_consistent,0.01,wikipedia_redirect,2542546969,True,False,False,True
+Delh,11,Qutub Minar,28.524355,77.185248,11,Architectural,True,False,False,Q187635,Qutb Minar,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2560612446,True,False,False,True
+Delh,12,Qutb complex,28.524382,77.18543,12,Architectural,True,False,False,Q1074330,Qutb complex,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2550101234,True,False,False,True
+Delh,13,Tughlaqabad,28.51194,77.26083,13,Architectural,True,False,False,Q2511605,Tughlaqabad Fort,exact_sitelink_coordinate_consistent,0.309,wikipedia_redirect,2557096879,True,False,False,True
+Delh,14,Akshardham (Delhi),28.6125,77.27722,14,Religious,True,False,False,Q1849858,Akshardham,exact_sitelink_coordinate_consistent,0.008,wikipedia_redirect,2558417857,True,False,False,True
+Delh,15,Cathedral Church of Redemption,28.618038,77.201978,15,Religious,True,False,False,Q5052220,Cathedral Church of the Redemption,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,1971125502,True,False,False,True
+Delh,16,Gurdwara Bangla Sahib,28.6267,77.2089,16,Religious,True,False,False,Q2375435,Gurudwara Bangla Sahib,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2543895818,True,False,False,True
+Delh,17,ISKCON Temple Delhi,28.55806,77.24333,17,Religious,True,False,False,Q4500907,ISKCON Temple Delhi,exact_sitelink_coordinate_consistent,0.001,wikipedia_redirect,2475844898,True,False,False,True
+Delh,18,"Jama Masjid, Delhi",28.6507,77.2334,18,Religious,True,False,False,Q233678,"Jama Masjid, Delhi",exact_sitelink_coordinate_consistent,0.037,exact_sitelink,2545720291,True,False,False,True
+Delh,19,Lotus Temple,28.553325,77.2586,19,Religious,True,False,False,Q940843,Lotus Temple,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2532359999,True,False,False,True
+Delh,20,"St. James' Church, Delhi",28.665637,77.230784,20,Religious,True,False,False,Q2985087,"St. James' Church, Delhi",exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2551252305,True,False,False,True
+Delh,21,"National Museum, New Delhi",28.611811,77.219262,21,Museum,True,False,False,Q1356138,National Museum,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2506379227,True,False,False,True
+Delh,22,"National Rail Museum, New Delhi",28.58472,77.18139,22,Museum,True,False,False,Q1138924,National Rail Museum,exact_sitelink_coordinate_consistent,0.013,exact_sitelink,2355833324,True,False,False,True
+Delh,23,Jantar Mantar (Delhi),28.6271083,77.2164778,23,Architectural,True,False,False,Q2045115,Jantar Mantar,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2556151282,True,False,False,True
+Delh,24,Nizamuddin Dargah,28.591306,77.241806,24,Religious,True,False,False,Q2983384,Hazrat Nizamuddin Dargah,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2560261940,True,False,False,True
+Delh,25,Raj Ghat and other memorials,28.64055,77.249433,25,Park,False,False,False,Q1210083,Raj Ghat and associated memorials,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2550102699,True,False,False,True
+Delh,26,National Zoological Park Delhi,28.6044359,77.2461981,26,Park,False,False,False,Q3364809,National Zoological Park Delhi,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2527962287,True,False,False,True
+Edin,1,Edinburgh Castle,55.948611,-3.200833,1,Historical,True,False,False,Q212065,Edinburgh Castle,exact_sitelink_coordinate_consistent,0.012,exact_sitelink,2556633104,True,False,False,True
+Edin,2,Holyrood Palace,55.9525,-3.1725,2,Historical,True,False,False,Q505950,Holyrood Palace,exact_sitelink_coordinate_consistent,0.026,exact_sitelink,2538604103,True,False,False,True
+Edin,3,National Museum of Scotland,55.94694,-3.19,3,Museum,True,False,False,Q1633842,National Museum of Scotland,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2558742494,True,False,True,False
+Edin,4,Scottish Parliament Building,55.952158,-3.175204,4,Structure,False,False,False,Q2746031,Scottish Parliament Building,exact_sitelink_coordinate_consistent,0.031,exact_sitelink,2541080515,True,False,False,True
+Edin,5,Forth Rail Bridge,56.000421,-3.388726,5,Structure,False,False,False,Q275,Forth Bridge,exact_sitelink_coordinate_consistent,0.235,wikipedia_redirect,2550111141,True,False,False,True
+Edin,6,Forth Road Bridge,56.00083,-3.40417,6,Structure,False,False,False,Q933000,Forth Road Bridge,exact_sitelink_coordinate_consistent,0.097,exact_sitelink,2553929476,True,False,False,True
+Edin,7,Arthur's Seat,55.94417,-3.16194,7,Park,False,False,False,Q712311,Arthur's Seat,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2554512700,True,False,False,True
+Edin,8,Scott Monument,55.952417,-3.193278,8,Historical,True,False,False,Q2502213,Scott Monument,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2560280878,True,False,False,True
+Edin,9,St Giles' Cathedral,55.94944,-3.19083,9,Cultural,True,False,False,Q1547466,St Giles' Cathedral,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2532709317,True,False,False,True
+Edin,10,Calton Hill,55.95528,-3.18222,10,Park,False,False,False,Q1199959,Calton Hill,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2534262084,True,False,False,True
+Edin,11,National Monument of Scotland,55.954722,-3.181806,11,Historical,True,False,False,Q6974379,National Monument of Scotland,exact_sitelink_coordinate_consistent,0.007,exact_sitelink,2532194446,True,False,False,True
+Edin,12,Usher Hall,55.94675,-3.2042,12,Cultural,True,False,False,Q1636910,Usher Hall,exact_sitelink_coordinate_consistent,0.077,exact_sitelink,2500898620,True,False,False,True
+Edin,13,Edinburgh Festival Theatre,55.9467,-3.1861778,13,Cultural,True,False,False,Q3047596,Edinburgh Festival Theatre,exact_sitelink_coordinate_consistent,0.005,exact_sitelink,2250104002,True,False,False,True
+Edin,14,Edinburgh International Conference Centre,55.9461083,-3.2096472,14,Structure,False,False,False,Q5338210,Edinburgh International Conference Centre,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2242063441,True,False,False,True
+Edin,15,Royal Scottish Academy Building,55.95175,-3.196389,15,Structure,False,False,False,Q7374813,Royal Scottish Academy Building,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2254302007,True,False,False,True
+Edin,16,Scottish National Gallery,55.950917,-3.195667,16,Museum,True,False,False,Q942713,Scottish National Gallery,exact_sitelink_coordinate_consistent,0.002,exact_sitelink,2555984530,True,False,False,True
+Edin,17,"Parliament House, Edinburgh",55.94917,-3.19056,17,Structure,False,False,False,Q7138911,Parliament House,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2200017652,True,False,False,True
+Edin,18,Princes Street Gardens,55.95005,-3.2029944,18,Park,False,False,False,Q980646,Princes Street Gardens,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2534262386,True,False,False,True
+Edin,19,Balmoral Hotel,55.9528694,-3.1895083,19,Structure,False,False,False,Q3700280,Balmoral Hotel,exact_sitelink_coordinate_consistent,0.02,exact_sitelink,2475407419,True,False,False,True
+Edin,20,Royal Botanic Garden Edinburgh,55.9656028,-3.2066611,20,Park,False,False,False,Q1807521,Royal Botanic Garden Edinburgh,exact_sitelink_coordinate_consistent,0.131,exact_sitelink,2534263394,True,False,False,True
+Edin,21,"Victoria Quay, Scotland",55.9781806,-3.1734667,21,Structure,False,False,False,Q7926982,Victoria Quay,exact_sitelink_coordinate_consistent,0.002,wikipedia_redirect,2291951414,True,False,False,True
+Edin,22,Bute House,55.9525306,-3.2080167,22,Structure,False,False,False,Q2928830,Bute House,exact_sitelink_coordinate_consistent,0.008,exact_sitelink,2462006556,True,False,False,True
+Edin,23,St Andrew's House,55.953375,-3.1840972,23,Structure,False,False,False,Q7592399,St Andrew's House,exact_sitelink_coordinate_consistent,0.015,exact_sitelink,2553311258,True,False,False,True
+Edin,24,Our Dynamic Earth,55.9505778,-3.1743694,24,Entertainment,False,False,False,Q3358350,Dynamic Earth,exact_sitelink_coordinate_consistent,0.002,wikipedia_redirect,2513544131,True,False,False,True
+Edin,25,Craiglockhart Castle,55.9193361,-3.2383139,25,Historical,True,False,False,Q5181716,Craiglockhart Castle,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2512135492,True,False,False,True
+Edin,26,Royal Museum,55.94694,-3.19,26,Museum,True,False,False,Q1633842,National Museum of Scotland,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2558742494,True,False,True,False
+Edin,27,Scottish National Gallery of Modern Art,55.9508583,-3.2275639,27,Museum,True,False,False,Q1889944,Scottish National Gallery of Modern Art,exact_sitelink_coordinate_consistent,0.019,exact_sitelink,2526354760,True,False,False,True
+Edin,28,"Old College, University of Edinburgh",55.947389,-3.187194,28,Structure,False,False,False,Q4283940,Old College,exact_sitelink_coordinate_consistent,0.044,exact_sitelink,2538520456,True,False,False,True
+Edin,29,"New College, Edinburgh",55.9498,-3.1952,29,Structure,False,False,False,Q7006603,New College,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2546089314,True,False,False,True
+Glas,1,Glasgow Central railway station,55.858,-4.258,1,Transport,False,False,False,Q800825,Glasgow Central railway station,exact_sitelink_coordinate_consistent,0.253,exact_sitelink,2543895698,True,False,False,True
+Glas,2,Glasgow Queen Street railway station,55.8622,-4.2512,2,Transport,False,False,False,Q800823,Glasgow Queen Street railway station,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2543896498,True,False,False,True
+Glas,3,Glasgow Airport,55.87194,-4.43306,3,Transport,False,False,False,Q8721,Glasgow Airport,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2548013321,True,False,False,True
+Glas,4,Glasgow Prestwick International Airport,55.50944,-4.59444,4,Transport,False,False,False,Q8992,Glasgow Prestwick Airport,exact_sitelink_coordinate_consistent,0.001,wikipedia_redirect,2551322325,True,False,False,True
+Glas,5,Clyde Tunnel,55.86867,-4.33115,5,Transport,False,False,False,Q3542165,Clyde Tunnel,exact_sitelink_coordinate_consistent,0.003,exact_sitelink,2534263852,True,False,False,True
+Glas,6,"Kingston Bridge, Glasgow",55.85528,-4.27,6,Transport,False,False,False,Q6413473,Kingston Bridge,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2534266511,True,False,False,True
+Glas,7,University of Strathclyde,55.8617167,-4.241699833,7,Education,False,False,False,Q1859178,University of Strathclyde,exact_sitelink_coordinate_consistent,0.007,exact_sitelink,2560838685,True,False,False,True
+Glas,8,Glasgow Caledonian University,55.86722,-4.25016,8,Education,False,False,False,Q1353139,Glasgow Caledonian University,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2557959881,True,False,False,True
+Glas,9,University of Glasgow,55.87194,-4.2875,9,Education,False,False,False,Q192775,University of Glasgow,exact_sitelink_coordinate_consistent,0.047,exact_sitelink,2560508871,True,False,False,True
+Glas,10,University of Glasgow Medical School,55.872,-4.288,10,Education,False,False,False,Q7895468,University of Glasgow Medical School,exact_sitelink_coordinate_consistent,0.007,wikipedia_redirect,2535409772,True,False,False,True
+Glas,11,Glasgow School of Art,55.86611,-4.26389,11,Education,False,False,False,Q748106,Glasgow School of Art,exact_sitelink_coordinate_consistent,0.011,exact_sitelink,2556699304,True,False,False,True
+Glas,12,Royal Scottish Academy of Music and Drama,55.86254,-4.2567,12,Education,False,False,False,Q3446028,Royal Conservatoire of Scotland,exact_sitelink_coordinate_consistent,0.004,wikipedia_redirect,2516514387,True,False,False,True
+Glas,13,"St. Mungo's Cathedral, Glasgow",55.862972,-4.234444,13,Religion,True,False,False,Q1473348,Glasgow Cathedral,exact_sitelink_coordinate_consistent,0.017,wikipedia_redirect,2553600310,True,False,False,True
+Glas,14,Glasgow Central Mosque,55.8525,-4.25083,14,Religion,True,False,False,Q3493426,Glasgow Central Mosque,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2529502885,True,False,False,True
+Glas,15,Ashton Lane,55.874757,-4.292865,15,Shopping,False,False,False,Q4806055,Ashton Lane,exact_sitelink_coordinate_consistent,0.005,exact_sitelink,2252891400,True,False,False,True
+Glas,16,Buchanan Street,55.8606833,-4.254111,16,Shopping,False,False,False,Q4567908,Buchanan Street,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2512546699,True,False,False,True
+Glas,17,Burrell Collection,55.83083,-4.3075,17,Museum,True,False,False,Q1016909,Burrell Collection,exact_sitelink_coordinate_consistent,0.018,exact_sitelink,2542568829,True,False,False,True
+Glas,18,Celtic Park,55.84972,-4.20556,18,Park,False,False,False,Q216037,Celtic Park,exact_sitelink_coordinate_consistent,0.002,exact_sitelink,2528900139,True,False,False,True
+Glas,19,Clyde Auditorium,55.859496,-4.287962,19,Structure,False,False,False,Q2980424,SEC Armadillo,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2484678035,True,False,False,True
+Glas,20,Glasgow Royal Concert Hall,55.864503,-4.252921,20,Structure,False,False,False,Q5566904,Glasgow Royal Concert Hall,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2550114796,True,False,False,True
+Glas,21,Gallery of Modern Art,55.8602,-4.25249,21,Museum,True,False,False,Q19956907,Gallery of Modern Art,exact_sitelink_no_coordinate,,exact_sitelink,2544071908,False,True,False,False
+Glas,22,Glasgow Green,55.8502639,-4.2392833,22,Park,False,False,False,Q5566834,Glasgow Green,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2557923142,True,False,False,True
+Glas,23,Holmwood House,55.8097,-4.25936,23,Structure,False,False,False,Q5883823,Holmwood House,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2254310170,True,False,False,True
+Glas,24,Ibrox Stadium,55.8532056,-4.3092583,24,Structure,False,False,False,Q208709,Ibrox Stadium,exact_sitelink_coordinate_consistent,0.018,exact_sitelink,2528901959,True,False,False,True
+Glas,25,Glasgow Museum of Transport,55.8687,-4.295,25,Museum,True,False,False,Q3511316,Glasgow Museum of Transport,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2375604858,True,False,False,True
+Glas,26,Kelvingrove Art Gallery and Museum,55.8685806,-4.2905056,26,Museum,True,False,False,Q1061094,Kelvingrove Art Gallery and Museum,exact_sitelink_coordinate_consistent,0.009,exact_sitelink,2555452560,True,False,False,True
+Glas,27,Pollok House,55.8279278,-4.3182222,27,Structure,False,False,False,Q1489852,Pollok House,exact_sitelink_coordinate_consistent,0.02,exact_sitelink,2534523752,True,False,False,True
+Glas,28,Willow Tearooms,55.86502917,-4.26116083,28,Structure,False,False,False,Q1537781,Willow Tearooms,exact_sitelink_coordinate_consistent,0.012,exact_sitelink,2526354432,True,False,False,True
+Glas,29,Glasgow International Hilton Hotel,55.8613694,-4.26861,29,Structure,False,False,False,Q5764570,Hilton Glasgow,exact_sitelink_coordinate_consistent,0.003,wikipedia_redirect,2484607178,True,False,False,True
+Osak,1,Osaka Aquarium Kaiyukan,34.654472,135.428889,1,Amusement,False,False,False,Q1191885,Osaka Aquarium Kaiyukan,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2394861423,True,False,False,True
+Osak,2,Tempozan Ferris Wheel,34.6561657,135.431031,2,Amusement,False,False,False,Q548263,Tempōzan Giant Ferris Wheel,exact_sitelink_coordinate_consistent,0.005,exact_sitelink,2343334277,True,False,False,True
+Osak,3,Tennōji Zoo,34.652556,135.508496,3,Amusement,False,False,False,Q1054648,Tennōji Zoo,exact_sitelink_coordinate_consistent,0.046,exact_sitelink,2489668740,True,False,False,True
+Osak,4,Universal Studios Japan,34.66472,135.43306,4,Amusement,False,False,False,Q1375103,Universal Studios Japan,exact_sitelink_coordinate_consistent,0.006,exact_sitelink,2535193732,True,False,False,True
+Osak,5,HEP Five,34.7040028,135.5004466,5,Amusement,False,False,False,Q751156,HEP,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2471864748,True,False,False,True
+Osak,6,Umeda Sky Building,34.70528,135.48972,6,Amusement,False,False,False,Q1151808,Umeda Sky Building,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2510707031,True,False,False,True
+Osak,7,Nakanoshima Park,34.693056,135.506431,7,Park,False,False,False,Q6960289,Nakanoshima Park,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2372722304,True,False,False,True
+Osak,8,Osaka Castle,34.68722,135.52583,8|13,Historical|Park,True,False,False,Q321242,Osaka Castle,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2555642612,True,False,False,True
+Osak,9,Sumiyoshi Park,34.6124,135.48848,9,Park,False,False,False,Q7637168,Sumiyoshi Park,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2492326806,True,False,False,True
+Osak,10,Tennōji Park,34.64985,135.51111,10,Park,False,False,False,Q5364342,Tennōji Park,exact_sitelink_coordinate_consistent,0.103,exact_sitelink,2413694549,True,False,False,True
+Osak,11,Utsubo Park,34.685055,135.492786,11,Park,False,False,False,Q7903271,Utsubo Park,exact_sitelink_coordinate_consistent,0.02,exact_sitelink,2373910961,True,False,False,True
+Osak,12,Nagai Park,34.61194,135.52056,12,Park,False,False,False,Q5359309,Nagai Park,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2434053962,True,False,False,True
+Osak,14,Sankō Shrine,34.67306,135.52944,14,Historical,True,False,False,Q3472342,Sankō Shrine,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2554317152,True,False,False,True
+Osak,15,Shitennō-ji,34.6539,135.51645,15,Historical,True,False,False,Q339859,Shitennō-ji Temple,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2559733465,True,False,False,True
+Osak,16,Sumiyoshi taisha,34.6127972,135.4929417,16,Historical,True,False,False,Q705949,Sumiyoshi Taisha,exact_sitelink_coordinate_consistent,0.032,wikipedia_redirect,2559824159,True,False,False,True
+Osak,17,Tamatsukuri Inari Shrine,34.67806,135.53,17,Historical,True,False,False,Q3514709,Tamatsukuri Inari Shrine,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2560176330,True,False,False,True
+Osak,18,Ōsaka Tenmangū Shrine,34.696025,135.5126194,18,Historical,True,False,False,Q385793,Ōsaka Tenmangū,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2554423903,True,False,False,True
+Osak,19,Dōtonbori,34.668507,135.480684,19,Entertainment,False,False,False,Q964876,Dōtonbori,exact_sitelink_coordinate_consistent,1.894,exact_sitelink,2555006950,True,False,False,True
+Osak,20,Namba,34.66722,135.50028,20,Entertainment,False,False,False,Q1075406,Namba,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2485240767,True,False,False,True
+Osak,21,Shinsaibashi,34.6725,135.5,21,Entertainment,False,False,False,Q1049109,Shinsaibashi,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2486302247,True,False,False,True
+Osak,22,Shinsekai,34.65222,135.50611,22,Entertainment,False,False,False,Q1049117,Shinsekai,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2547165087,True,False,False,True
+Osak,23,Nipponbashi,34.65972,135.50583,23,Entertainment,False,False,False,Q5191476,Nipponbashi,exact_sitelink_coordinate_consistent,1.037,exact_sitelink,2527754033,True,False,False,True
+Osak,24,Amerikamura,34.672086,135.49796,24,Entertainment,False,False,False,Q4745722,Amerikamura,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2536573240,True,False,False,True
+Osak,25,Jūsō,34.71971,135.482755,25,Entertainment,False,False,False,Q6322366,Jūsō,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2485114195,True,False,False,True
+Osak,26,Kyōbashi#Osaka,35.6751778,139.7692944,26,Entertainment,False,False,True,Q1112936,Kyōbashi,exact_sitelink_no_coordinate,,wikipedia_redirect,2538958797,False,True,False,False
+Osak,27,Zepp,34.657361,135.501306,27,Entertainment,False,False,False,Q681144,Zepp,exact_sitelink_coordinate_mismatch,1061.175,exact_sitelink,2527079382,False,False,False,False
+Osak,28,"Doyama, Osaka, Japan",34.703165,135.502882,28,Entertainment,False,False,False,Q5303713,"Doyama, Osaka, Japan",exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2525239507,True,False,False,True
+Osak,29,Tobita Shinchi,34.644325,135.5054444,29,Entertainment,False,False,False,Q7811711,Tobita Shinchi,exact_sitelink_coordinate_consistent,0.041,exact_sitelink,2548845470,True,False,False,True
+Pert,1,Perth Town Hall,-31.955,115.860556,1,Structure,False,False,False,Q7170899,Perth Town Hall,exact_sitelink_coordinate_consistent,0.012,exact_sitelink,2258522221,True,False,False,True
+Pert,2,"Parliament House, Perth",-31.951634,115.847209,2,Structure,False,False,False,Q1371068,Parliament House,exact_sitelink_coordinate_consistent,0.02,exact_sitelink,2296521225,True,False,False,True
+Pert,3,State Library of Western Australia,-31.949031,115.860513,3,Structure,False,False,False,Q7603408,State Library of Western Australia,exact_sitelink_coordinate_consistent,0.003,exact_sitelink,2550263637,True,False,False,True
+Pert,4,"Chinatown, Perth",-31.946,115.854,4,Precinct,False,False,False,Q24089730,"Chinatown, Perth",exact_sitelink_coordinate_consistent,0.456,exact_sitelink,2516805291,True,False,False,True
+Pert,5,"Northbridge, Western Australia",-31.946,115.854,5,Precinct,False,False,False,Q4327495,Northbridge,exact_sitelink_coordinate_consistent,0.583,exact_sitelink,2502147315,True,False,False,True
+Pert,6,Supreme Court Gardens,-31.9585,115.8599,6,Park,False,False,False,Q18165701,Supreme Court Gardens,exact_sitelink_coordinate_consistent,0.009,exact_sitelink,2505760180,True,False,False,True
+Pert,7,Stirling Gardens,-31.9565,115.86,7,Park,False,False,False,Q7617571,Stirling Gardens,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2505759090,True,False,False,True
+Pert,8,"Queens Gardens, Perth",-31.9595,115.8766,8,Park,False,False,False,Q7270764,Queens Gardens,exact_sitelink_coordinate_consistent,0.038,exact_sitelink,1950489562,True,False,False,True
+Pert,9,"Russell Square, Perth",-31.9461,115.8555,9,Park,False,False,False,Q14935905,"Russell Square, Perth",exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2344428009,True,False,False,True
+Pert,10,"Kings Park, Western Australia",-31.96,115.83,10,Park,False,False,False,Q3495894,Kings Park,exact_sitelink_coordinate_consistent,0.287,exact_sitelink,2498100105,True,False,False,True
+Pert,11,"Hyde Park, Perth",-31.9379,115.8628,11,Park,False,False,False,Q14935818,Hyde Park,exact_sitelink_coordinate_consistent,0.009,exact_sitelink,2072942080,True,False,False,True
+Pert,12,Art Gallery of Western Australia,-31.950624,115.860898,12,Cultural,True,False,False,Q4796833,Art Gallery of Western Australia,exact_sitelink_coordinate_consistent,0.006,exact_sitelink,2550003352,True,False,False,True
+Pert,13,Western Australian Museum,-31.94956,115.861391,13,Cultural,True,False,False,Q3567483,Western Australian Museum,exact_sitelink_coordinate_consistent,0.096,exact_sitelink,2474427624,True,False,False,True
+Pert,14,WACA Ground,-31.96,115.87972,14,Sport,False,False,False,Q2738971,WACA Ground,exact_sitelink_coordinate_consistent,0.027,exact_sitelink,2451730520,True,False,False,True
+Pert,15,Perth Oval,-31.94583,115.87,15,Sport,False,False,False,Q978904,Perth Rectangular Stadium,exact_sitelink_coordinate_consistent,0.011,wikipedia_redirect,2487518686,True,False,False,True
+Pert,16,East Perth railway station,-31.943896,115.876976,16,Transport,False,False,False,Q5329143,East Perth railway station,exact_sitelink_coordinate_consistent,0.002,exact_sitelink,2535662805,True,False,False,True
+Pert,17,Perth railway station,-31.951493,115.860448,17,Transport,False,False,False,Q7170917,Perth railway station,exact_sitelink_coordinate_consistent,0.02,exact_sitelink,2505337690,True,False,False,True
+Pert,18,Esplanade railway station,-31.956586,115.855476,18,Transport,False,False,False,Q5399042,Elizabeth Quay railway station,exact_sitelink_coordinate_consistent,0.04,wikipedia_redirect,2493296025,True,False,False,True
+Pert,19,Esplanade Busport,-31.9562,115.85465,19,Transport,False,False,False,Q14935793,Elizabeth Quay Bus Station,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2481384508,True,False,False,True
+Pert,20,Wellington Street bus station,-31.9505,115.857,20,Transport,False,False,False,Q7981514,Wellington Street bus station,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2482212720,True,False,False,True
+Pert,21,Crown Perth,-31.96083,115.89556,21,Entertainment,False,False,False,Q1017078,Crown Perth,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2098756181,True,False,False,True
+Pert,22,"Perth Concert Hall, Western Australia",-31.95806,115.86361,22,Entertainment,False,False,False,Q7170839,Perth Concert Hall,exact_sitelink_coordinate_consistent,0.024,wikipedia_redirect,2505335558,True,False,False,True
+Pert,23,Perth Arena,-31.94833,115.85194,23,Entertainment,False,False,False,Q2035401,Perth Arena,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2414919458,True,False,False,True
+Pert,24,Cottesloe Beach,-31.993,115.757,24,Beach,False,False,False,Q21955723,Cottesloe Beach,exact_sitelink_coordinate_consistent,0.681,exact_sitelink,2522728825,True,False,False,True
+Pert,25,"Coogee, Western Australia",-32.119,115.766,25,Beach,False,False,False,Q5166851,Coogee,exact_sitelink_coordinate_consistent,0.378,exact_sitelink,2496543973,True,False,False,True
+Toro,1,Air Canada Centre,43.64333,-79.37917,1,Sport,False,False,False,Q406972,Scotiabank Arena,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2513198505,True,False,False,True
+Toro,2,BMO Field,43.63278,-79.41861,2,Sport,False,False,False,Q796351,BMO Field,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2520995349,True,False,False,True
+Toro,3,Maple Leaf Gardens,43.66222,-79.38028,3,Sport,False,False,False,Q1814534,Maple Leaf Gardens,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2545530326,True,False,False,True
+Toro,4,Rogers Centre,43.64139,-79.38917,4,Sport,False,False,False,Q76318,Rogers Centre,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2539727922,True,False,False,True
+Toro,5,Woodbine Racetrack,43.712525,-79.6020417,5,Sport,False,False,False,Q3135941,Woodbine Racetrack,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,1729984495,True,False,False,True
+Toro,6,Art Gallery of Ontario,43.65389,-79.39278,6,Cultural,True,False,False,Q670250,Art Gallery of Ontario,exact_sitelink_coordinate_consistent,0.031,exact_sitelink,2551842557,True,False,False,True
+Toro,7,Hockey Hall of Fame,43.646976,-79.377253,7,Cultural,True,False,False,Q1136687,Hockey Hall of Fame,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2514360383,True,False,False,True
+Toro,8,Ripley's Aquarium of Canada,43.642481,-79.38605,8,Cultural,True,False,False,Q14875406,Ripley's Aquarium of Canada,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2513543946,True,False,False,True
+Toro,9,Ontario Science Centre,43.71667,-79.33833,9,Cultural,True,False,False,Q1500067,Ontario Science Centre,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2478584741,True,False,False,True
+Toro,10,Riverdale Farm,43.667111,-79.361294,10,Cultural,True,False,False,Q7338138,Riverdale Farm,exact_sitelink_coordinate_consistent,0.001,exact_sitelink,2364506705,True,False,False,True
+Toro,11,Royal Ontario Museum,43.6675,-79.39417,11,Cultural,True,False,False,Q649250,Royal Ontario Museum,exact_sitelink_coordinate_consistent,0.042,exact_sitelink,2551341510,True,False,False,True
+Toro,12,Toronto Zoo,43.8202778,-79.1827778,12,Cultural,True,False,False,Q741395,Toronto Zoo,exact_sitelink_coordinate_consistent,0.045,exact_sitelink,2548996168,True,False,False,True
+Toro,13,Casa Loma,43.6781,-79.4095,13,Cultural,True,False,False,Q1046446,Casa Loma,exact_sitelink_coordinate_consistent,0.013,exact_sitelink,2525039713,True,False,False,True
+Toro,14,Canadian National Exhibition,43.63333,-79.41667,14,Amusement,False,False,False,Q857399,Canadian National Exhibition,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2514639632,True,False,False,True
+Toro,15,Centreville Amusement Park,43.6203083,-79.3736778,15,Amusement,False,False,False,Q5062718,Centreville Amusement Park,exact_sitelink_coordinate_consistent,0.002,exact_sitelink,2343222690,True,False,False,True
+Toro,16,CN Tower,43.6426,-79.3871,16,Amusement,False,False,False,Q134883,CN Tower,exact_sitelink_coordinate_consistent,0.017,exact_sitelink,2542555379,True,False,False,True
+Toro,17,Exhibition Place,43.63278,-79.41611,17,Amusement,False,False,False,Q1383752,Exhibition Place,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2491205201,True,False,False,True
+Toro,18,Sunnyside Amusement Park,43.637923,-79.450786,18,Amusement,False,False,False,Q3503945,Sunnyside Amusement Park,exact_sitelink_coordinate_consistent,0.003,exact_sitelink,2311079391,True,False,False,True
+Toro,19,Toronto Islands,43.62083,-79.37861,19,Beach,False,False,False,Q248110,Toronto Islands,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2510434181,True,False,False,True
+Toro,20,High Park,43.646821,-79.462996,20,Beach,False,False,False,Q1617812,High Park,exact_sitelink_coordinate_consistent,0.002,exact_sitelink,2400021837,True,False,False,True
+Toro,21,Yonge-Dundas Square,43.65611,-79.38028,21,Beach,False,False,False,Q607810,Yonge Dundas Square,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2524071289,True,False,False,True
+Toro,22,Nathan Phillips Square,43.6525,-79.38361,22,Beach,False,False,False,Q2915521,Nathan Phillips Square,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2524070249,True,False,False,True
+Toro,23,Toronto Eaton Centre,43.653982,-79.380319,23,Shopping,False,False,False,Q1278419,Toronto Eaton Centre,exact_sitelink_coordinate_consistent,0.011,exact_sitelink,2505182178,True,False,False,True
+Toro,24,Harbourfront Centre,43.63849,-79.382068,24,Shopping,False,False,False,Q14875166,Harbourfront Centre,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2475870274,True,False,False,True
+Toro,25,Kensington Market,43.6547722,-79.4006778,25,Shopping,False,False,False,Q3195260,Kensington Market,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2485045776,True,False,False,True
+Toro,26,Yorkdale Shopping Centre,43.725599,-79.452696,26,Shopping,False,False,False,Q8055633,Yorkdale Shopping Centre,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2517443035,True,False,False,True
+Toro,27,"Yorkville, Toronto",43.67028,-79.39111,27,Shopping,False,False,False,Q1022897,Yorkville,exact_sitelink_coordinate_consistent,0.002,exact_sitelink,2538295385,True,False,False,True
+Toro,28,Old City Hall (Toronto),43.6525,-79.38167,28,Structure,False,False,False,Q439501,Old City Hall,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2397115457,True,False,False,True
+Toro,29,Ontario Legislative Building,43.662447,-79.391708,29,Structure,False,False,False,Q980270,Ontario Legislative Building,exact_sitelink_coordinate_consistent,0.005,exact_sitelink,2517846439,True,False,False,True
+Toro,30,Union Station (Toronto),43.64528,-79.38056,30,Structure,False,False,False,Q511316,Union Station,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2556998468,True,False,False,True
+Vien,1,Schönbrunn Palace,48.184516,16.311865,1,Palace,True,False,False,Q131330,Schönbrunn Palace,exact_sitelink_coordinate_consistent,0.043,exact_sitelink,2551266506,True,False,False,True
+Vien,2,Tiergarten Schönbrunn,48.18222,16.3025,2,Zoo,False,False,False,Q752283,Schönbrunn Zoo,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2510731179,True,False,False,True
+Vien,3,Wiener Riesenrad,48.2166505,16.3959494,3,Entertainment,False,False,False,Q697578,Wiener Riesenrad,exact_sitelink_coordinate_consistent,0.02,exact_sitelink,2432271267,True,False,False,True
+Vien,4,"Albertina, Vienna",48.20444,16.36778,4,Museum,True,False,False,Q371908,Albertina,exact_sitelink_coordinate_consistent,0.052,wikipedia_redirect,2560546580,True,False,False,True
+Vien,5,Hofburg Palace,48.206507,16.365262,5,Palace,True,False,False,Q46242,Hofburg Palace,exact_sitelink_coordinate_consistent,0.013,wikipedia_redirect,2534711820,True,False,False,True
+Vien,6,Kunsthistorisches Museum,48.2037,16.3614,6,Museum,True,False,False,Q95569,Kunsthistorisches Museum,exact_sitelink_coordinate_consistent,0.025,exact_sitelink,2558731053,True,False,False,True
+Vien,7,Belvedere (palace),48.191439,16.380787,7|12,Palace,True,False,False,Q211818,Belvedere,exact_sitelink_coordinate_consistent,0.219,wikipedia_redirect,2529490261,True,False,False,True
+Vien,8,Donauturm,48.24,16.41083,8,Structure,False,False,False,Q686544,Donauturm,exact_sitelink_coordinate_consistent,0.065,exact_sitelink,2547551696,True,False,False,True
+Vien,9,Naturhistorisches Museum,48.2052,16.3599,9,Museum,True,False,False,Q688704,"Natural History Museum, Vienna",exact_sitelink_coordinate_consistent,0.008,wikipedia_redirect,2552806673,True,False,False,True
+Vien,10,Haus des Meeres,48.1975,16.35306,10,Zoo,False,False,False,Q460607,Haus des Meeres,exact_sitelink_coordinate_consistent,0.025,exact_sitelink,2479511568,True,False,False,True
+Vien,11,Leopold Museum,48.2025,16.35889,11,Museum,True,False,False,Q59435,Leopold Museum,exact_sitelink_coordinate_consistent,0.025,exact_sitelink,2516869361,True,False,False,True
+Vien,13,Technisches Museum Wien,48.19083,16.3175,13,Museum,True,False,False,Q372676,Vienna Technical Museum,exact_sitelink_coordinate_consistent,0.041,wikipedia_redirect,2517657974,True,False,False,True
+Vien,14,Schatzkammer (Vienna),48.20667,16.36556,14,Museum,True,False,False,Q317701,Imperial Treasury,exact_sitelink_coordinate_consistent,0.015,wikipedia_redirect,2558758158,True,False,False,True
+Vien,15,Spanish Riding School,48.2075,16.36611,15,Entertainment,False,False,False,Q269273,Spanish Riding School,exact_sitelink_coordinate_consistent,0.0,exact_sitelink,2505006571,True,False,False,True
+Vien,16,MUMOK,48.203722,16.357444,16,Museum,True,False,False,Q689951,Mumok,exact_sitelink_coordinate_consistent,0.0,wikipedia_redirect,2536110344,True,False,False,True
+Vien,17,"St. Stephen's Cathedral, Vienna",48.2085,16.373,17,Historical,True,False,False,Q5943,St. Stephen's Cathedral,exact_sitelink_coordinate_consistent,0.021,exact_sitelink,2550668771,True,False,False,True
+Vien,18,"Imperial Crypt, Vienna",48.20556,16.36972,18,Historical,True,False,False,Q662652,Imperial Crypt,exact_sitelink_coordinate_consistent,0.001,wikipedia_redirect,2505931658,True,False,False,True
+Vien,19,Haus der Musik,48.20417,16.37333,19,Museum,True,False,False,Q351228,Haus der Musik,exact_sitelink_coordinate_consistent,0.004,exact_sitelink,2387969450,True,False,False,True
+Vien,20,"St. Charles's Church, Vienna",48.198333,16.371389,20,Historical,True,False,False,Q408847,Karlskirche,exact_sitelink_coordinate_consistent,0.037,wikipedia_redirect,2494362022,True,False,False,True
+Vien,21,Museum für angewandte Kunst Wien,48.2075,16.38167,21,Museum,True,False,False,Q478455,MAK – Museum of Applied Arts,exact_sitelink_coordinate_consistent,0.029,wikipedia_redirect,2522326828,True,False,False,True
+Vien,22,KunstHausWien,48.210917,16.393389,22,Museum,True,False,False,Q638493,KunstHausWien,exact_sitelink_coordinate_consistent,0.021,exact_sitelink,2514024846,True,False,False,True
+Vien,23,Vienna State Opera,48.20278,16.368472,23,Historical,True,False,False,Q209937,Vienna State Opera house,exact_sitelink_coordinate_consistent,0.08,exact_sitelink,2542500932,True,False,False,True
+Vien,24,Palmenhaus Schönbrunn,48.18472,16.30278,24,Park,False,False,False,Q874600,Palmenhaus Schönbrunn,exact_sitelink_coordinate_consistent,0.056,exact_sitelink,2427943802,True,False,False,True
+Vien,25,Austrian National Library,48.20611,16.36639,25,Historical,True,False,False,Q304037,Austrian National Library,exact_sitelink_coordinate_consistent,0.01,exact_sitelink,2555448335,True,False,False,True
+Vien,26,Austrian Parliament Building,48.20806,16.35806,26,Historical,True,False,False,Q702121,Austrian Parliament Building,exact_sitelink_coordinate_consistent,0.047,exact_sitelink,2550788239,True,False,False,True
+Vien,27,Mozarthaus Vienna,48.20778,16.37528,27,Cultural,True,False,False,Q387667,Mozarthaus Vienna,exact_sitelink_coordinate_consistent,0.05,exact_sitelink,2492982556,True,False,False,True
+Vien,28,Heeresgeschichtliches Museum,48.18528,16.3875,28,Museum,True,False,False,Q700751,Heeresgeschichtliches Museum,exact_sitelink_coordinate_consistent,0.012,wikipedia_redirect,2537767198,True,False,False,True
+Vien,29,Wüstenhaus Schönbrunn,48.18472,16.30167,29,Park,False,False,False,Q1430654,Wüstenhaus Schönbrunn,exact_sitelink_coordinate_consistent,0.014,exact_sitelink,2138493521,True,False,False,True

@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "python-docx": "1.2.0"
+  },
+  "blas_threads": 1,
+  "from_raw": true,
+  "raw_archive_sha256": "7a5767a0c86e8f2213872c7b4aacc5c62d71b923f011f01a54b1e81024266410",
+  "total_seconds": 74.3129242,
+  "stages": [
+    {
+      "stage": "source_prepare",
+      "returncode": 0,
+      "seconds": 1.8437300860000505
+    },
+    {
+      "stage": "source_finalize",
+      "returncode": 0,
+      "seconds": 1.4393983810000464
+    },
+    {
+      "stage": "prepare",
+      "returncode": 0,
+      "seconds": 53.33725074999984
+    },
+    {
+      "stage": "run",
+      "returncode": 0,
+      "seconds": 6.524438300999918
+    },
+    {
+      "stage": "diagnostics",
+      "returncode": 0,
+      "seconds": 4.548193023999829
+    },
+    {
+      "stage": "analysis",
+      "returncode": 0,
+      "seconds": 5.355025406000095
+    },
+    {
+      "stage": "tests",
+      "returncode": 0,
+      "seconds": 1.2492512230001012
+    }
+  ],
+  "tests": 15,
+  "scope": "numerical and artifact-generation pipeline; DOCX visual rendering reviewed separately"
+}

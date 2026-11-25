@@ -1,0 +1,33 @@
+city
+Buda    30
+Edin    23
+Vien    25
+date_window city      split  all_contexts  all_users  warm_contexts  warm_users
+       main Buda       test           495         96            158          31
+       main Buda      train          1546        289            463          86
+       main Buda validation           535        104            126          29
+       main Edin       test           652        132            225          41
+       main Edin      train          1722        390            357          95
+       main Edin validation           622        143            173          36
+       main Vien       test           430        105            114          21
+       main Vien      train          1508        327            336          79
+       main Vien validation           497        113            137          29
+   from1990 Buda       test           495         96            158          31
+   from1990 Buda      train          1546        289            463          86
+   from1990 Buda validation           535        104            126          29
+   from1990 Edin       test           652        132            225          41
+   from1990 Edin      train          1724        391            357          95
+   from1990 Edin validation           622        143            173          36
+   from1990 Vien       test           430        105            114          21
+   from1990 Vien      train          1508        327            336          79
+   from1990 Vien validation           497        113            137          29
+   from2004 Buda       test           495         96            157          30
+   from2004 Buda      train          1523        286            446          84
+   from2004 Buda validation           535        104            126          29
+   from2004 Edin       test           652        132            225          41
+   from2004 Edin      train          1684        382            351          93
+   from2004 Edin validation           622        143            173          36
+   from2004 Vien       test           430        105            114          21
+   from2004 Vien      train          1507        326            336          79
+   from2004 Vien validation           497        113            137          29
+cultural edge counts {'Buda': 59, 'Edin': 19, 'Vien': 42}

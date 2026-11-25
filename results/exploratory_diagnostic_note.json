@@ -1,0 +1,6 @@
+{
+  "reason": "The original validation-optimal nested hybrid selected eta=0 for all metadata representations. Its corruption/ablation robustness is mathematically constant. The following exploratory analyses assess an explicitly positive metadata component. They do not replace primary H1/H2 or constitute independent confirmation.",
+  "selection": "reuse the saved validation grid; require eta>0, no new test-based tuning",
+  "reported": "all forced variants and all seeds, including losses",
+  "primary_protocol_unchanged": true
+}

@@ -1,0 +1,337 @@
+{
+  "nodes": [
+    {
+      "id": "poi:Vien:1",
+      "kind": "poi",
+      "label": "Schönbrunn Palace",
+      "qid": "Q131330"
+    },
+    {
+      "id": "poi:Vien:3",
+      "kind": "poi",
+      "label": "Wiener Riesenrad",
+      "qid": "Q697578"
+    },
+    {
+      "id": "poi:Vien:4",
+      "kind": "poi",
+      "label": "Albertina, Vienna",
+      "qid": "Q371908"
+    },
+    {
+      "id": "poi:Vien:5",
+      "kind": "poi",
+      "label": "Hofburg Palace",
+      "qid": "Q46242"
+    },
+    {
+      "id": "poi:Vien:6",
+      "kind": "poi",
+      "label": "Kunsthistorisches Museum",
+      "qid": "Q95569"
+    },
+    {
+      "id": "poi:Vien:7",
+      "kind": "poi",
+      "label": "Belvedere (palace)",
+      "qid": "Q211818"
+    },
+    {
+      "id": "poi:Vien:8",
+      "kind": "poi",
+      "label": "Donauturm",
+      "qid": "Q686544"
+    },
+    {
+      "id": "poi:Vien:9",
+      "kind": "poi",
+      "label": "Naturhistorisches Museum",
+      "qid": "Q688704"
+    },
+    {
+      "id": "poi:Vien:11",
+      "kind": "poi",
+      "label": "Leopold Museum",
+      "qid": "Q59435"
+    },
+    {
+      "id": "poi:Vien:13",
+      "kind": "poi",
+      "label": "Technisches Museum Wien",
+      "qid": "Q372676"
+    },
+    {
+      "id": "poi:Vien:14",
+      "kind": "poi",
+      "label": "Schatzkammer (Vienna)",
+      "qid": "Q317701"
+    },
+    {
+      "id": "poi:Vien:15",
+      "kind": "poi",
+      "label": "Spanish Riding School",
+      "qid": "Q269273"
+    },
+    {
+      "id": "poi:Vien:16",
+      "kind": "poi",
+      "label": "MUMOK",
+      "qid": "Q689951"
+    },
+    {
+      "id": "poi:Vien:17",
+      "kind": "poi",
+      "label": "St. Stephen's Cathedral, Vienna",
+      "qid": "Q5943"
+    },
+    {
+      "id": "poi:Vien:18",
+      "kind": "poi",
+      "label": "Imperial Crypt, Vienna",
+      "qid": "Q662652"
+    },
+    {
+      "id": "poi:Vien:19",
+      "kind": "poi",
+      "label": "Haus der Musik",
+      "qid": "Q351228"
+    },
+    {
+      "id": "poi:Vien:20",
+      "kind": "poi",
+      "label": "St. Charles's Church, Vienna",
+      "qid": "Q408847"
+    },
+    {
+      "id": "poi:Vien:21",
+      "kind": "poi",
+      "label": "Museum für angewandte Kunst Wien",
+      "qid": "Q478455"
+    },
+    {
+      "id": "poi:Vien:22",
+      "kind": "poi",
+      "label": "KunstHausWien",
+      "qid": "Q638493"
+    },
+    {
+      "id": "poi:Vien:23",
+      "kind": "poi",
+      "label": "Vienna State Opera",
+      "qid": "Q209937"
+    },
+    {
+      "id": "poi:Vien:24",
+      "kind": "poi",
+      "label": "Palmenhaus Schönbrunn",
+      "qid": "Q874600"
+    },
+    {
+      "id": "poi:Vien:25",
+      "kind": "poi",
+      "label": "Austrian National Library",
+      "qid": "Q304037"
+    },
+    {
+      "id": "poi:Vien:26",
+      "kind": "poi",
+      "label": "Austrian Parliament Building",
+      "qid": "Q702121"
+    },
+    {
+      "id": "poi:Vien:27",
+      "kind": "poi",
+      "label": "Mozarthaus Vienna",
+      "qid": "Q387667"
+    },
+    {
+      "id": "poi:Vien:28",
+      "kind": "poi",
+      "label": "Heeresgeschichtliches Museum",
+      "qid": "Q700751"
+    },
+    {
+      "id": "class:historic_civic",
+      "kind": "class",
+      "label": "historic_civic"
+    },
+    {
+      "id": "class:historic_infrastructure",
+      "kind": "class",
+      "label": "historic_infrastructure"
+    },
+    {
+      "id": "class:museum_library",
+      "kind": "class",
+      "label": "museum_library"
+    },
+    {
+      "id": "class:palace_castle",
+      "kind": "class",
+      "label": "palace_castle"
+    },
+    {
+      "id": "class:performing_arts",
+      "kind": "class",
+      "label": "performing_arts"
+    },
+    {
+      "id": "class:religious",
+      "kind": "class",
+      "label": "religious"
+    }
+  ],
+  "edges": [
+    {
+      "source": "poi:Vien:24",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:26",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:3",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:8",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:4",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:6",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:9",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:11",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:13",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:14",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:16",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:19",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:21",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:22",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:25",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:27",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:28",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:1",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:5",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:7",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:15",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:23",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:17",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:18",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Vien:20",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    }
+  ],
+  "weighted_undirected": true
+}

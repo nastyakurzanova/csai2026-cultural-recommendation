@@ -1,0 +1,7 @@
+a,b,subset,metric,delta,ci_low,ci_high,p_two_sided,users_global,contexts,cities,bootstrap_draws_used,evaluation,beta,contexts_with_changed_weight
+AdaptiveNonzero,GraphPositive,all,NDCG5,-4.6374339512012085e-05,-0.00015216580152378967,0.0,1.0,313,1577,Buda|Vien|Edin,10000,reused,0.25,714
+AdaptiveNonzero,GraphPositive,two_profiles,NDCG5,0.0,0.0,0.0,1.0,118,652,Buda|Vien|Edin,10000,reused,0.25,532
+AdaptiveNonzero,GraphPositive,warm,NDCG5,0.0,0.0,0.0,1.0,88,497,Buda|Vien|Edin,10000,reused,0.25,428
+AdaptiveNonzero,GraphPositive,all,NDCG5,-0.003915241437030846,-0.012920296742201793,0.0,1.0,44,81,Delh|Glas|Osak|Pert|Toro,8697,transfer,0.25,20
+AdaptiveNonzero,GraphPositive,two_profiles,NDCG5,0.0,0.0,0.0,1.0,8,16,Delh|Pert|Toro,6296,transfer,0.25,11
+AdaptiveNonzero,GraphPositive,warm,NDCG5,0.0,0.0,0.0,1.0,4,9,Pert|Toro,8792,transfer,0.25,5

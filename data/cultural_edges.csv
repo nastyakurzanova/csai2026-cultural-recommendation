@@ -1,0 +1,121 @@
+city,poiID,property,target,label,statement_id,rank,reference_count,qualifiers_json,snapshot_revision,source_url
+Buda,1,P149,Q170292,Classicism,Q927806$42508B4B-6929-480D-94C1-B2189B2F3BBA,normal,1,{},2557666684,https://www.wikidata.org/wiki/Q927806
+Buda,1,P84,Q690112,Mihály Pollack,Q927806$4C6BF9DE-AE15-41C4-96A7-AD48FC5AF69D,normal,1,{},2557666684,https://www.wikidata.org/wiki/Q927806
+Buda,1,P84,Q1404630,Johann Nepomuk Amann,Q927806$cd30eb64-4980-2d2e-eee2-e367881f4254,normal,1,{},2557666684,https://www.wikidata.org/wiki/Q927806
+Buda,3,P149,Q1295040,Art Nouveau architecture,Q854317$c288e633-4116-d099-7c89-3241803188e1,normal,1,{},2383623664,https://www.wikidata.org/wiki/Q854317
+Buda,3,P84,Q1243875,Zsigmond Quittner,Q854317$f1d4004f-4fe7-b481-1b70-9bc9edea6167,normal,1,{},2383623664,https://www.wikidata.org/wiki/Q854317
+Buda,3,P84,Q1461564,József Vágó,Q854317$3a2541c8-403e-1ccb-e24f-dfdddd389ba6,normal,1,{},2383623664,https://www.wikidata.org/wiki/Q854317
+Buda,3,P84,Q15275947,László Vágó,Q854317$56b2ed37-40f7-8a1d-4ab8-910f830071e8,normal,1,{},2383623664,https://www.wikidata.org/wiki/Q854317
+Buda,4,P149,Q176483,Gothic architecture,Q46313$95B8D91D-4FD0-4C46-8328-DD1F5D14E436,normal,0,{},2557966990,https://www.wikidata.org/wiki/Q46313
+Buda,4,P149,Q236122,Renaissance architecture,Q46313$5a7c08a3-460e-0312-5867-271a017e22e6,normal,0,{},2557966990,https://www.wikidata.org/wiki/Q46313
+Buda,4,P149,Q840829,baroque architecture,Q46313$8a152a8c-4b62-6d9a-6648-c1175e05f945,normal,0,{},2557966990,https://www.wikidata.org/wiki/Q46313
+Buda,4,P84,Q1685720,Jean-Nicolas Jadot de Ville-Issey,Q46313$0301C0BD-2D44-434F-9ED3-34EAFCA72BED,normal,1,{},2557966990,https://www.wikidata.org/wiki/Q46313
+Buda,4,P84,Q1072997,Miklós Ybl,Q46313$d6f23e5e-4f67-44a8-273c-f58b645ada8b,normal,0,{},2557966990,https://www.wikidata.org/wiki/Q46313
+Buda,4,P84,Q698819,Alajos Hauszmann,Q46313$7ac60678-448e-8ff9-ba99-d6f028823f29,normal,0,{},2557966990,https://www.wikidata.org/wiki/Q46313
+Buda,5,P149,Q502163,Renaissance Revival architecture,Q36833$57c52904-43a1-e71a-211b-b7ad2eef37ec,normal,0,{},2515832112,https://www.wikidata.org/wiki/Q36833
+Buda,5,P84,Q1072997,Miklós Ybl,Q36833$4E5C5376-5848-4DBC-B6B6-E3A28C7E60C2,normal,1,{},2515832112,https://www.wikidata.org/wiki/Q36833
+Buda,7,P138,Q375307,Ferenc Széchényi,Q1063819$77e76e34-4899-696f-f4c8-d2d7b45c7ab0,normal,0,{},2558005780,https://www.wikidata.org/wiki/Q1063819
+Buda,8,P149,Q176483,Gothic architecture,Q493133$DADA21C2-07B8-41B4-BBFD-721B09F36DB9,normal,1,{},2489685284,https://www.wikidata.org/wiki/Q493133
+Buda,8,P149,Q186363,Gothic Revival,Q493133$a6a3bffa-4d95-e217-7087-3f5b71e5a946,normal,0,{},2489685284,https://www.wikidata.org/wiki/Q493133
+Buda,8,P84,Q460169,Frigyes Schulek,Q493133$132ade5b-492a-04c8-5e92-43460064f848,normal,1,{},2489685284,https://www.wikidata.org/wiki/Q493133
+Buda,8,P138,Q188634,Matthias Corvinus,Q493133$f52f0d60-49d1-bc31-b425-e13da1e32de2,normal,0,{},2489685284,https://www.wikidata.org/wiki/Q493133
+Buda,9,P149,Q186363,Gothic Revival,Q493117$8a987947-4231-8e43-3c91-4d13e0281cf0,normal,0,{},2513533625,https://www.wikidata.org/wiki/Q493117
+Buda,9,P149,Q744373,Romanesque Revival architecture,Q493117$a90dcfd1-4426-8ef9-38b0-509acd99c166,normal,0,{},2513533625,https://www.wikidata.org/wiki/Q493117
+Buda,9,P84,Q460169,Frigyes Schulek,Q493117$EB64C2EC-5E3C-4E64-99F9-5CFED1305AA2,normal,2,{},2513533625,https://www.wikidata.org/wiki/Q493117
+Buda,11,P149,Q911397,baroque revival,Q194783$26f5c49f-48f7-8fc0-9d87-04ac9579a68b,normal,0,{},2516595172,https://www.wikidata.org/wiki/Q194783
+Buda,11,P149,Q170292,Classicism,Q194783$502f22c1-420a-a354-b81e-78704b5a8404,normal,1,{},2516595172,https://www.wikidata.org/wiki/Q194783
+Buda,11,P149,Q502163,Renaissance Revival architecture,Q194783$e1864a0f-4c1a-b7bc-83a0-9840148b633f,normal,1,{},2516595172,https://www.wikidata.org/wiki/Q194783
+Buda,11,P84,Q899998,Győző Czigler,Q194783$105C2563-CA2C-4F84-99DE-540106020315,normal,1,{},2516595172,https://www.wikidata.org/wiki/Q194783
+Buda,11,P138,Q279397,István Széchenyi,Q194783$2048320e-4eb2-dfd2-bcac-f5b0ad9adfe2,normal,0,{},2516595172,https://www.wikidata.org/wiki/Q194783
+Buda,12,P149,Q2479493,eclectic architecture,Q1092030$67ddd44f-4fa8-9ccc-b4d7-547ddd128603,normal,1,{},2512688785,https://www.wikidata.org/wiki/Q1092030
+Buda,12,P149,Q176483,Gothic architecture,Q1092030$6f8b4e05-418d-58cb-b197-e999a1c495b2,normal,0,{},2512688785,https://www.wikidata.org/wiki/Q1092030
+Buda,12,P84,Q661956,Ignác Alpár,Q1092030$68DA0F1A-BC6E-4753-923D-766B25CAF3CE,normal,1,{},2512688785,https://www.wikidata.org/wiki/Q1092030
+Buda,13,P84,Q1000981,Frigyes Feszl,Q674032$a98459cb-4d63-786f-5507-9830470221da,normal,0,{},2344113598,https://www.wikidata.org/wiki/Q674032
+Buda,15,P138,Q41309,Franz Liszt,Q847099$4aa718bc-4980-894c-ffe7-149831471b46,normal,0,{},2557095675,https://www.wikidata.org/wiki/Q847099
+Buda,16,P149,Q1295040,Art Nouveau architecture,Q646140$AAD92E42-C2B7-445A-80F7-FFC84B110260,normal,0,{},2502454639,https://www.wikidata.org/wiki/Q646140
+Buda,16,P138,Q577122,Gellért Hill,Q646140$c9610c2c-401e-5581-1296-157df141701f,normal,0,{},2502454639,https://www.wikidata.org/wiki/Q646140
+Buda,21,P149,Q1295040,Art Nouveau architecture,Q195344$9D339797-25B3-4CD1-A7DF-A896AAF2263D,normal,0,{},2555867031,https://www.wikidata.org/wiki/Q195344
+Buda,21,P84,Q1231856,Samu Pecz,Q195344$e1ce725d-4d01-467c-6a87-c366f722b25d,normal,1,{},2555867031,https://www.wikidata.org/wiki/Q195344
+Buda,22,P149,Q1295040,Art Nouveau architecture,Q915195$31861553-406a-2e41-3a2d-d295f3731051,normal,0,{},2527242411,https://www.wikidata.org/wiki/Q915195
+Buda,22,P84,Q998610,János Feketeházy,Q915195$8918C7E7-064D-4451-BA2B-A54D208C37CA,normal,1,{},2527242411,https://www.wikidata.org/wiki/Q915195
+Buda,22,P138,Q51056,Franz Joseph I of Austria,Q915195$2a33ea73-423b-b9fb-95eb-2cf4c024b145,normal,0,"{""P580"": [{""snaktype"": ""value"", ""property"": ""P580"", ""hash"": ""e808e45fd86c6704471903360cc4e1f4b0afb6c6"", ""datavalue"": {""value"": {""time"": ""+1896-00-00T00:00:00Z"", ""timezone"": 0, ""before"": 0, ""after"": 0, ""precision"": 9, ""calendarmodel"": ""http://www.wikidata.org/entity/Q1985727""}, ""type"": ""time""}, ""datatype"": ""time""}], ""P582"": [{""snaktype"": ""value"", ""property"": ""P582"", ""hash"": ""8c1f820d4859856868cfb17733b93efc084409af"", ""datavalue"": {""value"": {""time"": ""+1946-00-00T00:00:00Z"", ""timezone"": 0, ""before"": 0, ""after"": 0, ""precision"": 9, ""calendarmodel"": ""http://www.wikidata.org/entity/Q1985727""}, ""type"": ""time""}, ""datatype"": ""time""}]}",2527242411,https://www.wikidata.org/wiki/Q915195
+Buda,22,P138,Q2979,liberty,Q915195$084b3a4a-42c3-fe09-3c11-168ed169dba1,preferred,0,"{""P580"": [{""snaktype"": ""value"", ""property"": ""P580"", ""hash"": ""c7268899122cabc4116553033ac749704613e144"", ""datavalue"": {""value"": {""time"": ""+1946-00-00T00:00:00Z"", ""timezone"": 0, ""before"": 0, ""after"": 0, ""precision"": 9, ""calendarmodel"": ""http://www.wikidata.org/entity/Q1985727""}, ""type"": ""time""}, ""datatype"": ""time""}]}",2527242411,https://www.wikidata.org/wiki/Q915195
+Buda,23,P84,Q79098,Albert Schickedanz,Q368537$08b4994d-4e09-8402-cb92-b1f355a6e684,normal,0,{},2528140516,https://www.wikidata.org/wiki/Q368537
+Buda,24,P84,Q79098,Albert Schickedanz,Q840886$4F8FACC9-8481-4CD5-9203-F28453F02ABB,normal,1,{},2504789026,https://www.wikidata.org/wiki/Q840886
+Buda,26,P149,Q1295040,Art Nouveau architecture,Q1088467$8984BEA5-C47F-4ED7-9090-DE095A462FF5,normal,0,{},2560812002,https://www.wikidata.org/wiki/Q1088467
+Buda,26,P84,Q294065,Ödön Lechner,Q1088467$96a224f0-43d5-0148-d8a6-2a308be7e87e,normal,0,{},2560812002,https://www.wikidata.org/wiki/Q1088467
+Buda,26,P84,Q713731,Gyula Pártos,Q1088467$13b0c967-467c-e90e-4106-6bb241e8eaa3,normal,0,{},2560812002,https://www.wikidata.org/wiki/Q1088467
+Buda,27,P84,Q690112,Mihály Pollack,Q914141$4f07fd96-4103-a0d2-8ab0-e3dec38b466a,normal,1,{},2522327579,https://www.wikidata.org/wiki/Q914141
+Buda,29,P149,Q74156,Moorish Revival architecture,Q754397$B9C0CECD-5AD1-4CF3-9A4D-8313F918E964,normal,0,{},2525274999,https://www.wikidata.org/wiki/Q754397
+Buda,29,P84,Q541584,Ludwig Förster,Q754397$c5fbc0e7-443b-e490-a881-ec4f524dac19,normal,1,{},2525274999,https://www.wikidata.org/wiki/Q754397
+Buda,31,P84,Q51484503,Gábor Zoboki,Q897556$CE57C6EA-7F83-4DBB-ACF4-43BDC4322A4C,normal,1,{},2557702278,https://www.wikidata.org/wiki/Q897556
+Buda,32,P149,Q186363,Gothic Revival,Q11819$E3D10BF5-9DA3-459D-B213-448FCC0B55AF,normal,0,{},2558887461,https://www.wikidata.org/wiki/Q11819
+Buda,32,P84,Q337876,Imre Steindl,Q11819$7cb11e10-46d2-8609-2be7-2c224eb0fbc4,normal,1,{},2558887461,https://www.wikidata.org/wiki/Q11819
+Buda,33,P149,Q54111,Neoclassical architecture,Q338665$CD536A34-7C59-4662-B671-FB20A0AF45A4,normal,0,{},2473403083,https://www.wikidata.org/wiki/Q338665
+Buda,33,P84,Q1036379,József Hild,Q338665$89D9EBBF-F204-49D2-99CC-26902496A41E,normal,1,{},2473403083,https://www.wikidata.org/wiki/Q338665
+Buda,33,P84,Q1072997,Miklós Ybl,Q338665$26bcfaed-44c7-b503-ce81-5b73b96da679,normal,1,{},2473403083,https://www.wikidata.org/wiki/Q338665
+Buda,33,P138,Q177903,Stephen I of Hungary,Q338665$537B2FC3-4A9E-471D-99B6-01B0C8C98AFB,normal,1,{},2473403083,https://www.wikidata.org/wiki/Q338665
+Buda,37,P149,Q502163,Renaissance Revival architecture,Q465534$9f0d4fa4-40be-846f-39d7-607c9bfa8ebd,normal,0,{},2541299398,https://www.wikidata.org/wiki/Q465534
+Buda,37,P84,Q837564,William Tierney Clark,Q465534$D977E00A-DD14-4BF2-BB80-9EF069A92766,normal,2,{},2541299398,https://www.wikidata.org/wiki/Q465534
+Buda,37,P138,Q279397,István Széchenyi,Q465534$a95069a0-4068-8bc2-4586-57ee7cdd33bf,normal,1,"{""P580"": [{""snaktype"": ""value"", ""property"": ""P580"", ""hash"": ""b3e96ddc0f993ecf4aebc50d595f87579cda9ae2"", ""datavalue"": {""value"": {""time"": ""+1915-00-00T00:00:00Z"", ""timezone"": 0, ""before"": 0, ""after"": 0, ""precision"": 9, ""calendarmodel"": ""http://www.wikidata.org/entity/Q1985727""}, ""type"": ""time""}, ""datatype"": ""time""}]}",2541299398,https://www.wikidata.org/wiki/Q465534
+Edin,3,P84,Q4890237,Benson & Forsyth,Q1633842$C1B6AACE-4D46-4DED-A346-95CA8150991B,normal,1,{},2558742494,https://www.wikidata.org/wiki/Q1633842
+Edin,4,P149,Q595448,postmodern architecture,Q2746031$7871AD6A-916E-4671-B2C8-30EF38DD607A,normal,1,{},2541080515,https://www.wikidata.org/wiki/Q2746031
+Edin,4,P84,Q723669,Enric Miralles,Q2746031$AED8B1CC-7F52-43E5-A047-7748D8A00C82,normal,1,{},2541080515,https://www.wikidata.org/wiki/Q2746031
+Edin,4,P84,Q727525,Benedetta Tagliabue,Q2746031$091f7ab4-443c-7857-bf6b-6be24c26f731,normal,0,{},2541080515,https://www.wikidata.org/wiki/Q2746031
+Edin,4,P84,Q3415248,RMJM,Q2746031$687d8026-4f94-9c9f-871a-0d330b121ff8,normal,0,{},2541080515,https://www.wikidata.org/wiki/Q2746031
+Edin,5,P138,Q202083,Firth of Forth,Q275$f35feec0-4b77-f4bd-158f-e71040f3b967,normal,0,{},2550111141,https://www.wikidata.org/wiki/Q275
+Edin,6,P138,Q202083,Firth of Forth,Q933000$A94672D5-C32F-4D19-9134-E2EEFA956A8F,normal,0,{},2553929476,https://www.wikidata.org/wiki/Q933000
+Edin,9,P149,Q176483,Gothic architecture,Q1547466$AE8AA6B7-B186-4673-B0DF-226C4BC80DA2,normal,1,{},2532709317,https://www.wikidata.org/wiki/Q1547466
+Edin,9,P138,Q149727,Saint Giles,Q1547466$7D9A8925-E391-423E-AA1B-FDC97F82A18A,normal,0,{},2532709317,https://www.wikidata.org/wiki/Q1547466
+Edin,12,P84,Q29832410,Stockdale Harrison,Q1636910$4816D06D-7292-470F-8C20-505FBB171F63,normal,1,{},2500898620,https://www.wikidata.org/wiki/Q1636910
+Edin,12,P138,Q4758785,Andrew Usher,Q1636910$c0740525-4f7b-1782-b42c-b800c133052b,normal,0,{},2500898620,https://www.wikidata.org/wiki/Q1636910
+Edin,16,P84,Q706350,William Henry Playfair,Q942713$11F69B39-0AD9-459C-B234-F7B8FFB6FA92,normal,1,{},2555984530,https://www.wikidata.org/wiki/Q942713
+Edin,22,P149,Q54111,Neoclassical architecture,Q2928830$5be4ec63-4bdd-f6d6-c82c-4ed0f4724aaa,normal,0,{},2462006556,https://www.wikidata.org/wiki/Q2928830
+Edin,22,P84,Q312635,Robert Adam,Q2928830$2a452879-4859-ef74-c09a-200c422592b7,normal,0,{},2462006556,https://www.wikidata.org/wiki/Q2928830
+Edin,23,P149,Q173782,Art Deco,Q7592399$5208FA19-C6AB-4BC9-9092-E91CC4E5B73F,normal,1,{},2553311258,https://www.wikidata.org/wiki/Q7592399
+Edin,23,P84,Q7793744,Thomas S. Tait,Q7592399$A70D80AE-1783-4E44-B672-252588E57842,normal,1,{},2553311258,https://www.wikidata.org/wiki/Q7592399
+Edin,23,P138,Q43399,Andrew the Apostle,Q7592399$8ad521a5-4d98-6ee8-33aa-ccb656594d2e,normal,0,{},2553311258,https://www.wikidata.org/wiki/Q7592399
+Edin,24,P84,Q11682592,Hopkins Architects,Q3358350$7cefa202-42d2-65bb-7532-260e18b14808,normal,0,{},2513544131,https://www.wikidata.org/wiki/Q3358350
+Edin,27,P84,Q8006170,William Burn,Q1889944$90F1E499-38C1-4C95-AD29-C5B98B7B5958,normal,1,{},2526354760,https://www.wikidata.org/wiki/Q1889944
+Vien,1,P149,Q37853,Baroque,Q131330$122fe2cf-4e32-cc4a-5bfb-8132b0079768,normal,1,{},2551266506,https://www.wikidata.org/wiki/Q131330
+Vien,1,P149,Q840829,baroque architecture,Q131330$fa39d1b7-4818-a124-e09a-3d09812c8713,normal,1,{},2551266506,https://www.wikidata.org/wiki/Q131330
+Vien,1,P84,Q84305,Johann Bernhard Fischer von Erlach,Q131330$54EEDA33-EB62-457A-8A6B-897A8874A31F,normal,1,{},2551266506,https://www.wikidata.org/wiki/Q131330
+Vien,1,P84,Q78775,Nicolò Pacassi,Q131330$513ce12f-4885-35ef-8420-28b5fd006e7f,normal,0,{},2551266506,https://www.wikidata.org/wiki/Q131330
+Vien,3,P84,Q63155740,Walter Bassett Basset,Q697578$91aa4417-4c9d-d5e9-8f76-c509e17ab2b0,normal,1,{},2432271267,https://www.wikidata.org/wiki/Q697578
+Vien,3,P84,Q339865,Hubert Cecil Booth,Q697578$ce16e61d-4880-f8cf-d841-66859c605b40,normal,1,{},2432271267,https://www.wikidata.org/wiki/Q697578
+Vien,4,P84,Q1334779,Emanuel Silva-Tarouca,Q371908$99C594C6-B642-42C9-A434-CB10F6E49187,normal,1,{},2560546580,https://www.wikidata.org/wiki/Q371908
+Vien,4,P84,Q85548,Joseph Kornhäusel,Q371908$5A31897C-FD60-4113-A0B9-824045A6D700,normal,1,{},2560546580,https://www.wikidata.org/wiki/Q371908
+Vien,4,P138,Q60657,"Albert Casimir, Duke of Teschen",Q371908$46608c34-4ad4-21bf-ad2b-811f66bcdefc,normal,0,{},2560546580,https://www.wikidata.org/wiki/Q371908
+Vien,5,P149,Q236122,Renaissance architecture,Q46242$2405841B-F5C8-4559-8C8D-AE557D1772C7,normal,1,{},2534711820,https://www.wikidata.org/wiki/Q46242
+Vien,5,P84,Q1413392,Filiberto Lucchese,Q46242$86D9B1A0-EA94-4202-9B6C-DDE5D830BC2F,normal,1,{},2534711820,https://www.wikidata.org/wiki/Q46242
+Vien,6,P138,Q1741,Vienna,Q95569$c9bb37f8-4c01-16e9-8392-f04292c8163b,normal,0,{},2558731053,https://www.wikidata.org/wiki/Q95569
+Vien,6,P138,Q50641,history of art,Q95569$b4747d29-4975-b99a-369d-b89072b0786f,normal,0,{},2558731053,https://www.wikidata.org/wiki/Q95569
+Vien,7,P149,Q840829,baroque architecture,Q211818$B98C0600-6FC1-478E-A623-E33EEC2A3BAD,normal,1,{},2529490261,https://www.wikidata.org/wiki/Q211818
+Vien,7,P84,Q84507,Johann Lukas von Hildebrandt,Q211818$EE272577-A57F-4179-907E-418BD98BAEE0,normal,1,{},2529490261,https://www.wikidata.org/wiki/Q211818
+Vien,8,P84,Q86064,Hannes Lintl,Q686544$98FB6F93-1931-45A8-BAA9-3C2580205E43,normal,1,{},2547551696,https://www.wikidata.org/wiki/Q686544
+Vien,8,P84,Q2157901,Robert Krapfenbauer,Q686544$76f5cba1-4483-d703-ba91-7c14c8bc6398,normal,0,{},2547551696,https://www.wikidata.org/wiki/Q686544
+Vien,9,P84,Q61342,Gottfried Semper,Q688704$4C13CEB7-2317-4ED6-9856-074C86337E58,normal,2,{},2552806673,https://www.wikidata.org/wiki/Q688704
+Vien,9,P84,Q84541,Karl von Hasenauer,Q688704$7e671e3f-48e4-218e-1f6f-dfa6fe31f3b9,normal,1,{},2552806673,https://www.wikidata.org/wiki/Q688704
+Vien,11,P84,Q1808327,Laurids Ortner,Q59435$A0FF6F8F-D906-4A04-B6A2-80D3320699A8,normal,1,{},2516869361,https://www.wikidata.org/wiki/Q59435
+Vien,11,P84,Q1889759,Manfred Ortner,Q59435$2F915E08-0071-44BA-95E8-3F4A013567F2,normal,1,{},2516869361,https://www.wikidata.org/wiki/Q59435
+Vien,11,P138,Q78747,Rudolf Leopold,Q59435$36c1cee8-4f30-fda5-2a89-4fa8aff7b657,normal,0,{},2516869361,https://www.wikidata.org/wiki/Q59435
+Vien,11,P138,Q95207852,Elisabeth Leopold,Q59435$9063a07a-4305-a417-46a6-8f0223dbd846,normal,0,{},2516869361,https://www.wikidata.org/wiki/Q59435
+Vien,13,P84,Q1337085,Emil von Förster,Q372676$DBC9B6C2-9702-42F7-BBE7-47184285C46B,normal,1,{},2517657974,https://www.wikidata.org/wiki/Q372676
+Vien,17,P149,Q46261,Romanesque architecture,Q5943$0d850dd1-436f-1110-f663-d544ef76b12c,normal,0,{},2550668771,https://www.wikidata.org/wiki/Q5943
+Vien,17,P149,Q176483,Gothic architecture,Q5943$987003d6-4f89-1348-8b98-11f8bde43466,normal,0,{},2550668771,https://www.wikidata.org/wiki/Q5943
+Vien,17,P138,Q161775,Saint Stephen,Q5943$A91CC377-E5F9-4392-9041-F5ADF13F401D,normal,1,{},2550668771,https://www.wikidata.org/wiki/Q5943
+Vien,20,P149,Q840829,baroque architecture,Q408847$D1C8E33E-8A08-44D6-ADBC-40FB4730000A,normal,1,{},2494362022,https://www.wikidata.org/wiki/Q408847
+Vien,20,P149,Q122960,Rococo,Q408847$86E512E9-D3B8-4109-892F-0850D2688762,normal,0,{},2494362022,https://www.wikidata.org/wiki/Q408847
+Vien,20,P84,Q84305,Johann Bernhard Fischer von Erlach,Q408847$10730547-DBFE-43EC-AD57-2B70CDDEFBB2,normal,1,{},2494362022,https://www.wikidata.org/wiki/Q408847
+Vien,20,P84,Q84588,Joseph Emanuel Fischer von Erlach,Q408847$61ba03e6-4383-92dc-9af6-6d09732aae00,normal,0,{},2494362022,https://www.wikidata.org/wiki/Q408847
+Vien,20,P138,Q216946,Charles Borromeo,Q408847$29B97CF4-BC9B-4B0A-8779-D9F1EAC27C21,normal,0,{},2494362022,https://www.wikidata.org/wiki/Q408847
+Vien,21,P84,Q78792,Heinrich von Ferstel,Q478455$AACD7816-506F-4787-99FA-D810D0C05333,normal,1,{},2522326828,https://www.wikidata.org/wiki/Q478455
+Vien,23,P149,Q502163,Renaissance Revival architecture,Q209937$39D15513-D17F-43DD-8E17-AD16CA686C6E,normal,1,{},2542500932,https://www.wikidata.org/wiki/Q209937
+Vien,23,P84,Q78968,August Sicard von Sicardsburg,Q209937$4562917C-B357-4803-B25D-200206B1EE49,normal,1,{},2542500932,https://www.wikidata.org/wiki/Q209937
+Vien,23,P84,Q78979,Eduard van der Nüll,Q209937$c36372cd-4839-36ca-4770-49a063eb4705,normal,0,{},2542500932,https://www.wikidata.org/wiki/Q209937
+Vien,24,P84,Q9263491,Franz Segenschmid,Q874600$1E98CDC7-AE1F-4B87-A1C8-E355364A3C5C,normal,1,{},2427943802,https://www.wikidata.org/wiki/Q874600
+Vien,24,P84,Q1535246,Ignaz Gridl,Q874600$0258335e-48cd-beac-6d45-4f4061678b32,normal,0,{},2427943802,https://www.wikidata.org/wiki/Q874600
+Vien,25,P84,Q84305,Johann Bernhard Fischer von Erlach,Q304037$D8A4FCB4-EA56-4D8B-B1A6-590DED548ECF,normal,1,{},2555448335,https://www.wikidata.org/wiki/Q304037
+Vien,26,P149,Q1513688,Greek Revival architecture,Q702121$f25eaf78-482b-2a3a-dfe3-a2befe34798a,normal,0,{},2550788239,https://www.wikidata.org/wiki/Q702121
+Vien,26,P84,Q78638,Theophil Hansen,Q702121$8331790E-CB01-48AE-B632-320FD565B790,normal,1,{},2550788239,https://www.wikidata.org/wiki/Q702121
+Vien,28,P84,Q78638,Theophil Hansen,Q700751$C60FD383-7BA0-4AA6-8469-A8E4804722C7,normal,1,{},2537767198,https://www.wikidata.org/wiki/Q700751

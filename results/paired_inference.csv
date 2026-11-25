@@ -1,0 +1,12 @@
+a,b,subset,metric,delta,ci_low,ci_high,p_two_sided,users_global,contexts,cities,bootstrap_draws_used,comparison,p_holm
+CulturalFixed,CategoryFixed,warm,NDCG5,0.0,0.0,0.0,1.0,47,272,Buda|Vien,10000,H1,1.0
+CulturalAdaptive,CulturalFixed,high_drift,NDCG5,0.001809167874649718,0.0,0.006151170773809041,1.0,26,59,Buda|Vien,9999,H2,1.0
+CulturalAdaptive,CulturalFixed,warm,NDCG5,-0.0076863194489667375,-0.033637403881254746,0.015385979960075074,0.5538446155384461,47,272,Buda|Vien,10000,secondary_all,
+CulturalFixed,CulturalFlatFixed,warm,NDCG5,0.0,0.0,0.0,1.0,47,272,Buda|Vien,10000,information_control,
+CulturalFixed,AblationNoCulture,warm,NDCG5,0.0,0.0,0.0,1.0,47,272,Buda|Vien,10000,exact_ablation,
+CulturalFixed,CategoryFixed,warm,NDCG5,0.0,0.0,0.0,1.0,31,158,Buda,10000,city_Buda,
+CulturalAdaptive,CulturalFixed,warm,NDCG5,-0.00880902113720344,-0.04407043257519835,0.01838502283000173,0.7245275472452755,31,158,Buda,10000,city_Buda,
+CulturalFixed,CategoryFixed,warm,NDCG5,0.0,0.0,0.0,1.0,21,114,Vien,10000,city_Vien,
+CulturalAdaptive,CulturalFixed,warm,NDCG5,-0.006563617760730038,-0.044375020647036925,0.02920365635627502,0.7694230576942306,21,114,Vien,10000,city_Vien,
+CulturalFixed,CategoryFixed,warm,NDCG5,0.0,0.0,0.0,1.0,41,225,Edin,10000,city_Edin,
+CulturalAdaptive,CulturalFixed,warm,NDCG5,0.0026054026537587305,-0.02833429734315914,0.03824608186816369,0.8951104889511049,41,225,Edin,10000,city_Edin,

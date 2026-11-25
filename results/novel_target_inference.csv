@@ -1,0 +1,4 @@
+a,b,subset,metric,delta,ci_low,ci_high,p_two_sided,users_global,contexts,cities,bootstrap_draws_used
+CulturalAdaptive,CulturalFixed,novel_only,NDCG5,0.0017528712172359164,-0.03965795984615151,0.044006919196321895,0.9361063893610639,38,143,Buda|Vien,10000
+CulturalFixedForced,CulturalFixed,novel_only,NDCG5,-0.04461119439434549,-0.10475080477455884,0.01637812573558282,0.17768223177682232,38,143,Buda|Vien,10000
+CulturalFixedForced,Markov,novel_only,NDCG5,-0.139334494659172,-0.23235302504946892,-0.051014184813176884,0.0086991300869913,38,143,Buda|Vien,10000

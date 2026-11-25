@@ -1,0 +1,74 @@
+CategoryFixed {'restart': 0.15, 'eta': 0.0, 'alpha': 1.0} validation 0.294764
+CulturalFixed {'restart': 0.15, 'eta': 0.0, 'alpha': 1.0} validation 0.294764
+CulturalFlatFixed {'eta': 0.0, 'alpha': 1.0} validation 0.294764
+ItemKNN {'alpha': 1.0} validation 0.294764
+Markov {'prior': 0.0} validation 0.516568
+EASE {'l2': 10.0} validation 0.294118
+GeoFixed {'bandwidth_km': 0.25, 'alpha': 1.0} validation 0.313979
+CulturalAdaptive {'minimum': 0.5, 'maximum': 1.0, 'c': 1.0} validation 0.286016
+
+TEST WARM
+ split subset             model       city  events  users    NDCG5      HR5      MRR   NDCG10     HR10  user_city_pairs
+ test   warm AblationNoCulture       Buda     158     31 0.285217 0.430192 0.287994 0.372961 0.705564              NaN
+ test   warm AblationNoCulture       Edin     225     41 0.329901 0.523163 0.319053 0.418803 0.800902              NaN
+ test   warm AblationNoCulture       Vien     114     21 0.253219 0.384184 0.262563 0.300158 0.525156              NaN
+ test   warm     CategoryFixed       Buda     158     31 0.285217 0.430192 0.287994 0.372961 0.705564              NaN
+ test   warm     CategoryFixed       Edin     225     41 0.329901 0.523163 0.319053 0.418803 0.800902              NaN
+ test   warm     CategoryFixed       Vien     114     21 0.253219 0.384184 0.262563 0.300158 0.525156              NaN
+ test   warm  CulturalAdaptive       Buda     158     31 0.276408 0.403310 0.287751 0.364333 0.678682              NaN
+ test   warm  CulturalAdaptive       Edin     225     41 0.332507 0.491860 0.339668 0.446181 0.841172              NaN
+ test   warm  CulturalAdaptive       Vien     114     21 0.246655 0.415901 0.237239 0.289462 0.553698              NaN
+ test   warm     CulturalFixed       Buda     158     31 0.285217 0.430192 0.287994 0.372961 0.705564              NaN
+ test   warm     CulturalFixed       Edin     225     41 0.329901 0.523163 0.319053 0.418803 0.800902              NaN
+ test   warm     CulturalFixed       Vien     114     21 0.253219 0.384184 0.262563 0.300158 0.525156              NaN
+ test   warm CulturalFlatFixed       Buda     158     31 0.285217 0.430192 0.287994 0.372961 0.705564              NaN
+ test   warm CulturalFlatFixed       Edin     225     41 0.329901 0.523163 0.319053 0.418803 0.800902              NaN
+ test   warm CulturalFlatFixed       Vien     114     21 0.253219 0.384184 0.262563 0.300158 0.525156              NaN
+ test   warm      CulturalLong       Buda     158     31 0.242303 0.383435 0.245495 0.289606 0.527467              NaN
+ test   warm      CulturalLong       Edin     225     41 0.276819 0.450182 0.285675 0.399424 0.822431              NaN
+ test   warm      CulturalLong       Vien     114     21 0.223402 0.413210 0.213298 0.294093 0.639809              NaN
+ test   warm     CulturalShort       Buda     158     31 0.285217 0.430192 0.287994 0.372961 0.705564              NaN
+ test   warm     CulturalShort       Edin     225     41 0.329901 0.523163 0.319053 0.418803 0.800902              NaN
+ test   warm     CulturalShort       Vien     114     21 0.253219 0.384184 0.262563 0.300158 0.525156              NaN
+ test   warm              EASE       Buda     158     31 0.228438 0.325999 0.254835 0.304343 0.559933              NaN
+ test   warm              EASE       Edin     225     41 0.362380 0.588247 0.336775 0.448219 0.856225              NaN
+ test   warm              EASE       Vien     114     21 0.285536 0.422856 0.292902 0.359240 0.650004              NaN
+ test   warm          GeoFixed       Buda     158     31 0.322716 0.460596 0.327104 0.396972 0.688695              NaN
+ test   warm          GeoFixed       Edin     225     41 0.342319 0.543262 0.328703 0.439646 0.838450              NaN
+ test   warm          GeoFixed       Vien     114     21 0.274568 0.464467 0.260083 0.329915 0.638374              NaN
+ test   warm           ItemKNN       Buda     158     31 0.285217 0.430192 0.287994 0.372961 0.705564              NaN
+ test   warm           ItemKNN       Edin     225     41 0.329901 0.523163 0.319053 0.418803 0.800902              NaN
+ test   warm           ItemKNN       Vien     114     21 0.253219 0.384184 0.262563 0.300158 0.525156              NaN
+ test   warm            Markov       Buda     158     31 0.440395 0.599627 0.416664 0.460736 0.664048              NaN
+ test   warm            Markov       Edin     225     41 0.494257 0.712874 0.453852 0.540035 0.849007              NaN
+ test   warm            Markov       Vien     114     21 0.391810 0.555413 0.376880 0.439051 0.699280              NaN
+ test   warm        Popularity       Buda     158     31 0.257875 0.382864 0.268431 0.317267 0.567284              NaN
+ test   warm        Popularity       Edin     225     41 0.333762 0.536535 0.319831 0.410727 0.765866              NaN
+ test   warm        Popularity       Vien     114     21 0.241668 0.393123 0.251656 0.308866 0.594810              NaN
+ test   warm AblationNoCulture MAIN_MACRO     272     47 0.269218 0.407188 0.275279 0.336560 0.615360             52.0
+ test   warm     CategoryFixed MAIN_MACRO     272     47 0.269218 0.407188 0.275279 0.336560 0.615360             52.0
+ test   warm  CulturalAdaptive MAIN_MACRO     272     47 0.261532 0.409606 0.262495 0.326898 0.616190             52.0
+ test   warm     CulturalFixed MAIN_MACRO     272     47 0.269218 0.407188 0.275279 0.336560 0.615360             52.0
+ test   warm CulturalFlatFixed MAIN_MACRO     272     47 0.269218 0.407188 0.275279 0.336560 0.615360             52.0
+ test   warm      CulturalLong MAIN_MACRO     272     47 0.232852 0.398322 0.229397 0.291849 0.583638             52.0
+ test   warm     CulturalShort MAIN_MACRO     272     47 0.269218 0.407188 0.275279 0.336560 0.615360             52.0
+ test   warm              EASE MAIN_MACRO     272     47 0.256987 0.374427 0.273868 0.331791 0.604969             52.0
+ test   warm          GeoFixed MAIN_MACRO     272     47 0.298642 0.462531 0.293594 0.363444 0.663535             52.0
+ test   warm           ItemKNN MAIN_MACRO     272     47 0.269218 0.407188 0.275279 0.336560 0.615360             52.0
+ test   warm            Markov MAIN_MACRO     272     47 0.416102 0.577520 0.396772 0.449893 0.681664             52.0
+ test   warm        Popularity MAIN_MACRO     272     47 0.249772 0.387994 0.260044 0.313067 0.581047             52.0
+
+INFERENCE
+                a                 b     subset metric     delta    ci_low  ci_high  p_two_sided  users_global  contexts    cities  bootstrap_draws_used          comparison  p_holm
+   CulturalFixed     CategoryFixed       warm  NDCG5  0.000000  0.000000 0.000000     1.000000            47       272 Buda|Vien                 10000                  H1     1.0
+CulturalAdaptive     CulturalFixed high_drift  NDCG5  0.001809  0.000000 0.006151     1.000000            26        59 Buda|Vien                  9999                  H2     1.0
+CulturalAdaptive     CulturalFixed       warm  NDCG5 -0.007686 -0.033637 0.015386     0.553845            47       272 Buda|Vien                 10000       secondary_all     NaN
+   CulturalFixed CulturalFlatFixed       warm  NDCG5  0.000000  0.000000 0.000000     1.000000            47       272 Buda|Vien                 10000 information_control     NaN
+   CulturalFixed AblationNoCulture       warm  NDCG5  0.000000  0.000000 0.000000     1.000000            47       272 Buda|Vien                 10000      exact_ablation     NaN
+   CulturalFixed     CategoryFixed       warm  NDCG5  0.000000  0.000000 0.000000     1.000000            31       158      Buda                 10000           city_Buda     NaN
+CulturalAdaptive     CulturalFixed       warm  NDCG5 -0.008809 -0.044070 0.018385     0.724528            31       158      Buda                 10000           city_Buda     NaN
+   CulturalFixed     CategoryFixed       warm  NDCG5  0.000000  0.000000 0.000000     1.000000            21       114      Vien                 10000           city_Vien     NaN
+CulturalAdaptive     CulturalFixed       warm  NDCG5 -0.006564 -0.044375 0.029204     0.769423            21       114      Vien                 10000           city_Vien     NaN
+   CulturalFixed     CategoryFixed       warm  NDCG5  0.000000  0.000000 0.000000     1.000000            41       225      Edin                 10000           city_Edin     NaN
+CulturalAdaptive     CulturalFixed       warm  NDCG5  0.002605 -0.028334 0.038246     0.895110            41       225      Edin                 10000           city_Edin     NaN
+runtime 5.977023198999632

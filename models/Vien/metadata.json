@@ -1,0 +1,237 @@
+{
+  "city": "Vien",
+  "feature_keys": [
+    [
+      "P138",
+      "Q161775"
+    ],
+    [
+      "P138",
+      "Q1741"
+    ],
+    [
+      "P138",
+      "Q216946"
+    ],
+    [
+      "P138",
+      "Q50641"
+    ],
+    [
+      "P138",
+      "Q60657"
+    ],
+    [
+      "P138",
+      "Q78747"
+    ],
+    [
+      "P138",
+      "Q95207852"
+    ],
+    [
+      "P149",
+      "Q122960"
+    ],
+    [
+      "P149",
+      "Q1513688"
+    ],
+    [
+      "P149",
+      "Q176483"
+    ],
+    [
+      "P149",
+      "Q236122"
+    ],
+    [
+      "P149",
+      "Q37853"
+    ],
+    [
+      "P149",
+      "Q46261"
+    ],
+    [
+      "P149",
+      "Q502163"
+    ],
+    [
+      "P149",
+      "Q840829"
+    ],
+    [
+      "P84",
+      "Q1334779"
+    ],
+    [
+      "P84",
+      "Q1337085"
+    ],
+    [
+      "P84",
+      "Q1413392"
+    ],
+    [
+      "P84",
+      "Q1535246"
+    ],
+    [
+      "P84",
+      "Q1808327"
+    ],
+    [
+      "P84",
+      "Q1889759"
+    ],
+    [
+      "P84",
+      "Q2157901"
+    ],
+    [
+      "P84",
+      "Q339865"
+    ],
+    [
+      "P84",
+      "Q61342"
+    ],
+    [
+      "P84",
+      "Q63155740"
+    ],
+    [
+      "P84",
+      "Q78638"
+    ],
+    [
+      "P84",
+      "Q78775"
+    ],
+    [
+      "P84",
+      "Q78792"
+    ],
+    [
+      "P84",
+      "Q78968"
+    ],
+    [
+      "P84",
+      "Q78979"
+    ],
+    [
+      "P84",
+      "Q84305"
+    ],
+    [
+      "P84",
+      "Q84507"
+    ],
+    [
+      "P84",
+      "Q84541"
+    ],
+    [
+      "P84",
+      "Q84588"
+    ],
+    [
+      "P84",
+      "Q85548"
+    ],
+    [
+      "P84",
+      "Q86064"
+    ],
+    [
+      "P84",
+      "Q9263491"
+    ],
+    [
+      "class",
+      "historic_civic"
+    ],
+    [
+      "class",
+      "historic_infrastructure"
+    ],
+    [
+      "class",
+      "museum_library"
+    ],
+    [
+      "class",
+      "palace_castle"
+    ],
+    [
+      "class",
+      "performing_arts"
+    ],
+    [
+      "class",
+      "religious"
+    ]
+  ],
+  "parameters": {
+    "CategoryFixed": {
+      "restart": 0.15,
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "CulturalFixed": {
+      "restart": 0.15,
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "CulturalFlatFixed": {
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "ItemKNN": {
+      "alpha": 1.0
+    },
+    "Markov": {
+      "prior": 0.0
+    },
+    "EASE": {
+      "l2": 10.0
+    },
+    "GeoFixed": {
+      "bandwidth_km": 0.25,
+      "alpha": 1.0
+    },
+    "CulturalAdaptive": {
+      "minimum": 0.5,
+      "maximum": 1.0,
+      "c": 1.0
+    },
+    "CulturalFixedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 1.0
+    },
+    "CategoryFixedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 0.7
+    },
+    "CulturalFlatFixedForced": {
+      "eta": 0.25,
+      "alpha": 1.0
+    },
+    "CulturalAdaptiveForced": {
+      "minimum": 0.25,
+      "maximum": 1.0,
+      "c": 1.0
+    },
+    "NoCultureMatchedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 1.0
+    }
+  },
+  "snapshot": "2026-10-26",
+  "forced_variant_status": "exploratory positive-graph component chosen on validation; primary unrestricted result preserved"
+}

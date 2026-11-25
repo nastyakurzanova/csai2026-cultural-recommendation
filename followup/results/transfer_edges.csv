@@ -1,0 +1,45 @@
+city,poiID,property,target,label,statement_id,rank,reference_count,qualifiers_json,snapshot_revision,source_url
+Delh,1,P84,Q378157,Edwin Lutyens,Q245347$A7C6D00E-6CDD-4DCB-90BB-C573756FF95A,normal,1,{},2556024201,https://www.wikidata.org/wiki/Q245347
+Delh,3,P149,Q54111,Neoclassical architecture,Q677555$88EE8118-FEF5-4576-9795-F88B037652E4,normal,1,{},2556665971,https://www.wikidata.org/wiki/Q677555
+Delh,3,P84,Q378157,Edwin Lutyens,Q677555$987DC935-940A-4F22-A785-F27F8FA6E401,normal,1,{},2556665971,https://www.wikidata.org/wiki/Q677555
+Delh,6,P138,Q83680,Sher Shah Suri,Q1151529$7a6ec977-4da5-6eae-5277-7c3840b81f82,normal,0,"{""P5168"": [{""snaktype"": ""value"", ""property"": ""P5168"", ""hash"": ""86ede8bdeb3431214d0086064260eae320e24c25"", ""datavalue"": {""value"": {""text"": ""Shergarh"", ""language"": ""en""}, ""type"": ""monolingualtext""}, ""datatype"": ""monolingualtext""}]}",2553993247,https://www.wikidata.org/wiki/Q1151529
+Delh,10,P149,Q542261,Mughal architecture,Q375624$75BF983B-AF00-4D2B-9563-85335D477306,normal,1,{},2542546969,https://www.wikidata.org/wiki/Q375624
+Delh,10,P138,Q391381,Safdar Jang,Q375624$1a9d97e2-42b7-4e59-e448-5e9133726d3c,normal,0,{},2542546969,https://www.wikidata.org/wiki/Q375624
+Delh,11,P149,Q212940,Islamic architecture,Q187635$fddb300d-4c05-0aa7-d68c-c81b5f074021,normal,0,{},2560612446,https://www.wikidata.org/wiki/Q187635
+Delh,15,P84,Q5725765,Henry Medd,Q5052220$05FF6AE1-3653-45EB-861C-09B0FB825810,normal,1,{},1971125502,https://www.wikidata.org/wiki/Q5052220
+Delh,16,P149,Q3621572,Sikh architecture,Q2375435$f3485ae9-40ab-300d-5e68-02e2a6556ee2,normal,0,{},2543895818,https://www.wikidata.org/wiki/Q2375435
+Delh,18,P149,Q212940,Islamic architecture,Q233678$89EDDC15-6163-4305-8224-EFF10757D77F,normal,1,{},2545720291,https://www.wikidata.org/wiki/Q233678
+Delh,19,P149,Q1148060,expressionist architecture,Q940843$55F936C8-8273-4040-BA4C-751C93A0020C,normal,1,{},2532359999,https://www.wikidata.org/wiki/Q940843
+Delh,19,P84,Q1368462,Fariborz Sahba,Q940843$BB1EA562-C64A-401F-AE6C-EF20EA2D7ED7,normal,1,{},2532359999,https://www.wikidata.org/wiki/Q940843
+Delh,20,P138,Q43999,St. James the Elder,Q2985087$83444ade-cb06-4bea-af3b-10f3865131c2,normal,1,{},2551252305,https://www.wikidata.org/wiki/Q2985087
+Delh,21,P84,Q37935943,Ganesh Bhikaji Deolalikar,Q1356138$BD6529C6-91CC-4440-9983-E332E96D5B69,normal,1,{},2506379227,https://www.wikidata.org/wiki/Q1356138
+Delh,24,P149,Q825394,Indo-Islamic architecture,Q2983384$22405123-4b11-32b6-746a-03ae34cf3457,normal,0,{},2560261940,https://www.wikidata.org/wiki/Q2983384
+Glas,1,P84,Q6139771,James Miller,Q800825$3b6c3c34-49c3-a865-40c5-fab92a6d640d,normal,0,{},2543895698,https://www.wikidata.org/wiki/Q800825
+Glas,11,P149,Q1295040,Art Nouveau architecture,Q748106$AA237FB5-FAAF-48C0-92FC-17A6A5DA2E0C,normal,0,{},2556699304,https://www.wikidata.org/wiki/Q748106
+Glas,11,P84,Q220703,Charles Rennie Mackintosh,Q748106$D69FD1EE-2488-4B8E-9643-C382F1FFA211,normal,0,{},2556699304,https://www.wikidata.org/wiki/Q748106
+Glas,13,P149,Q176483,Gothic architecture,Q1473348$2ACF690C-8797-49F9-A7A5-3E2BEC6ED51E,normal,1,{},2553600310,https://www.wikidata.org/wiki/Q1473348
+Glas,13,P138,Q545175,Saint Mungo,Q1473348$917a5b62-4614-5b99-bc30-caa84fe34250,normal,0,{},2553600310,https://www.wikidata.org/wiki/Q1473348
+Glas,17,P149,Q46261,Romanesque architecture,Q1016909$3E9BA34B-34D3-442F-889F-C2E4840CD4E8,normal,0,{},2542568829,https://www.wikidata.org/wiki/Q1016909
+Glas,17,P84,Q4969157,Brit Andresen,Q1016909$523caaa0-4c48-a919-99dc-e3d6e2c478f1,normal,0,{},2542568829,https://www.wikidata.org/wiki/Q1016909
+Glas,19,P149,Q845318,high-tech architecture,Q2980424$2146A526-8272-4D1B-80C2-EC6D0A5ED77E,normal,0,{},2484678035,https://www.wikidata.org/wiki/Q2980424
+Glas,19,P84,Q104898,Norman Foster,Q2980424$BFDA67A4-FBFB-442C-B3BE-E39A3DEB4347,normal,0,{},2484678035,https://www.wikidata.org/wiki/Q2980424
+Glas,20,P84,Q1820811,Leslie Martin,Q5566904$BB10FEBF-13C0-4250-9F9C-014ABE750301,normal,1,{},2550114796,https://www.wikidata.org/wiki/Q5566904
+Glas,23,P84,Q3610803,Alexander Thomson,Q5883823$171CB9D2-624B-4310-AA2B-7E85CCAE8BB2,normal,1,{},2254310170,https://www.wikidata.org/wiki/Q5883823
+Glas,28,P149,Q1295040,Art Nouveau architecture,Q1537781$957C05DF-0C4F-4B1A-8C98-938685692BB0,normal,0,{},2526354432,https://www.wikidata.org/wiki/Q1537781
+Glas,28,P84,Q220703,Charles Rennie Mackintosh,Q1537781$248F4A41-572C-4D87-8EE8-E12027C83E2B,normal,1,{},2526354432,https://www.wikidata.org/wiki/Q1537781
+Osak,15,P149,Q11419825,Shitennō-ji style,Q339859$2BC48A38-D5FB-4F0F-AA92-9A9F07307FD5,normal,0,{},2559733465,https://www.wikidata.org/wiki/Q339859
+Osak,15,P138,Q1068367,Four Heavenly Kings,Q339859$18e53537-4a7c-1f1e-81a1-b33689bef298,normal,0,{},2559733465,https://www.wikidata.org/wiki/Q339859
+Osak,16,P149,Q3503635,Sumiyoshi-zukuri,Q705949$ED72A740-D143-4C43-90D7-1FE896C216CE,normal,1,{},2559824159,https://www.wikidata.org/wiki/Q705949
+Osak,18,P149,Q3155268,Ishi-no-ma-zukuri,Q385793$ae19359b-46b1-4cfa-650c-65698ad98d04,normal,0,{},2554423903,https://www.wikidata.org/wiki/Q385793
+Pert,2,P84,Q6238016,John Harry Grainger,Q1371068$028EE6DA-DBCE-43EF-9051-AE0F41C4B5E4,normal,1,{},2296521225,https://www.wikidata.org/wiki/Q1371068
+Pert,7,P138,Q1360030,James Stirling,Q7617571$12cc0a14-42ea-1fd6-146c-1ab7ced17706,normal,0,{},2505759090,https://www.wikidata.org/wiki/Q7617571
+Pert,22,P149,Q994776,brutalist architecture,Q7170839$8F8138A2-1219-44F3-B85E-2A0E0045C9BD,normal,1,{},2505335558,https://www.wikidata.org/wiki/Q7170839
+Toro,6,P149,Q595448,postmodern architecture,Q670250$6D6AB708-72BF-4281-8184-5253B1112725,normal,0,{},2551842557,https://www.wikidata.org/wiki/Q670250
+Toro,6,P84,Q180374,Frank Gehry,Q670250$55EF56F7-9D56-400F-81D8-527F2B876AD1,normal,1,{},2551842557,https://www.wikidata.org/wiki/Q670250
+Toro,9,P84,Q3421061,Raymond Moriyama,Q1500067$C55612D1-2077-4F17-BC52-9B1DD62D83A5,normal,1,{},2478584741,https://www.wikidata.org/wiki/Q1500067
+Toro,13,P149,Q186363,Gothic Revival,Q1046446$3635AFE3-10E0-4A97-A9E7-14758741E9B0,normal,0,{},2525039713,https://www.wikidata.org/wiki/Q1046446
+Toro,13,P84,Q5321958,E. J. Lennox,Q1046446$BB274299-6A61-40C1-B684-3133F92CA05B,normal,1,{},2525039713,https://www.wikidata.org/wiki/Q1046446
+Toro,28,P149,Q744373,Romanesque Revival architecture,Q439501$A37976D1-1953-44AD-8ADA-4531032C907F,normal,1,{},2397115457,https://www.wikidata.org/wiki/Q439501
+Toro,28,P84,Q5321958,E. J. Lennox,Q439501$A89C140E-7EE8-48BB-8466-258BA8A4E2A0,normal,1,{},2397115457,https://www.wikidata.org/wiki/Q439501
+Toro,29,P149,Q3501297,Richardsonian Romanesque,Q980270$6CC8F2C8-B194-4255-96C6-8DE95165D87C,normal,1,{},2517846439,https://www.wikidata.org/wiki/Q980270
+Toro,29,P84,Q7323604,Richard A. Waite,Q980270$22CA0236-579F-4959-8591-69C73C9F56EC,normal,1,{},2517846439,https://www.wikidata.org/wiki/Q980270

@@ -1,0 +1,58 @@
+city,poiID,name,qid,category,lat,lon
+Delh,1,India Gate,Q245347,monument,28.6128639,77.229306
+Delh,3,Rashtrapati Bhavan,Q677555,historic_civic,28.6143417,77.1998028
+Delh,6,Purana Quila,Q1151529,palace_castle,28.61,77.245
+Delh,7,Red Fort,Q45957,palace_castle,28.655747,77.241625
+Delh,8,Salimgarh Fort,Q2336156,palace_castle,28.661,77.24
+Delh,10,Safdarjung's Tomb,Q375624,monument,28.589266,77.210506
+Delh,11,Qutub Minar,Q187635,monument,28.524355,77.185248
+Delh,13,Tughlaqabad,Q2511605,palace_castle,28.51194,77.26083
+Delh,14,Akshardham (Delhi),Q1849858,religious,28.6125,77.27722
+Delh,15,Cathedral Church of Redemption,Q5052220,religious,28.618038,77.201978
+Delh,16,Gurdwara Bangla Sahib,Q2375435,religious,28.6267,77.2089
+Delh,17,ISKCON Temple Delhi,Q4500907,religious,28.55806,77.24333
+Delh,18,"Jama Masjid, Delhi",Q233678,religious,28.6507,77.2334
+Delh,19,Lotus Temple,Q940843,religious,28.553325,77.2586
+Delh,20,"St. James' Church, Delhi",Q2985087,religious,28.665637,77.230784
+Delh,21,"National Museum, New Delhi",Q1356138,museum_library,28.611811,77.219262
+Delh,22,"National Rail Museum, New Delhi",Q1138924,museum_library,28.58472,77.18139
+Delh,23,Jantar Mantar (Delhi),Q2045115,monument,28.6271083,77.2164778
+Delh,24,Nizamuddin Dargah,Q2983384,religious,28.591306,77.241806
+Delh,25,Raj Ghat and other memorials,Q1210083,monument,28.64055,77.249433
+Glas,1,Glasgow Central railway station,Q800825,historic_infrastructure,55.858,-4.258
+Glas,2,Glasgow Queen Street railway station,Q800823,historic_infrastructure,55.8622,-4.2512
+Glas,6,"Kingston Bridge, Glasgow",Q6413473,historic_infrastructure,55.85528,-4.27
+Glas,11,Glasgow School of Art,Q748106,historic_civic,55.86611,-4.26389
+Glas,13,"St. Mungo's Cathedral, Glasgow",Q1473348,religious,55.862972,-4.234444
+Glas,14,Glasgow Central Mosque,Q3493426,religious,55.8525,-4.25083
+Glas,17,Burrell Collection,Q1016909,museum_library,55.83083,-4.3075
+Glas,19,Clyde Auditorium,Q2980424,performing_arts,55.859496,-4.287962
+Glas,20,Glasgow Royal Concert Hall,Q5566904,performing_arts,55.864503,-4.252921
+Glas,23,Holmwood House,Q5883823,historic_civic,55.8097,-4.25936
+Glas,25,Glasgow Museum of Transport,Q3511316,museum_library,55.8687,-4.295
+Glas,26,Kelvingrove Art Gallery and Museum,Q1061094,museum_library,55.8685806,-4.2905056
+Glas,27,Pollok House,Q1489852,historic_civic,55.8279278,-4.3182222
+Glas,28,Willow Tearooms,Q1537781,historic_civic,55.86502917,-4.26116083
+Osak,8,Osaka Castle,Q321242,palace_castle,34.68722,135.52583
+Osak,14,Sankō Shrine,Q3472342,religious,34.67306,135.52944
+Osak,15,Shitennō-ji,Q339859,religious,34.6539,135.51645
+Osak,16,Sumiyoshi taisha,Q705949,religious,34.6127972,135.4929417
+Osak,17,Tamatsukuri Inari Shrine,Q3514709,religious,34.67806,135.53
+Osak,18,Ōsaka Tenmangū Shrine,Q385793,religious,34.696025,135.5126194
+Pert,1,Perth Town Hall,Q7170899,historic_civic,-31.955,115.860556
+Pert,2,"Parliament House, Perth",Q1371068,historic_civic,-31.951634,115.847209
+Pert,3,State Library of Western Australia,Q7603408,museum_library,-31.949031,115.860513
+Pert,7,Stirling Gardens,Q7617571,historic_garden,-31.9565,115.86
+Pert,8,"Queens Gardens, Perth",Q7270764,historic_garden,-31.9595,115.8766
+Pert,11,"Hyde Park, Perth",Q14935818,historic_garden,-31.9379,115.8628
+Pert,12,Art Gallery of Western Australia,Q4796833,museum_library,-31.950624,115.860898
+Pert,13,Western Australian Museum,Q3567483,museum_library,-31.94956,115.861391
+Pert,22,"Perth Concert Hall, Western Australia",Q7170839,performing_arts,-31.95806,115.86361
+Toro,6,Art Gallery of Ontario,Q670250,museum_library,43.65389,-79.39278
+Toro,7,Hockey Hall of Fame,Q1136687,museum_library,43.646976,-79.377253
+Toro,9,Ontario Science Centre,Q1500067,museum_library,43.71667,-79.33833
+Toro,11,Royal Ontario Museum,Q649250,museum_library,43.6675,-79.39417
+Toro,13,Casa Loma,Q1046446,palace_castle,43.6781,-79.4095
+Toro,28,Old City Hall (Toronto),Q439501,historic_civic,43.6525,-79.38167
+Toro,29,Ontario Legislative Building,Q980270,historic_civic,43.662447,-79.391708
+Toro,30,Union Station (Toronto),Q511316,historic_infrastructure,43.64528,-79.38056

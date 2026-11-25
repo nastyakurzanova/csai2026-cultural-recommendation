@@ -1,0 +1,9 @@
+city,canonical_pois,linked_pois,coordinate_screen_passed_pois,entity_usable_for_screening_pois,category_candidate_pois,category_candidate_linked_coordinate_passed_pois,visits_after_duplicate_merge,ambiguous_sequences_excluded_from_screening,old_date_sequences_pending_review,screening_sequences,provisional_cultural_visits,provisional_cultural_sequences_2plus,h2_diagnostic_users,h2_diagnostic_sequences,h2_diagnostic_prediction_positions,original_pois_with_P149,original_pois_with_P84,original_pois_with_P571,original_pois_with_P1435,original_pois_with_P793,original_pois_with_P138,original_pois_with_P921
+Buda,39,39,39,39,23,23,5454,23,9,2329,3574,643,100,142,419,16,20,24,5,3,14,1
+Delh,26,26,25,25,21,20,744,5,4,480,570,86,7,8,19,7,5,17,13,1,5,0
+Edin,29,29,29,27,12,12,8624,28,18,4985,3520,494,33,48,119,4,10,17,20,1,6,0
+Glas,29,29,28,28,6,5,2833,13,17,2195,360,31,1,1,1,5,10,20,11,3,4,0
+Osak,28,28,26,26,6,6,1419,1,3,1111,226,10,0,0,0,3,2,18,4,5,4,1
+Pert,25,25,25,25,2,2,975,1,0,714,127,7,1,1,3,1,2,14,9,0,4,0
+Toro,30,30,30,30,8,8,7876,37,49,5954,1872,98,2,2,4,7,11,22,7,6,6,0
+Vien,28,28,28,28,21,21,5853,19,14,3158,4665,786,107,168,430,8,17,26,14,10,5,0

@@ -1,0 +1,22 @@
+{
+  "Delh": {
+    "train_end": 1304818700,
+    "validation_end": 1353381640
+  },
+  "Glas": {
+    "train_end": 1307773595,
+    "validation_end": 1346861239
+  },
+  "Osak": {
+    "train_end": 1344244292,
+    "validation_end": 1371483797
+  },
+  "Pert": {
+    "train_end": 1351812175,
+    "validation_end": 1370904502
+  },
+  "Toro": {
+    "train_end": 1314950029,
+    "validation_end": 1353391430
+  }
+}

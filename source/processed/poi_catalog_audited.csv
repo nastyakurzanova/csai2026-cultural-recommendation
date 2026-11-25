@@ -1,0 +1,237 @@
+city,poiID,poiName,lat,lon,theme,decoded_name,cultural_status,coordinate_valid,km_from_catalog_median,coordinate_outlier_50km
+Buda,1,S%C3%A1ndor_Palace,47.4978,19.0378,Historical,Sándor Palace,candidate_by_category,True,1.0719750452970715,False
+Buda,2,Ervin_Szab%C3%B3_Library,47.4893778,19.0648,Historical,Ervin Szabó Library,candidate_by_category,True,1.430653721499285,False
+Buda,3,Gresham_Palace,47.4997472,19.0479806,Historical,Gresham Palace,candidate_by_category,True,0.31504713399951084,False
+Buda,4,Buda_Castle,47.49611,19.03972,Historical,Buda Castle,candidate_by_category,True,0.9713755264284443,False
+Buda,5,Hungarian_State_Opera_House,47.5028083,19.0581889,Cultural,Hungarian State Opera House,candidate_by_category,True,0.638381395536403,False
+Buda,6,House_of_Terror,47.50694,19.06528,Museum,House of Terror,candidate_by_category,True,1.3415323590153894,False
+Buda,7,National_Sz%C3%A9ch%C3%A9nyi_Library,47.495,19.03917,Historical,National Széchényi Library,candidate_by_category,True,1.05495907988001,False
+Buda,8,Matthias_Church,47.50194,19.03417,Cultural,Matthias Church,candidate_by_category,True,1.3800708947424714,False
+Buda,9,Fisherman%27s_Bastion,47.50167,19.035,Historical,Fisherman's Bastion,candidate_by_category,True,1.3123296130281843,False
+Buda,10,City_Park_(Budapest),47.51389,19.08472,Park,City Park (Budapest),requires_individual_review,True,2.9716081684962616,False
+Buda,11,Sz%C3%A9chenyi_Medicinal_Bath,47.51861,19.08194,Park,Széchenyi Medicinal Bath,requires_individual_review,True,3.1420924059041857,False
+Buda,12,Vajdahunyad_Castle,47.51528,19.08194,Historical,Vajdahunyad Castle,candidate_by_category,True,2.895911487984276,False
+Buda,13,Vigad%C3%B3_Concert_Hall,47.4958944,19.0494556,Cultural,Vigadó Concert Hall,candidate_by_category,True,0.38321833865564553,False
+Buda,14,Erzs%C3%A9bet_Bridge,47.49083,19.04889,Transport,Erzsébet Bridge,outside_initial_scope,True,0.925768471429035,False
+Buda,15,Franz_Liszt_Academy_of_Music,47.5032472,19.0645167,Cultural,Franz Liszt Academy of Music,candidate_by_category,True,1.0592318587600875,False
+Buda,16,Gell%C3%A9rt_Baths,47.4837083,19.050972,Park,Gellért Baths,requires_individual_review,True,1.6898186573856246,False
+Buda,17,Gell%C3%A9rt_Hill,47.48639,19.04583,Park,Gellért Hill,requires_individual_review,True,1.46467616048792,False
+Buda,18,Gell%C3%A9rt_Hill_Cave,47.4851056,19.0519778,Park,Gellért Hill Cave,requires_individual_review,True,1.5327553468399007,False
+Buda,19,Liberty_Statue_(Budapest),47.48639,19.04806,Park,Liberty Statue (Budapest),requires_individual_review,True,1.4207633807967508,False
+Buda,20,Geological_Museum_(Budapest),47.5055833,19.0974361,Museum,Geological Museum (Budapest),candidate_by_category,True,3.494947983904141,False
+Buda,21,Great_Market_Hall_(Budapest),47.48667,19.05889,Shopping,Great Market Hall (Budapest),outside_initial_scope,True,1.454664109323881,False
+Buda,22,Liberty_Bridge_(Budapest),47.48583,19.055,Transport,Liberty Bridge (Budapest),outside_initial_scope,True,1.4698507072767057,False
+Buda,23,Budapest_Kunsthalle,47.5140222,19.0786778,Museum,Budapest Kunsthalle,candidate_by_category,True,2.6178842739458354,False
+Buda,24,Museum_of_Fine_Arts_(Budapest),47.51611,19.07639,Museum,Museum of Fine Arts (Budapest),candidate_by_category,True,2.6511490684969665,False
+Buda,25,Margaret_Island,47.533,19.05,Park,Margaret Island,requires_individual_review,True,3.795766144159587,False
+Buda,26,Museum_of_Applied_Arts_(Budapest),47.48611,19.06833,Museum,Museum of Applied Arts (Budapest),candidate_by_category,True,1.8785296313197173,False
+Buda,27,Hungarian_National_Museum,47.49111,19.06278,Museum,Hungarian National Museum,candidate_by_category,True,1.1861810319504575,False
+Buda,28,Szabads%C3%A1g_t%C3%A9r,47.50472,19.05028,Park,Szabadság tér,requires_individual_review,True,0.6606930597882034,False
+Buda,29,Doh%C3%A1ny_Street_Synagogue,47.49583,19.06083,Museum,Dohány Street Synagogue,candidate_by_category,True,0.7470205126378557,False
+Buda,30,%C3%93buda,47.55,19.033,Historical,Óbuda,candidate_by_category,True,5.859099632034201,False
+Buda,31,Palace_of_Arts_(Budapest),47.46944,19.07167,Cultural,Palace of Arts (Budapest),candidate_by_category,True,3.5935094692296503,False
+Buda,32,Hungarian_Parliament_Building,47.50694,19.04556,Historical,Hungarian Parliament Building,candidate_by_category,True,1.0166865275953991,False
+Buda,33,Saint_Stephen%27s_Basilica,47.500833,19.053889,Cultural,Saint Stephen's Basilica,candidate_by_category,True,0.2594066884312964,False
+Buda,34,Sashegy,47.48111,19.01639,Park,Sashegy,requires_individual_review,True,3.325459594560492,False
+Buda,35,Shoes_on_the_Danube_Promenade,47.5039028,19.0447833,Park,Shoes on the Danube Promenade,requires_individual_review,True,0.7763898235371741,False
+Buda,36,Statue_Park_(Budapest),47.4263333,18.9989306,Museum,Statue Park (Budapest),candidate_by_category,True,8.999701109032817,False
+Buda,37,Sz%C3%A9chenyi_Chain_Bridge,47.49889,19.04361,Transport,Széchenyi Chain Bridge,outside_initial_scope,True,0.6286208647518691,False
+Buda,38,V%C3%A1ci_utca,47.4942222,19.052425,Shopping,Váci utca,outside_initial_scope,True,0.5201218935812245,False
+Buda,39,Western_Railway_Station_(Budapest),47.51083,19.0575,Transport,Western Railway Station (Budapest),outside_initial_scope,True,1.390956869451071,False
+Delh,1,India_Gate,28.6128639,77.229306,Building,India Gate,candidate_by_category,True,0.07492121292168541,False
+Delh,2,Sansad_Bhavan,28.617189,77.208084,Building,Sansad Bhavan,candidate_by_category,True,2.201489882102748,False
+Delh,3,Rashtrapati_Bhavan,28.6143417,77.1998028,Building,Rashtrapati Bhavan,candidate_by_category,True,2.957846513078588,False
+Delh,4,"Connaught_Place,_New_Delhi",28.63278,77.21972,Park,"Connaught Place, New Delhi",requires_individual_review,True,2.4515226856523222,False
+Delh,5,Lodhi_Gardens,28.593,77.22,Park,Lodhi Gardens,requires_individual_review,True,2.3981930555283424,False
+Delh,6,Purana_Quila,28.61,77.245,Architectural,Purana Quila,candidate_by_category,True,1.4900067114068787,False
+Delh,7,Red_Fort,28.655747,77.241625,Architectural,Red Fort,candidate_by_category,True,4.92017126199965,False
+Delh,8,Salimgarh_Fort,28.661,77.24,Architectural,Salimgarh Fort,candidate_by_category,True,5.459856104888132,False
+Delh,9,Chandni_Chowk,28.656,77.231,Precinct,Chandni Chowk,requires_individual_review,True,4.8176490469020905,False
+Delh,10,Safdarjung%27s_Tomb,28.589266,77.210506,Architectural,Safdarjung's Tomb,candidate_by_category,True,3.2277038564205247,False
+Delh,11,Qutub_Minar,28.524355,77.185248,Architectural,Qutub Minar,candidate_by_category,True,10.751752402427117,False
+Delh,12,Qutb_complex,28.524382,77.18543,Architectural,Qutb complex,candidate_by_category,True,10.741788417821933,False
+Delh,13,Tughlaqabad,28.51194,77.26083,Architectural,Tughlaqabad,candidate_by_category,True,11.598443654418363,False
+Delh,14,Akshardham_(Delhi),28.6125,77.27722,Religious,Akshardham (Delhi),candidate_by_category,True,4.605058131590571,False
+Delh,15,Cathedral_Church_of_Redemption,28.618038,77.201978,Religious,Cathedral Church of Redemption,candidate_by_category,True,2.8036892789459804,False
+Delh,16,Gurdwara_Bangla_Sahib,28.6267,77.2089,Religious,Gurdwara Bangla Sahib,candidate_by_category,True,2.586409054553868,False
+Delh,17,ISKCON_Temple_Delhi,28.55806,77.24333,Religious,ISKCON Temple Delhi,candidate_by_category,True,6.210656491178148,False
+Delh,18,"Jama_Masjid,_Delhi",28.6507,77.2334,Religious,"Jama Masjid, Delhi",candidate_by_category,True,4.2400765142133015,False
+Delh,19,Lotus_Temple,28.553325,77.2586,Religious,Lotus Temple,candidate_by_category,True,7.164954388664834,False
+Delh,20,"St._James%27_Church,_Delhi",28.665637,77.230784,Religious,"St. James' Church, Delhi",candidate_by_category,True,5.888774540193011,False
+Delh,21,"National_Museum,_New_Delhi",28.611811,77.219262,Museum,"National Museum, New Delhi",candidate_by_category,True,1.057037763527371,False
+Delh,22,"National_Rail_Museum,_New_Delhi",28.58472,77.18139,Museum,"National Rail Museum, New Delhi",candidate_by_category,True,5.677223071399915,False
+Delh,23,Jantar_Mantar_(Delhi),28.6271083,77.2164778,Architectural,Jantar Mantar (Delhi),candidate_by_category,True,2.0801361716465694,False
+Delh,24,Nizamuddin_Dargah,28.591306,77.241806,Religious,Nizamuddin Dargah,candidate_by_category,True,2.6396855745244934,False
+Delh,25,Raj_Ghat_and_other_memorials,28.64055,77.249433,Park,Raj Ghat and other memorials,requires_individual_review,True,3.630886797660955,False
+Delh,26,National_Zoological_Park_Delhi,28.6044359,77.2461981,Park,National Zoological Park Delhi,requires_individual_review,True,1.8240641002030036,False
+Edin,1,Edinburgh_Castle,55.948611,-3.200833,Historical,Edinburgh Castle,candidate_by_category,True,0.6710520428304882,False
+Edin,2,Holyrood_Palace,55.9525,-3.1725,Historical,Holyrood Palace,candidate_by_category,True,1.1556818560930449,False
+Edin,3,National_Museum_of_Scotland,55.94694,-3.19,Museum,National Museum of Scotland,candidate_by_category,True,0.43874905104940376,False
+Edin,4,Scottish_Parliament_Building,55.952158,-3.175204,Structure,Scottish Parliament Building,requires_individual_review,True,0.9835103648875484,False
+Edin,5,Forth_Rail_Bridge,56.000421,-3.388726,Structure,Forth Rail Bridge,requires_individual_review,True,13.48990842664946,False
+Edin,6,Forth_Road_Bridge,56.00083,-3.40417,Structure,Forth Road Bridge,requires_individual_review,True,14.389762455246688,False
+Edin,7,Arthur%27s_Seat,55.94417,-3.16194,Park,Arthur's Seat,requires_individual_review,True,1.9464804882271147,False
+Edin,8,Scott_Monument,55.952417,-3.193278,Historical,Scott Monument,candidate_by_category,True,0.230796744680757,False
+Edin,9,St_Giles%27_Cathedral,55.94944,-3.19083,Cultural,St Giles' Cathedral,candidate_by_category,True,0.1577077644596919,False
+Edin,10,Calton_Hill,55.95528,-3.18222,Park,Calton Hill,requires_individual_review,True,0.7273594323897323,False
+Edin,11,National_Monument_of_Scotland,55.954722,-3.181806,Historical,National Monument of Scotland,candidate_by_category,True,0.7072391427326264,False
+Edin,12,Usher_Hall,55.94675,-3.2042,Cultural,Usher Hall,candidate_by_category,True,0.9495484909556302,False
+Edin,13,Edinburgh_Festival_Theatre,55.9467,-3.1861778,Cultural,Edinburgh Festival Theatre,candidate_by_category,True,0.5456158232721612,False
+Edin,14,Edinburgh_International_Conference_Centre,55.9461083,-3.2096472,Structure,Edinburgh International Conference Centre,requires_individual_review,True,1.2851537981266907,False
+Edin,15,Royal_Scottish_Academy_Building,55.95175,-3.196389,Structure,Royal Scottish Academy Building,requires_individual_review,True,0.36001395141237735,False
+Edin,16,Scottish_National_Gallery,55.950917,-3.195667,Museum,Scottish National Gallery,candidate_by_category,True,0.3012146534454719,False
+Edin,17,"Parliament_House,_Edinburgh",55.94917,-3.19056,Structure,"Parliament House, Edinburgh",requires_individual_review,True,0.1884815168943787,False
+Edin,18,Princes_Street_Gardens,55.95005,-3.2029944,Park,Princes Street Gardens,requires_individual_review,True,0.7626592695014418,False
+Edin,19,Balmoral_Hotel,55.9528694,-3.1895083,Structure,Balmoral Hotel,requires_individual_review,True,0.2382824892032046,False
+Edin,20,Royal_Botanic_Garden_Edinburgh,55.9656028,-3.2066611,Park,Royal Botanic Garden Edinburgh,requires_individual_review,True,1.912872538945438,False
+Edin,21,"Victoria_Quay,_Scotland",55.9781806,-3.1734667,Structure,"Victoria Quay, Scotland",requires_individual_review,True,3.224565292554819,False
+Edin,22,Bute_House,55.9525306,-3.2080167,Structure,Bute House,requires_individual_review,True,1.0860320823893437,False
+Edin,23,St_Andrew%27s_House,55.953375,-3.1840972,Structure,St Andrew's House,requires_individual_review,True,0.503992079100486,False
+Edin,24,Our_Dynamic_Earth,55.9505778,-3.1743694,Entertainment,Our Dynamic Earth,requires_individual_review,True,1.0252897835134278,False
+Edin,25,Craiglockhart_Castle,55.9193361,-3.2383139,Historical,Craiglockhart Castle,candidate_by_category,True,4.5861158988928485,False
+Edin,26,Royal_Museum,55.94694,-3.19,Museum,Royal Museum,candidate_by_category,True,0.43874905104940376,False
+Edin,27,Scottish_National_Gallery_of_Modern_Art,55.9508583,-3.2275639,Museum,Scottish National Gallery of Modern Art,candidate_by_category,True,2.286995886444267,False
+Edin,28,"Old_College,_University_of_Edinburgh",55.947389,-3.187194,Structure,"Old College, University of Edinburgh",requires_individual_review,True,0.44728753713043046,False
+Edin,29,"New_College,_Edinburgh",55.9498,-3.1952,Structure,"New College, Edinburgh",requires_individual_review,True,0.29643182488567726,False
+Glas,1,Glasgow_Central_railway_station,55.858,-4.258,Transport,Glasgow Central railway station,outside_initial_scope,True,0.5530840275214425,False
+Glas,2,Glasgow_Queen_Street_railway_station,55.8622,-4.2512,Transport,Glasgow Queen Street railway station,outside_initial_scope,True,0.7936943618736323,False
+Glas,3,Glasgow_Airport,55.87194,-4.43306,Transport,Glasgow Airport,outside_initial_scope,True,10.616145980439622,False
+Glas,4,Glasgow_Prestwick_International_Airport,55.50944,-4.59444,Transport,Glasgow Prestwick International Airport,outside_initial_scope,True,44.31385445505071,False
+Glas,5,Clyde_Tunnel,55.86867,-4.33115,Transport,Clyde Tunnel,outside_initial_scope,True,4.267390506021941,False
+Glas,6,"Kingston_Bridge,_Glasgow",55.85528,-4.27,Transport,"Kingston Bridge, Glasgow",outside_initial_scope,True,0.8109632907965194,False
+Glas,7,University_of_Strathclyde,55.8617167,-4.241699833,Education,University of Strathclyde,requires_individual_review,True,1.3847045911341873,False
+Glas,8,Glasgow_Caledonian_University,55.86722,-4.25016,Education,Glasgow Caledonian University,requires_individual_review,True,1.0528199559822407,False
+Glas,9,University_of_Glasgow,55.87194,-4.2875,Education,University of Glasgow,requires_individual_review,True,1.8607315600466845,False
+Glas,10,University_of_Glasgow_Medical_School,55.872,-4.288,Education,University of Glasgow Medical School,requires_individual_review,True,1.8895547690743943,False
+Glas,11,Glasgow_School_of_Art,55.86611,-4.26389,Education,Glasgow School of Art,requires_individual_review,True,0.48851267122717446,False
+Glas,12,Royal_Scottish_Academy_of_Music_and_Drama,55.86254,-4.2567,Education,Royal Scottish Academy of Music and Drama,requires_individual_review,True,0.45790812740910575,False
+Glas,13,"St._Mungo%27s_Cathedral,_Glasgow",55.862972,-4.234444,Religion,"St. Mungo's Cathedral, Glasgow",candidate_by_category,True,1.8427454798201297,False
+Glas,14,Glasgow_Central_Mosque,55.8525,-4.25083,Religion,Glasgow Central Mosque,candidate_by_category,True,1.3094449240203003,False
+Glas,15,Ashton_Lane,55.874757,-4.292865,Shopping,Ashton Lane,outside_initial_scope,True,2.3174631602927622,False
+Glas,16,Buchanan_Street,55.8606833,-4.254111,Shopping,Buchanan Street,outside_initial_scope,True,0.620959124483682,False
+Glas,17,Burrell_Collection,55.83083,-4.3075,Museum,Burrell Collection,candidate_by_category,True,4.382576989726121,False
+Glas,18,Celtic_Park,55.84972,-4.20556,Park,Celtic Park,requires_individual_review,True,3.877162429411491,False
+Glas,19,Clyde_Auditorium,55.859496,-4.287962,Structure,Clyde Auditorium,requires_individual_review,True,1.5223373034103662,False
+Glas,20,Glasgow_Royal_Concert_Hall,55.864503,-4.252921,Structure,Glasgow Royal Concert Hall,requires_individual_review,True,0.7513157264655861,False
+Glas,21,Gallery_of_Modern_Art,55.8602,-4.25249,Museum,Gallery of Modern Art,candidate_by_category,True,0.7311110116458301,False
+Glas,22,Glasgow_Green,55.8502639,-4.2392833,Park,Glasgow Green,requires_individual_review,True,1.9950542924075674,False
+Glas,23,Holmwood_House,55.8097,-4.25936,Structure,Holmwood House,requires_individual_review,True,5.790905930110325,False
+Glas,24,Ibrox_Stadium,55.8532056,-4.3092583,Structure,Ibrox Stadium,requires_individual_review,True,2.985349623104609,False
+Glas,25,Glasgow_Museum_of_Transport,55.8687,-4.295,Museum,Glasgow Museum of Transport,candidate_by_category,True,2.0906936942946603,False
+Glas,26,Kelvingrove_Art_Gallery_and_Museum,55.8685806,-4.2905056,Museum,Kelvingrove Art Gallery and Museum,candidate_by_category,True,1.827700001418569,False
+Glas,27,Pollok_House,55.8279278,-4.3182222,Structure,Pollok House,requires_individual_review,True,5.061735930678357,False
+Glas,28,Willow_Tearooms,55.86502917,-4.26116083,Structure,Willow Tearooms,requires_individual_review,True,0.405793262337558,False
+Glas,29,Glasgow_International_Hilton_Hotel,55.8613694,-4.26861,Structure,Glasgow International Hilton Hotel,requires_individual_review,True,0.29705833010426425,False
+Osak,1,Osaka_Aquarium_Kaiyukan,34.654472,135.428889,Amusement,Osaka Aquarium Kaiyukan,outside_initial_scope,True,6.945070775477529,False
+Osak,2,Tempozan_Ferris_Wheel,34.6561657,135.431031,Amusement,Tempozan Ferris Wheel,outside_initial_scope,True,6.713235988096413,False
+Osak,3,Tenn%C5%8Dji_Zoo,34.652556,135.508496,Amusement,Tennōji Zoo,outside_initial_scope,True,1.8464978486563879,False
+Osak,4,Universal_Studios_Japan,34.66472,135.43306,Amusement,Universal Studios Japan,outside_initial_scope,True,6.399448457774996,False
+Osak,5,HEP_Five,34.7040028,135.5004466,Amusement,HEP Five,outside_initial_scope,True,3.953229318628418,False
+Osak,6,Umeda_Sky_Building,34.70528,135.48972,Amusement,Umeda Sky Building,outside_initial_scope,True,4.262387344582952,False
+Osak,7,Nakanoshima_Park,34.693056,135.506431,Park,Nakanoshima Park,requires_individual_review,True,2.748946504074169,False
+Osak,8,Osaka_Castle,34.68722,135.52583,Park,Osaka Castle,requires_individual_review,True,2.955179436835642,False
+Osak,9,Sumiyoshi_Park,34.6124,135.48848,Park,Sumiyoshi Park,requires_individual_review,True,6.3764206919845705,False
+Osak,10,Tenn%C5%8Dji_Park,34.64985,135.51111,Park,Tennōji Park,requires_individual_review,True,2.206844266050918,False
+Osak,11,Utsubo_Park,34.685055,135.492786,Park,Utsubo Park,requires_individual_review,True,2.0586714184571697,False
+Osak,12,Nagai_Park,34.61194,135.52056,Park,Nagai Park,requires_individual_review,True,6.4945487805169835,False
+Osak,13,Osaka_Castle,34.68722,135.52583,Historical,Osaka Castle,candidate_by_category,True,2.955179436835642,False
+Osak,14,Sank%C5%8D_Shrine,34.67306,135.52944,Historical,Sankō Shrine,candidate_by_category,True,2.480947604959814,False
+Osak,15,Shitenn%C5%8D-ji,34.6539,135.51645,Historical,Shitennō-ji,candidate_by_category,True,2.044027067779827,False
+Osak,16,Sumiyoshi_taisha,34.6127972,135.4929417,Historical,Sumiyoshi taisha,candidate_by_category,True,6.261039664501423,False
+Osak,17,Tamatsukuri_Inari_Shrine,34.67806,135.53,Historical,Tamatsukuri Inari Shrine,candidate_by_category,True,2.6978084253620693,False
+Osak,18,%C5%8Csaka_Tenmang%C5%AB_Shrine,34.696025,135.5126194,Historical,Ōsaka Tenmangū Shrine,candidate_by_category,True,3.1867708352094306,False
+Osak,19,D%C5%8Dtonbori,34.668507,135.480684,Entertainment,Dōtonbori,requires_individual_review,True,2.0300742743225846,False
+Osak,20,Namba,34.66722,135.50028,Entertainment,Namba,requires_individual_review,True,0.2776798021369084,False
+Osak,21,Shinsaibashi,34.6725,135.5,Entertainment,Shinsaibashi,requires_individual_review,True,0.5163349054963751,False
+Osak,22,Shinsekai,34.65222,135.50611,Entertainment,Shinsekai,requires_individual_review,True,1.834939335813404,False
+Osak,23,Nipponbashi,34.65972,135.50583,Entertainment,Nipponbashi,requires_individual_review,True,1.0135872937066477,False
+Osak,24,Amerikamura,34.672086,135.49796,Entertainment,Amerikamura,requires_individual_review,True,0.600822209992686,False
+Osak,25,J%C5%ABs%C5%8D,34.71971,135.482755,Entertainment,Jūsō,requires_individual_review,True,5.983484720570668,False
+Osak,26,Ky%C5%8Dbashi#Osaka,35.6751778,139.7692944,Entertainment,Kyōbashi#Osaka,requires_individual_review,True,403.58237370041405,True
+Osak,27,Zepp,34.657361,135.501306,Entertainment,Zepp,requires_individual_review,True,1.247732217568582,False
+Osak,28,"Doyama,_Osaka,_Japan",34.703165,135.502882,Entertainment,"Doyama, Osaka, Japan",requires_individual_review,True,3.8537937676471503,False
+Osak,29,Tobita_Shinchi,34.644325,135.5054444,Entertainment,Tobita Shinchi,requires_individual_review,True,2.699110711287959,False
+Pert,1,Perth_Town_Hall,-31.955,115.860556,Structure,Perth Town Hall,requires_individual_review,True,0.3779402273737466,False
+Pert,2,"Parliament_House,_Perth",-31.951634,115.847209,Structure,"Parliament House, Perth",requires_individual_review,True,1.2068097822252244,False
+Pert,3,State_Library_of_Western_Australia,-31.949031,115.860513,Structure,State Library of Western Australia,requires_individual_review,True,0.2934594287800255,False
+Pert,4,"Chinatown,_Perth",-31.946,115.854,Precinct,"Chinatown, Perth",requires_individual_review,True,0.8443607713392437,False
+Pert,5,"Northbridge,_Western_Australia",-31.946,115.854,Precinct,"Northbridge, Western Australia",requires_individual_review,True,0.8443607713392437,False
+Pert,6,Supreme_Court_Gardens,-31.9585,115.8599,Park,Supreme Court Gardens,requires_individual_review,True,0.7635226572520719,False
+Pert,7,Stirling_Gardens,-31.9565,115.86,Park,Stirling Gardens,requires_individual_review,True,0.5410745130524022,False
+Pert,8,"Queens_Gardens,_Perth",-31.9595,115.8766,Park,"Queens Gardens, Perth",requires_individual_review,True,1.7938079460805298,False
+Pert,9,"Russell_Square,_Perth",-31.9461,115.8555,Park,"Russell Square, Perth",requires_individual_review,True,0.7476145198983699,False
+Pert,10,"Kings_Park,_Western_Australia",-31.96,115.83,Park,"Kings Park, Western Australia",requires_individual_review,True,2.9792781796811356,False
+Pert,11,"Hyde_Park,_Perth",-31.9379,115.8628,Park,"Hyde Park, Perth",requires_individual_review,True,1.549835352248197,False
+Pert,12,Art_Gallery_of_Western_Australia,-31.950624,115.860898,Cultural,Art Gallery of Western Australia,candidate_by_category,True,0.14068123039766778,False
+Pert,13,Western_Australian_Museum,-31.94956,115.861391,Cultural,Western Australian Museum,candidate_by_category,True,0.26534644955520564,False
+Pert,14,WACA_Ground,-31.96,115.87972,Sport,WACA Ground,outside_initial_scope,True,2.0800737656622323,False
+Pert,15,Perth_Oval,-31.94583,115.87,Sport,Perth Oval,outside_initial_scope,True,1.1431214962955887,False
+Pert,16,East_Perth_railway_station,-31.943896,115.876976,Transport,East Perth railway station,outside_initial_scope,True,1.8182015146854653,False
+Pert,17,Perth_railway_station,-31.951493,115.860448,Transport,Perth railway station,outside_initial_scope,True,0.045082221549937275,False
+Pert,18,Esplanade_railway_station,-31.956586,115.855476,Transport,Esplanade railway station,outside_initial_scope,True,0.6966901046216687,False
+Pert,19,Esplanade_Busport,-31.9562,115.85465,Transport,Esplanade Busport,outside_initial_scope,True,0.7159254773091874,False
+Pert,20,Wellington_Street_bus_station,-31.9505,115.857,Transport,Wellington Street bus station,outside_initial_scope,True,0.30986360733636686,False
+Pert,21,Crown_Perth,-31.96083,115.89556,Entertainment,Crown Perth,requires_individual_review,True,3.5072336124117514,False
+Pert,22,"Perth_Concert_Hall,_Western_Australia",-31.95806,115.86361,Entertainment,"Perth Concert Hall, Western Australia",requires_individual_review,True,0.7915579496430528,False
+Pert,23,Perth_Arena,-31.94833,115.85194,Entertainment,Perth Arena,requires_individual_review,True,0.8445563984152856,False
+Pert,24,Cottesloe_Beach,-31.993,115.757,Beach,Cottesloe Beach,outside_initial_scope,True,10.749501978259442,False
+Pert,25,"Coogee,_Western_Australia",-32.119,115.766,Beach,"Coogee, Western Australia",outside_initial_scope,True,20.61195095745614,False
+Toro,1,Air_Canada_Centre,43.64333,-79.37917,Sport,Air Canada Centre,outside_initial_scope,True,1.1809687693773974,False
+Toro,2,BMO_Field,43.63278,-79.41861,Sport,BMO Field,outside_initial_scope,True,3.3842408503534402,False
+Toro,3,Maple_Leaf_Gardens,43.66222,-79.38028,Sport,Maple Leaf Gardens,outside_initial_scope,True,1.193573675996754,False
+Toro,4,Rogers_Centre,43.64139,-79.38917,Sport,Rogers Centre,outside_initial_scope,True,1.2528963502961155,False
+Toro,5,Woodbine_Racetrack,43.712525,-79.6020417,Sport,Woodbine Racetrack,outside_initial_scope,True,18.567585727884996,False
+Toro,6,Art_Gallery_of_Ontario,43.65389,-79.39278,Cultural,Art Gallery of Ontario,candidate_by_category,True,0.5225903045779743,False
+Toro,7,Hockey_Hall_of_Fame,43.646976,-79.377253,Cultural,Hockey Hall of Fame,candidate_by_category,True,0.9694487613312156,False
+Toro,8,Ripley%27s_Aquarium_of_Canada,43.642481,-79.38605,Cultural,Ripley's Aquarium of Canada,candidate_by_category,True,1.114862523479111,False
+Toro,9,Ontario_Science_Centre,43.71667,-79.33833,Cultural,Ontario Science Centre,candidate_by_category,True,8.12179570074469,False
+Toro,10,Riverdale_Farm,43.667111,-79.361294,Cultural,Riverdale Farm,candidate_by_category,True,2.6029829398674247,False
+Toro,11,Royal_Ontario_Museum,43.6675,-79.39417,Cultural,Royal Ontario Museum,candidate_by_category,True,1.7763040630302585,False
+Toro,12,Toronto_Zoo,43.8202778,-79.1827778,Cultural,Toronto Zoo,candidate_by_category,True,24.82204927315938,False
+Toro,13,Casa_Loma,43.6781,-79.4095,Cultural,Casa Loma,candidate_by_category,True,3.3916751838045736,False
+Toro,14,Canadian_National_Exhibition,43.63333,-79.41667,Amusement,Canadian National Exhibition,outside_initial_scope,True,3.22616253006882,False
+Toro,15,Centreville_Amusement_Park,43.6203083,-79.3736778,Amusement,Centreville Amusement Park,outside_initial_scope,True,3.7269906092367937,False
+Toro,16,CN_Tower,43.6426,-79.3871,Amusement,CN Tower,outside_initial_scope,True,1.1016399413826692,False
+Toro,17,Exhibition_Place,43.63278,-79.41611,Amusement,Exhibition Place,outside_initial_scope,True,3.233640008010246,False
+Toro,18,Sunnyside_Amusement_Park,43.637923,-79.450786,Amusement,Sunnyside Amusement Park,outside_initial_scope,True,5.414942247105155,False
+Toro,19,Toronto_Islands,43.62083,-79.37861,Beach,Toronto Islands,outside_initial_scope,True,3.5794033830796512,False
+Toro,20,High_Park,43.646821,-79.462996,Beach,High Park,outside_initial_scope,True,6.1810026456184595,False
+Toro,21,Yonge-Dundas_Square,43.65611,-79.38028,Beach,Yonge-Dundas Square,outside_initial_scope,True,0.6462327575523098,False
+Toro,22,Nathan_Phillips_Square,43.6525,-79.38361,Beach,Nathan Phillips Square,outside_initial_scope,True,0.23854593056152318,False
+Toro,23,Toronto_Eaton_Centre,43.653982,-79.380319,Shopping,Toronto Eaton Centre,outside_initial_scope,True,0.5296042388033655,False
+Toro,24,Harbourfront_Centre,43.63849,-79.382068,Shopping,Harbourfront Centre,outside_initial_scope,True,1.5994943112113977,False
+Toro,25,Kensington_Market,43.6547722,-79.4006778,Shopping,Kensington Market,outside_initial_scope,True,1.1623952218225395,False
+Toro,26,Yorkdale_Shopping_Centre,43.725599,-79.452696,Shopping,Yorkdale Shopping Centre,outside_initial_scope,True,9.712514829774376,False
+Toro,27,"Yorkville,_Toronto",43.67028,-79.39111,Shopping,"Yorkville, Toronto",outside_initial_scope,True,2.0104209688500037,False
+Toro,28,Old_City_Hall_(Toronto),43.6525,-79.38167,Structure,Old City Hall (Toronto),requires_individual_review,True,0.3946265731194173,False
+Toro,29,Ontario_Legislative_Building,43.662447,-79.391708,Structure,Ontario Legislative Building,requires_individual_review,True,1.1806251578026612,False
+Toro,30,Union_Station_(Toronto),43.64528,-79.38056,Structure,Union Station (Toronto),requires_individual_review,True,0.937415924859219,False
+Vien,1,Sch%C3%B6nbrunn_Palace,48.184516,16.311865,Palace,Schönbrunn Palace,candidate_by_category,True,4.594600617415162,False
+Vien,2,Tiergarten_Sch%C3%B6nbrunn,48.18222,16.3025,Zoo,Tiergarten Schönbrunn,outside_initial_scope,True,5.327787255073951,False
+Vien,3,Wiener_Riesenrad,48.2166505,16.3959494,Entertainment,Wiener Riesenrad,requires_individual_review,True,2.592978253722293,False
+Vien,4,"Albertina,_Vienna",48.20444,16.36778,Museum,"Albertina, Vienna",candidate_by_category,True,0.10729712215349649,False
+Vien,5,Hofburg_Palace,48.206507,16.365262,Palace,Hofburg Palace,candidate_by_category,True,0.27297680843602873,False
+Vien,6,Kunsthistorisches_Museum,48.2037,16.3614,Museum,Kunsthistorisches Museum,candidate_by_category,True,0.3734801844706268,False
+Vien,7,Belvedere_(palace),48.191439,16.380787,Palace,Belvedere (palace),candidate_by_category,True,1.7727511554022894,False
+Vien,8,Donauturm,48.24,16.41083,Structure,Donauturm,requires_individual_review,True,5.168373586128027,False
+Vien,9,Naturhistorisches_Museum,48.2052,16.3599,Museum,Naturhistorisches Museum,candidate_by_category,True,0.4944110340243356,False
+Vien,10,Haus_des_Meeres,48.1975,16.35306,Zoo,Haus des Meeres,outside_initial_scope,True,1.2353520146201609,False
+Vien,11,Leopold_Museum,48.2025,16.35889,Museum,Leopold Museum,candidate_by_category,True,0.5860255631161183,False
+Vien,12,Belvedere_(palace),48.191439,16.380787,Palace,Belvedere (palace),candidate_by_category,True,1.7727511554022894,False
+Vien,13,Technisches_Museum_Wien,48.19083,16.3175,Museum,Technisches Museum Wien,candidate_by_category,True,3.9155094095243492,False
+Vien,14,Schatzkammer_(Vienna),48.20667,16.36556,Museum,Schatzkammer (Vienna),candidate_by_category,True,0.2847109078233017,False
+Vien,15,Spanish_Riding_School,48.2075,16.36611,Entertainment,Spanish Riding School,requires_individual_review,True,0.37086004392140265,False
+Vien,16,MUMOK,48.203722,16.357444,Museum,MUMOK,candidate_by_category,True,0.6648508617534967,False
+Vien,17,"St._Stephen%27s_Cathedral,_Vienna",48.2085,16.373,Historical,"St. Stephen's Cathedral, Vienna",candidate_by_category,True,0.6868480408427414,False
+Vien,18,"Imperial_Crypt,_Vienna",48.20556,16.36972,Historical,"Imperial Crypt, Vienna",candidate_by_category,True,0.29118595700402694,False
+Vien,19,Haus_der_Musik,48.20417,16.37333,Museum,Haus der Musik,candidate_by_category,True,0.5143164317659852,False
+Vien,20,"St._Charles%27s_Church,_Vienna",48.198333,16.371389,Historical,"St. Charles's Church, Vienna",candidate_by_category,True,0.7473442589612851,False
+Vien,21,Museum_f%C3%BCr_angewandte_Kunst_Wien,48.2075,16.38167,Museum,Museum für angewandte Kunst Wien,candidate_by_category,True,1.1913522027526307,False
+Vien,22,KunstHausWien,48.210917,16.393389,Museum,KunstHausWien,candidate_by_category,True,2.136772514486376,False
+Vien,23,Vienna_State_Opera,48.20278,16.368472,Historical,Vienna State Opera,candidate_by_category,True,0.2183956455710241,False
+Vien,24,Palmenhaus_Sch%C3%B6nbrunn,48.18472,16.30278,Park,Palmenhaus Schönbrunn,requires_individual_review,True,5.187328104117933,False
+Vien,25,Austrian_National_Library,48.20611,16.36639,Historical,Austrian National Library,candidate_by_category,True,0.21571815769096833,False
+Vien,26,Austrian_Parliament_Building,48.20806,16.35806,Historical,Austrian Parliament Building,candidate_by_category,True,0.7537657718657144,False
+Vien,27,Mozarthaus_Vienna,48.20778,16.37528,Cultural,Mozarthaus Vienna,candidate_by_category,True,0.7714648214865136,False
+Vien,28,Heeresgeschichtliches_Museum,48.18528,16.3875,Museum,Heeresgeschichtliches Museum,candidate_by_category,True,2.6192291175778077,False
+Vien,29,W%C3%BCstenhaus_Sch%C3%B6nbrunn,48.18472,16.30167,Park,Wüstenhaus Schönbrunn,requires_individual_review,True,5.262224368389934,False

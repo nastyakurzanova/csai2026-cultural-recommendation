@@ -1,0 +1,20 @@
+test_candidate_mask_and_static_ties (test_research.ResearchTests.test_candidate_mask_and_static_ties) ... ok
+test_deployment_matches_saved_experiment (test_research.ResearchTests.test_deployment_matches_saved_experiment) ... ok
+test_diffusion_against_independent_power_iteration (test_research.ResearchTests.test_diffusion_against_independent_power_iteration) ... ok
+test_ease_closed_form_optimality (test_research.ResearchTests.test_ease_closed_form_optimality) ... ok
+test_feature_provenance (test_research.ResearchTests.test_feature_provenance) ... ok
+test_gate_boundaries (test_research.ResearchTests.test_gate_boundaries) ... ok
+test_global_flickr_cluster_accounting (test_research.ResearchTests.test_global_flickr_cluster_accounting) ... ok
+test_markov_counts_use_training_sequences_only (test_research.ResearchTests.test_markov_counts_use_training_sequences_only) ... ok
+test_metric_known_ranks (test_research.ResearchTests.test_metric_known_ranks) ... ok
+test_no_future_in_context (test_research.ResearchTests.test_no_future_in_context) ... ok
+test_positive_graph_variant_loads_and_has_positive_component (test_research.ResearchTests.test_positive_graph_variant_loads_and_has_positive_component) ... ok
+test_saved_probabilistic_kernels (test_research.ResearchTests.test_saved_probabilistic_kernels) ... ok
+test_sequence_disjoint_splits (test_research.ResearchTests.test_sequence_disjoint_splits) ... ok
+test_shuffle_preserves_degrees_and_relations (test_research.ResearchTests.test_shuffle_preserves_degrees_and_relations) ... ok
+test_source_photo_accounting (test_research.ResearchTests.test_source_photo_accounting) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.824s
+
+OK

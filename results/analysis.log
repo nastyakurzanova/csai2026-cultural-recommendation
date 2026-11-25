@@ -1,0 +1,23 @@
+VALIDITY
+ city  contexts  users  repeat_share  median_previous_sequence_gap_days  share_gap_atleast7days  share_gap_atleast30days  median_next_distance_km  share_next_within1km
+Buda       158     31      0.436709                           0.740295                0.088608                 0.050633                 0.548048              0.670886
+Edin       225     41      0.755556                           1.918021                0.360000                 0.257778                 0.294569              0.880000
+Vien       114     21      0.526316                           0.858796                0.245614                 0.175439                 0.423291              0.780702
+NOVEL
+ split     subset                  model       city  events  users    NDCG5      HR5      MRR   NDCG10     HR10  user_city_pairs
+ test novel_only       CulturalAdaptive MAIN_MACRO     143     38 0.447177 0.674648 0.409027 0.513232 0.876101             43.0
+ test novel_only CulturalAdaptiveForced MAIN_MACRO     143     38 0.405276 0.617728 0.378304 0.481555 0.851518             43.0
+ test novel_only          CulturalFixed MAIN_MACRO     143     38 0.445424 0.652822 0.416884 0.520813 0.883884             43.0
+ test novel_only    CulturalFixedForced MAIN_MACRO     143     38 0.400813 0.567133 0.395172 0.500847 0.877708             43.0
+ test novel_only                   EASE MAIN_MACRO     143     38 0.396150 0.609003 0.368176 0.476151 0.859658             43.0
+ test novel_only                ItemKNN MAIN_MACRO     143     38 0.445424 0.652822 0.416884 0.520813 0.883884             43.0
+ test novel_only                 Markov MAIN_MACRO     143     38 0.540148 0.700035 0.515629 0.588122 0.853948             43.0
+ test novel_only             Popularity MAIN_MACRO     143     38 0.391804 0.631667 0.354176 0.463416 0.855015             43.0
+TIMING
+ city        variant  median_ms   p95_ms  runs                                                                                                                definition
+Buda      optimized   0.266197 0.447249   100 CPU in-process recommendation including constructing profiles and formatting top5; excludes model loading, network and UI
+Buda graph_positive   0.258561 0.418133   100 CPU in-process recommendation including constructing profiles and formatting top5; excludes model loading, network and UI
+Vien      optimized   0.259042 0.439956   100 CPU in-process recommendation including constructing profiles and formatting top5; excludes model loading, network and UI
+Vien graph_positive   0.258661 0.449247   100 CPU in-process recommendation including constructing profiles and formatting top5; excludes model loading, network and UI
+Edin      optimized   0.268957 0.401446   100 CPU in-process recommendation including constructing profiles and formatting top5; excludes model loading, network and UI
+Edin graph_positive   0.253198 0.334928   100 CPU in-process recommendation including constructing profiles and formatting top5; excludes model loading, network and UI

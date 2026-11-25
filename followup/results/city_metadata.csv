@@ -1,0 +1,9 @@
+city,places,train_sequences,observed_train_transitions,cultural_edges,places_with_edges
+Buda,30,1305,1546,59,23
+Vien,25,1787,1508,42,18
+Edin,23,2738,1722,19,11
+Delh,20,216,60,15,12
+Glas,14,724,118,13,8
+Osak,6,129,6,4,3
+Pert,9,226,49,3,3
+Toro,8,1404,218,9,5

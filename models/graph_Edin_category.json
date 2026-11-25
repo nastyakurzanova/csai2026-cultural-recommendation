@@ -1,0 +1,323 @@
+{
+  "nodes": [
+    {
+      "id": "poi:Edin:1",
+      "kind": "poi",
+      "label": "Edinburgh Castle",
+      "qid": "Q212065"
+    },
+    {
+      "id": "poi:Edin:2",
+      "kind": "poi",
+      "label": "Holyrood Palace",
+      "qid": "Q505950"
+    },
+    {
+      "id": "poi:Edin:3",
+      "kind": "poi",
+      "label": "National Museum of Scotland",
+      "qid": "Q1633842"
+    },
+    {
+      "id": "poi:Edin:4",
+      "kind": "poi",
+      "label": "Scottish Parliament Building",
+      "qid": "Q2746031"
+    },
+    {
+      "id": "poi:Edin:5",
+      "kind": "poi",
+      "label": "Forth Rail Bridge",
+      "qid": "Q275"
+    },
+    {
+      "id": "poi:Edin:6",
+      "kind": "poi",
+      "label": "Forth Road Bridge",
+      "qid": "Q933000"
+    },
+    {
+      "id": "poi:Edin:8",
+      "kind": "poi",
+      "label": "Scott Monument",
+      "qid": "Q2502213"
+    },
+    {
+      "id": "poi:Edin:9",
+      "kind": "poi",
+      "label": "St Giles' Cathedral",
+      "qid": "Q1547466"
+    },
+    {
+      "id": "poi:Edin:11",
+      "kind": "poi",
+      "label": "National Monument of Scotland",
+      "qid": "Q6974379"
+    },
+    {
+      "id": "poi:Edin:12",
+      "kind": "poi",
+      "label": "Usher Hall",
+      "qid": "Q1636910"
+    },
+    {
+      "id": "poi:Edin:13",
+      "kind": "poi",
+      "label": "Edinburgh Festival Theatre",
+      "qid": "Q3047596"
+    },
+    {
+      "id": "poi:Edin:15",
+      "kind": "poi",
+      "label": "Royal Scottish Academy Building",
+      "qid": "Q7374813"
+    },
+    {
+      "id": "poi:Edin:16",
+      "kind": "poi",
+      "label": "Scottish National Gallery",
+      "qid": "Q942713"
+    },
+    {
+      "id": "poi:Edin:17",
+      "kind": "poi",
+      "label": "Parliament House, Edinburgh",
+      "qid": "Q7138911"
+    },
+    {
+      "id": "poi:Edin:19",
+      "kind": "poi",
+      "label": "Balmoral Hotel",
+      "qid": "Q3700280"
+    },
+    {
+      "id": "poi:Edin:20",
+      "kind": "poi",
+      "label": "Royal Botanic Garden Edinburgh",
+      "qid": "Q1807521"
+    },
+    {
+      "id": "poi:Edin:22",
+      "kind": "poi",
+      "label": "Bute House",
+      "qid": "Q2928830"
+    },
+    {
+      "id": "poi:Edin:23",
+      "kind": "poi",
+      "label": "St Andrew's House",
+      "qid": "Q7592399"
+    },
+    {
+      "id": "poi:Edin:24",
+      "kind": "poi",
+      "label": "Our Dynamic Earth",
+      "qid": "Q3358350"
+    },
+    {
+      "id": "poi:Edin:25",
+      "kind": "poi",
+      "label": "Craiglockhart Castle",
+      "qid": "Q5181716"
+    },
+    {
+      "id": "poi:Edin:27",
+      "kind": "poi",
+      "label": "Scottish National Gallery of Modern Art",
+      "qid": "Q1889944"
+    },
+    {
+      "id": "poi:Edin:28",
+      "kind": "poi",
+      "label": "Old College, University of Edinburgh",
+      "qid": "Q4283940"
+    },
+    {
+      "id": "poi:Edin:29",
+      "kind": "poi",
+      "label": "New College, Edinburgh",
+      "qid": "Q7006603"
+    },
+    {
+      "id": "class:historic_civic",
+      "kind": "class",
+      "label": "historic_civic"
+    },
+    {
+      "id": "class:historic_garden",
+      "kind": "class",
+      "label": "historic_garden"
+    },
+    {
+      "id": "class:historic_infrastructure",
+      "kind": "class",
+      "label": "historic_infrastructure"
+    },
+    {
+      "id": "class:monument",
+      "kind": "class",
+      "label": "monument"
+    },
+    {
+      "id": "class:museum_library",
+      "kind": "class",
+      "label": "museum_library"
+    },
+    {
+      "id": "class:palace_castle",
+      "kind": "class",
+      "label": "palace_castle"
+    },
+    {
+      "id": "class:performing_arts",
+      "kind": "class",
+      "label": "performing_arts"
+    },
+    {
+      "id": "class:religious",
+      "kind": "class",
+      "label": "religious"
+    }
+  ],
+  "edges": [
+    {
+      "source": "poi:Edin:4",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:17",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:19",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:23",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:28",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:29",
+      "target": "class:historic_civic",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:20",
+      "target": "class:historic_garden",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:5",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:6",
+      "target": "class:historic_infrastructure",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:8",
+      "target": "class:monument",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:11",
+      "target": "class:monument",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:3",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:15",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:16",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:24",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:27",
+      "target": "class:museum_library",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:1",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:2",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:22",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:25",
+      "target": "class:palace_castle",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:12",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:13",
+      "target": "class:performing_arts",
+      "relation": "class",
+      "weight": 1.0
+    },
+    {
+      "source": "poi:Edin:9",
+      "target": "class:religious",
+      "relation": "class",
+      "weight": 1.0
+    }
+  ],
+  "weighted_undirected": true
+}

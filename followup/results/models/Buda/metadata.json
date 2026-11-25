@@ -1,0 +1,289 @@
+{
+  "city": "Buda",
+  "feature_keys": [
+    [
+      "P138",
+      "Q177903"
+    ],
+    [
+      "P138",
+      "Q188634"
+    ],
+    [
+      "P138",
+      "Q279397"
+    ],
+    [
+      "P138",
+      "Q2979"
+    ],
+    [
+      "P138",
+      "Q375307"
+    ],
+    [
+      "P138",
+      "Q41309"
+    ],
+    [
+      "P138",
+      "Q51056"
+    ],
+    [
+      "P138",
+      "Q577122"
+    ],
+    [
+      "P149",
+      "Q1295040"
+    ],
+    [
+      "P149",
+      "Q170292"
+    ],
+    [
+      "P149",
+      "Q176483"
+    ],
+    [
+      "P149",
+      "Q186363"
+    ],
+    [
+      "P149",
+      "Q236122"
+    ],
+    [
+      "P149",
+      "Q2479493"
+    ],
+    [
+      "P149",
+      "Q502163"
+    ],
+    [
+      "P149",
+      "Q54111"
+    ],
+    [
+      "P149",
+      "Q74156"
+    ],
+    [
+      "P149",
+      "Q744373"
+    ],
+    [
+      "P149",
+      "Q840829"
+    ],
+    [
+      "P149",
+      "Q911397"
+    ],
+    [
+      "P84",
+      "Q1000981"
+    ],
+    [
+      "P84",
+      "Q1036379"
+    ],
+    [
+      "P84",
+      "Q1072997"
+    ],
+    [
+      "P84",
+      "Q1231856"
+    ],
+    [
+      "P84",
+      "Q1243875"
+    ],
+    [
+      "P84",
+      "Q1404630"
+    ],
+    [
+      "P84",
+      "Q1461564"
+    ],
+    [
+      "P84",
+      "Q15275947"
+    ],
+    [
+      "P84",
+      "Q1685720"
+    ],
+    [
+      "P84",
+      "Q294065"
+    ],
+    [
+      "P84",
+      "Q337876"
+    ],
+    [
+      "P84",
+      "Q460169"
+    ],
+    [
+      "P84",
+      "Q51484503"
+    ],
+    [
+      "P84",
+      "Q541584"
+    ],
+    [
+      "P84",
+      "Q661956"
+    ],
+    [
+      "P84",
+      "Q690112"
+    ],
+    [
+      "P84",
+      "Q698819"
+    ],
+    [
+      "P84",
+      "Q713731"
+    ],
+    [
+      "P84",
+      "Q79098"
+    ],
+    [
+      "P84",
+      "Q837564"
+    ],
+    [
+      "P84",
+      "Q899998"
+    ],
+    [
+      "P84",
+      "Q998610"
+    ],
+    [
+      "class",
+      "historic_civic"
+    ],
+    [
+      "class",
+      "historic_infrastructure"
+    ],
+    [
+      "class",
+      "monument"
+    ],
+    [
+      "class",
+      "museum_library"
+    ],
+    [
+      "class",
+      "palace_castle"
+    ],
+    [
+      "class",
+      "performing_arts"
+    ],
+    [
+      "class",
+      "religious"
+    ]
+  ],
+  "parameters": {},
+  "snapshot": "2026-10-26",
+  "markov_prior": 0,
+  "variants": {
+    "Markov": {
+      "eta": 0.0,
+      "alpha": 1.0,
+      "beta": 0.0,
+      "kind": "none"
+    },
+    "CategoryFree": {
+      "kind": "category",
+      "eta": 0.05,
+      "alpha": 0.5,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "CategoryPositive": {
+      "kind": "category",
+      "eta": 0.05,
+      "alpha": 0.5,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "FlatFree": {
+      "kind": "flat",
+      "eta": 0.05,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    },
+    "FlatPositive": {
+      "kind": "flat",
+      "eta": 0.05,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    },
+    "GraphFree": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "GraphPositive": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "AdaptiveFree": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0,
+      "c": 3
+    },
+    "AdaptivePositive": {
+      "kind": "graph",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0,
+      "c": 3
+    },
+    "CategoryMatched": {
+      "kind": "category",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.15,
+      "beta": 0.0
+    },
+    "FlatMatched": {
+      "kind": "flat",
+      "eta": 0.1,
+      "alpha": 0.25,
+      "restart": 0.3,
+      "beta": 0.0
+    }
+  },
+  "development_cities": [
+    "Buda",
+    "Vien"
+  ],
+  "validation_contexts": 263
+}

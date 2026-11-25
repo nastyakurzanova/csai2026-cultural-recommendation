@@ -1,0 +1,9 @@
+city,city_name,raw_photo_rows,exact_duplicate_rows_removed,invalid_rows_quarantined,conflicting_photo_rows_quarantined,clean_photo_rows,users,catalog_pois,observed_pois,sequences,reconstructed_visits,sequences_2plus_visits,sequences_3plus_visits,users_2plus_sequences,later_sequences_2plus_visits,overlapping_sequences,category_candidate_pois,candidate_category_visits,candidate_category_sequences_2plus,ambiguous_photo_rows,coordinate_outliers,start_utc,end_utc
+Buda,Budapest,18513,0,0,0,18513,935,39,38,2361,5454,933,591,506,563,0,23,3681,662,227,0,1970-01-21T00:26:51+00:00,2014-04-25T08:17:53+00:00
+Delh,Delhi,3993,0,0,0,3993,279,26,23,489,744,129,50,102,53,0,21,603,92,16,0,1984-04-28T02:02:05+00:00,2014-04-14T23:51:20+00:00
+Edin,Edinburgh,33944,0,0,0,33944,1454,29,28,5028,8624,1412,715,732,963,0,12,4239,624,234,0,1982-07-24T04:19:23+00:00,2014-04-26T03:16:36+00:00
+Glas,Glasgow,11434,0,3,0,11431,601,29,27,2224,2833,351,133,279,219,0,6,622,55,145,0,1978-12-31T13:00:00+00:00,2014-04-25T01:26:29+00:00
+Osak,Osaka,7747,0,0,0,7747,450,29,27,1115,1419,186,64,190,103,0,6,84,3,9,1,1993-07-31T14:00:00+00:00,2014-04-27T00:15:13+00:00
+Pert,Perth,3643,0,1,0,3642,158,25,22,715,975,123,59,70,92,0,2,128,7,2,0,2000-11-20T07:51:25+00:00,2014-04-26T17:10:56+00:00
+Toro,Toronto,39419,0,42,0,39377,1394,30,29,6029,7876,974,420,721,744,0,8,1904,104,174,0,1970-03-31T14:00:00+00:00,2014-04-26T22:08:46+00:00
+Vien,Vienna,34515,0,7,0,34508,1153,29,28,3189,5853,935,536,559,530,0,22,4822,804,235,0,1975-06-30T14:00:00+00:00,2014-04-25T06:11:04+00:00

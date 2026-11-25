@@ -1,0 +1,24 @@
+city,poiID,name,qid,category,lat,lon
+Edin,1,Edinburgh Castle,Q212065,palace_castle,55.948611,-3.200833
+Edin,2,Holyrood Palace,Q505950,palace_castle,55.9525,-3.1725
+Edin,3,National Museum of Scotland,Q1633842,museum_library,55.94694,-3.19
+Edin,4,Scottish Parliament Building,Q2746031,historic_civic,55.952158,-3.175204
+Edin,5,Forth Rail Bridge,Q275,historic_infrastructure,56.000421,-3.388726
+Edin,6,Forth Road Bridge,Q933000,historic_infrastructure,56.00083,-3.40417
+Edin,8,Scott Monument,Q2502213,monument,55.952417,-3.193278
+Edin,9,St Giles' Cathedral,Q1547466,religious,55.94944,-3.19083
+Edin,11,National Monument of Scotland,Q6974379,monument,55.954722,-3.181806
+Edin,12,Usher Hall,Q1636910,performing_arts,55.94675,-3.2042
+Edin,13,Edinburgh Festival Theatre,Q3047596,performing_arts,55.9467,-3.1861778
+Edin,15,Royal Scottish Academy Building,Q7374813,museum_library,55.95175,-3.196389
+Edin,16,Scottish National Gallery,Q942713,museum_library,55.950917,-3.195667
+Edin,17,"Parliament House, Edinburgh",Q7138911,historic_civic,55.94917,-3.19056
+Edin,19,Balmoral Hotel,Q3700280,historic_civic,55.9528694,-3.1895083
+Edin,20,Royal Botanic Garden Edinburgh,Q1807521,historic_garden,55.9656028,-3.2066611
+Edin,22,Bute House,Q2928830,palace_castle,55.9525306,-3.2080167
+Edin,23,St Andrew's House,Q7592399,historic_civic,55.953375,-3.1840972
+Edin,24,Our Dynamic Earth,Q3358350,museum_library,55.9505778,-3.1743694
+Edin,25,Craiglockhart Castle,Q5181716,palace_castle,55.9193361,-3.2383139
+Edin,27,Scottish National Gallery of Modern Art,Q1889944,museum_library,55.9508583,-3.2275639
+Edin,28,"Old College, University of Edinburgh",Q4283940,historic_civic,55.947389,-3.187194
+Edin,29,"New College, Edinburgh",Q7006603,historic_civic,55.9498,-3.1952

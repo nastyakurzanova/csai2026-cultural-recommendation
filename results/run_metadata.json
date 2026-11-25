@@ -1,0 +1,11 @@
+{
+  "wall_seconds": 5.977023198999632,
+  "deterministic": true,
+  "seed": 20261106,
+  "protocol_lock": {
+    "protocol_sha256": "2c56c62ab4b3cccc791ddd2041c3f3343a88fce9c3dd8f031f6c7cd108273d5d",
+    "scope_sha256": "238632673a622051fa3180f02e5272e664171075ee78131643db06fd9b064834",
+    "created_before_test_scoring": true
+  },
+  "test_read_after_validation_parameters_saved": true
+}

@@ -1,0 +1,261 @@
+{
+  "city": "Buda",
+  "feature_keys": [
+    [
+      "P138",
+      "Q177903"
+    ],
+    [
+      "P138",
+      "Q188634"
+    ],
+    [
+      "P138",
+      "Q279397"
+    ],
+    [
+      "P138",
+      "Q2979"
+    ],
+    [
+      "P138",
+      "Q375307"
+    ],
+    [
+      "P138",
+      "Q41309"
+    ],
+    [
+      "P138",
+      "Q51056"
+    ],
+    [
+      "P138",
+      "Q577122"
+    ],
+    [
+      "P149",
+      "Q1295040"
+    ],
+    [
+      "P149",
+      "Q170292"
+    ],
+    [
+      "P149",
+      "Q176483"
+    ],
+    [
+      "P149",
+      "Q186363"
+    ],
+    [
+      "P149",
+      "Q236122"
+    ],
+    [
+      "P149",
+      "Q2479493"
+    ],
+    [
+      "P149",
+      "Q502163"
+    ],
+    [
+      "P149",
+      "Q54111"
+    ],
+    [
+      "P149",
+      "Q74156"
+    ],
+    [
+      "P149",
+      "Q744373"
+    ],
+    [
+      "P149",
+      "Q840829"
+    ],
+    [
+      "P149",
+      "Q911397"
+    ],
+    [
+      "P84",
+      "Q1000981"
+    ],
+    [
+      "P84",
+      "Q1036379"
+    ],
+    [
+      "P84",
+      "Q1072997"
+    ],
+    [
+      "P84",
+      "Q1231856"
+    ],
+    [
+      "P84",
+      "Q1243875"
+    ],
+    [
+      "P84",
+      "Q1404630"
+    ],
+    [
+      "P84",
+      "Q1461564"
+    ],
+    [
+      "P84",
+      "Q15275947"
+    ],
+    [
+      "P84",
+      "Q1685720"
+    ],
+    [
+      "P84",
+      "Q294065"
+    ],
+    [
+      "P84",
+      "Q337876"
+    ],
+    [
+      "P84",
+      "Q460169"
+    ],
+    [
+      "P84",
+      "Q51484503"
+    ],
+    [
+      "P84",
+      "Q541584"
+    ],
+    [
+      "P84",
+      "Q661956"
+    ],
+    [
+      "P84",
+      "Q690112"
+    ],
+    [
+      "P84",
+      "Q698819"
+    ],
+    [
+      "P84",
+      "Q713731"
+    ],
+    [
+      "P84",
+      "Q79098"
+    ],
+    [
+      "P84",
+      "Q837564"
+    ],
+    [
+      "P84",
+      "Q899998"
+    ],
+    [
+      "P84",
+      "Q998610"
+    ],
+    [
+      "class",
+      "historic_civic"
+    ],
+    [
+      "class",
+      "historic_infrastructure"
+    ],
+    [
+      "class",
+      "monument"
+    ],
+    [
+      "class",
+      "museum_library"
+    ],
+    [
+      "class",
+      "palace_castle"
+    ],
+    [
+      "class",
+      "performing_arts"
+    ],
+    [
+      "class",
+      "religious"
+    ]
+  ],
+  "parameters": {
+    "CategoryFixed": {
+      "restart": 0.15,
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "CulturalFixed": {
+      "restart": 0.15,
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "CulturalFlatFixed": {
+      "eta": 0.0,
+      "alpha": 1.0
+    },
+    "ItemKNN": {
+      "alpha": 1.0
+    },
+    "Markov": {
+      "prior": 0.0
+    },
+    "EASE": {
+      "l2": 10.0
+    },
+    "GeoFixed": {
+      "bandwidth_km": 0.25,
+      "alpha": 1.0
+    },
+    "CulturalAdaptive": {
+      "minimum": 0.5,
+      "maximum": 1.0,
+      "c": 1.0
+    },
+    "CulturalFixedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 1.0
+    },
+    "CategoryFixedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 0.7
+    },
+    "CulturalFlatFixedForced": {
+      "eta": 0.25,
+      "alpha": 1.0
+    },
+    "CulturalAdaptiveForced": {
+      "minimum": 0.25,
+      "maximum": 1.0,
+      "c": 1.0
+    },
+    "NoCultureMatchedForced": {
+      "restart": 0.15,
+      "eta": 0.25,
+      "alpha": 1.0
+    }
+  },
+  "snapshot": "2026-10-26",
+  "forced_variant_status": "exploratory positive-graph component chosen on validation; primary unrestricted result preserved"
+}

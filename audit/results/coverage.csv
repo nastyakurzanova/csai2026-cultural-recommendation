@@ -1,0 +1,9 @@
+city,places,edges,places_with_edges,feature_values,shared_feature_values,referenced_edges
+Buda,30,59,23,42,10,29
+Vien,25,42,18,37,3,27
+Edin,23,19,11,18,1,9
+Delh,20,15,12,13,2,10
+Glas,14,13,8,11,2,4
+Osak,6,4,3,4,0,1
+Pert,9,3,3,3,0,2
+Toro,8,9,5,8,1,7

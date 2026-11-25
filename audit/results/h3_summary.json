@@ -1,0 +1,50 @@
+{
+  "a": "Markov",
+  "b": "Popularity",
+  "subset": "all",
+  "metric": "NDCG5",
+  "delta": 0.12267431119786439,
+  "ci_low": 0.038802684370733635,
+  "ci_high": 0.20801809637973856,
+  "p_two_sided": 0.008899110088991101,
+  "users_global": 44,
+  "contexts": 81,
+  "cities": "Delh|Glas|Osak|Pert|Toro",
+  "bootstrap_draws_used": 8697,
+  "Markov": 0.7063680850718976,
+  "Popularity": 0.5836937738740333,
+  "user_macro": {
+    "Markov": 0.6929387684269518,
+    "Popularity": 0.5801655346038992
+  },
+  "leave_one_city_out": {
+    "Delh": 0.1306156162700578,
+    "Glas": 0.11953235885495017,
+    "Osak": 0.10720910819376273,
+    "Pert": 0.13045837704017116,
+    "Toro": 0.12555609563038028
+  },
+  "city_results": {
+    "Delh": {
+      "Markov": 0.4435577888138896,
+      "Popularity": 0.35264869790479864
+    },
+    "Glas": {
+      "Markov": 0.6486960789707665,
+      "Popularity": 0.513453958401245
+    },
+    "Osak": {
+      "Markov": 0.75,
+      "Popularity": 0.5654648767857288
+    },
+    "Pert": {
+      "Markov": 0.8349623176116235,
+      "Popularity": 0.7434242697829861
+    },
+    "Toro": {
+      "Markov": 0.8546242399632087,
+      "Popularity": 0.7434770664954078
+    }
+  },
+  "supported": true
+}

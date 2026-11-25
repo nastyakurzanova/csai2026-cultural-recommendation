@@ -1,0 +1,42 @@
+Markov {'mu': 0} validation 0.516568
+CategoryFree {'kind': 'category', 'eta': 0.05, 'alpha': 0.5, 'restart': 0.15, 'beta': 0.0} validation 0.518285
+FlatFree {'kind': 'flat', 'eta': 0.05, 'alpha': 0.25, 'restart': 0.3, 'beta': 0.0} validation 0.518304
+GraphFree {'kind': 'graph', 'eta': 0.1, 'alpha': 0.25, 'restart': 0.15, 'beta': 0.0} validation 0.51828
+AdaptiveFree {'kind': 'graph', 'eta': 0.1, 'alpha': 0.25, 'restart': 0.15, 'beta': 0, 'c': 3} validation 0.51828
+AdaptivePositive {'kind': 'graph', 'eta': 0.1, 'alpha': 0.25, 'restart': 0.15, 'beta': 0, 'c': 3} validation 0.51828
+evaluation subset            model  contexts  users    NDCG5      HR5      MRR
+    reused   warm           Markov       497     88 0.442154 0.622638 0.415799
+    reused   warm     CategoryFree       497     88 0.442097 0.627573 0.412977
+    reused   warm CategoryPositive       497     88 0.442097 0.627573 0.412977
+    reused   warm         FlatFree       497     88 0.443041 0.627870 0.414213
+    reused   warm     FlatPositive       497     88 0.443041 0.627870 0.414213
+    reused   warm        GraphFree       497     88 0.440574 0.622546 0.412859
+    reused   warm    GraphPositive       497     88 0.440574 0.622546 0.412859
+    reused   warm     AdaptiveFree       497     88 0.440574 0.622546 0.412859
+    reused   warm AdaptivePositive       497     88 0.440574 0.622546 0.412859
+    reused   warm  CategoryMatched       497     88 0.444082 0.632993 0.412816
+    reused   warm      FlatMatched       497     88 0.444564 0.631726 0.414376
+  transfer    all           Markov        81     44 0.706368 0.918831 0.647602
+  transfer    all     CategoryFree        81     44 0.679580 0.878225 0.629407
+  transfer    all CategoryPositive        81     44 0.679580 0.878225 0.629407
+  transfer    all         FlatFree        81     44 0.674641 0.869134 0.628075
+  transfer    all     FlatPositive        81     44 0.674641 0.869134 0.628075
+  transfer    all        GraphFree        81     44 0.683727 0.896407 0.627924
+  transfer    all    GraphPositive        81     44 0.683727 0.896407 0.627924
+  transfer    all     AdaptiveFree        81     44 0.683727 0.896407 0.627924
+  transfer    all AdaptivePositive        81     44 0.683727 0.896407 0.627924
+  transfer    all  CategoryMatched        81     44 0.683955 0.887316 0.631225
+  transfer    all      FlatMatched        81     44 0.673280 0.869134 0.626376
+               a               b       subset metric     delta    ci_low  ci_high  p_two_sided  users_global  contexts                   cities  bootstrap_draws_used evaluation                 contrast  primary   p_holm
+   GraphPositive CategoryMatched          all  NDCG5 -0.003151 -0.009777 0.003203     0.349465           313      1577           Buda|Vien|Edin                 10000     reused        H1_cultural_links    False      NaN
+AdaptivePositive   GraphPositive two_profiles  NDCG5  0.000000  0.000000 0.000000     1.000000           118       652           Buda|Vien|Edin                 10000     reused            H2_adaptation    False      NaN
+    AdaptiveFree          Markov          all  NDCG5 -0.000965 -0.008091 0.006215     0.790421           313      1577           Buda|Vien|Edin                 10000     reused               end_to_end    False      NaN
+   GraphPositive     FlatMatched          all  NDCG5 -0.002100 -0.008635 0.004417     0.522748           313      1577           Buda|Vien|Edin                 10000     reused    matched_graph_vs_flat    False      NaN
+   GraphPositive          Markov          all  NDCG5 -0.000965 -0.008091 0.006215     0.790421           313      1577           Buda|Vien|Edin                 10000     reused positive_graph_vs_markov    False      NaN
+AdaptivePositive   GraphPositive         warm  NDCG5  0.000000  0.000000 0.000000     1.000000            88       497           Buda|Vien|Edin                 10000     reused          adaptation_warm    False      NaN
+   GraphPositive CategoryMatched          all  NDCG5 -0.000228 -0.017391 0.019924     0.940806            44        81 Delh|Glas|Osak|Pert|Toro                  8697   transfer        H1_cultural_links     True 1.000000
+AdaptivePositive   GraphPositive two_profiles  NDCG5  0.000000  0.000000 0.000000     1.000000             8        16           Delh|Pert|Toro                  6296   transfer            H2_adaptation     True 1.000000
+    AdaptiveFree          Markov          all  NDCG5 -0.022641 -0.059817 0.014869     0.227277            44        81 Delh|Glas|Osak|Pert|Toro                  8697   transfer               end_to_end     True 0.681832
+   GraphPositive     FlatMatched          all  NDCG5  0.010446 -0.008923 0.033866     0.495650            44        81 Delh|Glas|Osak|Pert|Toro                  8697   transfer    matched_graph_vs_flat    False      NaN
+   GraphPositive          Markov          all  NDCG5 -0.022641 -0.059817 0.014869     0.227277            44        81 Delh|Glas|Osak|Pert|Toro                  8697   transfer positive_graph_vs_markov    False      NaN
+AdaptivePositive   GraphPositive         warm  NDCG5  0.000000  0.000000 0.000000     1.000000             4         9                Pert|Toro                  8792   transfer          adaptation_warm    False      NaN

@@ -1,0 +1,8 @@
+{
+  "status": "Secondary hypothesis formulated during the audit, after earlier model comparisons. No independent source or preregistration. This protocol was fixed before calculating the popularity comparison on the five-city transfer cohort.",
+  "hypothesis": "On the five-city transfer cohort, conditioning on the last observed attraction improves user- and city-macro NDCG@5 relative to the same city's training popularity.",
+  "cohort": "Reuse all 81 disjoint-user contexts from the frozen transfer test. Exclude the last attraction for both methods; preserve all other candidates. No retuning.",
+  "inference": "Paired global-user bootstrap, 10000 draws, and two-sided sign permutations with the same weights/signs in each city; report sensitivity by city, leave one city out, and pooled user macro. This test is exploratory and not part of H1/H2 Holm family.",
+  "support": "Positive delta and 95% interval entirely above zero, with two-sided p < .05; otherwise not supported.",
+  "comparator": "Popularity = frequency of cultural visits in training sequences, with the same final exclusion of the last place and deterministic tie handling."
+}

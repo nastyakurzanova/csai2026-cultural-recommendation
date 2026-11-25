@@ -1,0 +1,79 @@
+city,poiID,name,qid,category,lat,lon
+Buda,1,Sándor Palace,Q927806,palace_castle,47.4978,19.0378
+Buda,3,Gresham Palace,Q854317,palace_castle,47.4997472,19.0479806
+Buda,4,Buda Castle,Q46313,palace_castle,47.49611,19.03972
+Buda,5,Hungarian State Opera House,Q36833,performing_arts,47.5028083,19.0581889
+Buda,6,House of Terror,Q372376,museum_library,47.50694,19.06528
+Buda,7,National Széchényi Library,Q1063819,museum_library,47.495,19.03917
+Buda,8,Matthias Church,Q493133,religious,47.50194,19.03417
+Buda,9,Fisherman's Bastion,Q493117,palace_castle,47.50167,19.035
+Buda,11,Széchenyi Medicinal Bath,Q194783,historic_civic,47.51861,19.08194
+Buda,12,Vajdahunyad Castle,Q1092030,palace_castle,47.51528,19.08194
+Buda,13,Vigadó Concert Hall,Q674032,performing_arts,47.4958944,19.0494556
+Buda,15,Franz Liszt Academy of Music,Q847099,performing_arts,47.5032472,19.0645167
+Buda,16,Gellért Baths,Q646140,historic_civic,47.4837083,19.050972
+Buda,18,Gellért Hill Cave,Q839142,religious,47.4851056,19.0519778
+Buda,19,Liberty Statue (Budapest),Q933182,monument,47.48639,19.04806
+Buda,20,Geological Museum (Budapest),Q1162605,museum_library,47.5055833,19.0974361
+Buda,21,Great Market Hall (Budapest),Q195344,historic_civic,47.48667,19.05889
+Buda,22,Liberty Bridge (Budapest),Q915195,historic_infrastructure,47.48583,19.055
+Buda,23,Budapest Kunsthalle,Q368537,museum_library,47.5140222,19.0786778
+Buda,24,Museum of Fine Arts (Budapest),Q840886,museum_library,47.51611,19.07639
+Buda,26,Museum of Applied Arts (Budapest),Q1088467,museum_library,47.48611,19.06833
+Buda,27,Hungarian National Museum,Q914141,museum_library,47.49111,19.06278
+Buda,29,Dohány Street Synagogue,Q754397,religious,47.49583,19.06083
+Buda,31,Palace of Arts (Budapest),Q897556,performing_arts,47.46944,19.07167
+Buda,32,Hungarian Parliament Building,Q11819,historic_civic,47.50694,19.04556
+Buda,33,Saint Stephen's Basilica,Q338665,religious,47.500833,19.053889
+Buda,35,Shoes on the Danube Promenade,Q473811,monument,47.5039028,19.0447833
+Buda,36,Statue Park (Budapest),Q1069906,museum_library,47.4263333,18.9989306
+Buda,37,Széchenyi Chain Bridge,Q465534,historic_infrastructure,47.49889,19.04361
+Buda,39,Western Railway Station (Budapest),Q522868,historic_infrastructure,47.51083,19.0575
+Vien,1,Schönbrunn Palace,Q131330,palace_castle,48.184516,16.311865
+Vien,3,Wiener Riesenrad,Q697578,historic_infrastructure,48.2166505,16.3959494
+Vien,4,"Albertina, Vienna",Q371908,museum_library,48.20444,16.36778
+Vien,5,Hofburg Palace,Q46242,palace_castle,48.206507,16.365262
+Vien,6,Kunsthistorisches Museum,Q95569,museum_library,48.2037,16.3614
+Vien,7,Belvedere (palace),Q211818,palace_castle,48.191439,16.380787
+Vien,8,Donauturm,Q686544,historic_infrastructure,48.24,16.41083
+Vien,9,Naturhistorisches Museum,Q688704,museum_library,48.2052,16.3599
+Vien,11,Leopold Museum,Q59435,museum_library,48.2025,16.35889
+Vien,13,Technisches Museum Wien,Q372676,museum_library,48.19083,16.3175
+Vien,14,Schatzkammer (Vienna),Q317701,museum_library,48.20667,16.36556
+Vien,15,Spanish Riding School,Q269273,performing_arts,48.2075,16.36611
+Vien,16,MUMOK,Q689951,museum_library,48.203722,16.357444
+Vien,17,"St. Stephen's Cathedral, Vienna",Q5943,religious,48.2085,16.373
+Vien,18,"Imperial Crypt, Vienna",Q662652,religious,48.20556,16.36972
+Vien,19,Haus der Musik,Q351228,museum_library,48.20417,16.37333
+Vien,20,"St. Charles's Church, Vienna",Q408847,religious,48.198333,16.371389
+Vien,21,Museum für angewandte Kunst Wien,Q478455,museum_library,48.2075,16.38167
+Vien,22,KunstHausWien,Q638493,museum_library,48.210917,16.393389
+Vien,23,Vienna State Opera,Q209937,performing_arts,48.20278,16.368472
+Vien,24,Palmenhaus Schönbrunn,Q874600,historic_civic,48.18472,16.30278
+Vien,25,Austrian National Library,Q304037,museum_library,48.20611,16.36639
+Vien,26,Austrian Parliament Building,Q702121,historic_civic,48.20806,16.35806
+Vien,27,Mozarthaus Vienna,Q387667,museum_library,48.20778,16.37528
+Vien,28,Heeresgeschichtliches Museum,Q700751,museum_library,48.18528,16.3875
+Edin,1,Edinburgh Castle,Q212065,palace_castle,55.948611,-3.200833
+Edin,2,Holyrood Palace,Q505950,palace_castle,55.9525,-3.1725
+Edin,3,National Museum of Scotland,Q1633842,museum_library,55.94694,-3.19
+Edin,4,Scottish Parliament Building,Q2746031,historic_civic,55.952158,-3.175204
+Edin,5,Forth Rail Bridge,Q275,historic_infrastructure,56.000421,-3.388726
+Edin,6,Forth Road Bridge,Q933000,historic_infrastructure,56.00083,-3.40417
+Edin,8,Scott Monument,Q2502213,monument,55.952417,-3.193278
+Edin,9,St Giles' Cathedral,Q1547466,religious,55.94944,-3.19083
+Edin,11,National Monument of Scotland,Q6974379,monument,55.954722,-3.181806
+Edin,12,Usher Hall,Q1636910,performing_arts,55.94675,-3.2042
+Edin,13,Edinburgh Festival Theatre,Q3047596,performing_arts,55.9467,-3.1861778
+Edin,15,Royal Scottish Academy Building,Q7374813,museum_library,55.95175,-3.196389
+Edin,16,Scottish National Gallery,Q942713,museum_library,55.950917,-3.195667
+Edin,17,"Parliament House, Edinburgh",Q7138911,historic_civic,55.94917,-3.19056
+Edin,19,Balmoral Hotel,Q3700280,historic_civic,55.9528694,-3.1895083
+Edin,20,Royal Botanic Garden Edinburgh,Q1807521,historic_garden,55.9656028,-3.2066611
+Edin,22,Bute House,Q2928830,palace_castle,55.9525306,-3.2080167
+Edin,23,St Andrew's House,Q7592399,historic_civic,55.953375,-3.1840972
+Edin,24,Our Dynamic Earth,Q3358350,museum_library,55.9505778,-3.1743694
+Edin,25,Craiglockhart Castle,Q5181716,palace_castle,55.9193361,-3.2383139
+Edin,27,Scottish National Gallery of Modern Art,Q1889944,museum_library,55.9508583,-3.2275639
+Edin,28,"Old College, University of Edinburgh",Q4283940,historic_civic,55.947389,-3.187194
+Edin,29,"New College, Edinburgh",Q7006603,historic_civic,55.9498,-3.1952

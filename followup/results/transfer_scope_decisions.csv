@@ -1,0 +1,139 @@
+city,poiID,name,qid,included,category,reason
+Delh,1,India Gate,Q245347,True,monument,Identified cultural attraction: monument
+Delh,2,Sansad Bhavan,Q139960735,False,,Parliament identity and coordinates fail the existing entity screen.
+Delh,3,Rashtrapati Bhavan,Q677555,True,historic_civic,Identified cultural attraction: historic_civic
+Delh,4,"Connaught Place, New Delhi",Q2341950,False,,Outside the specified cultural attraction types or physical scope.
+Delh,5,Lodhi Gardens,Q2985076,False,,Outside the specified cultural attraction types or physical scope.
+Delh,6,Purana Quila,Q1151529,True,palace_castle,Identified cultural attraction: palace_castle
+Delh,7,Red Fort,Q45957,True,palace_castle,Identified cultural attraction: palace_castle
+Delh,8,Salimgarh Fort,Q2336156,True,palace_castle,Identified cultural attraction: palace_castle
+Delh,9,Chandni Chowk,Q3236763,False,,Outside the specified cultural attraction types or physical scope.
+Delh,10,Safdarjung's Tomb,Q375624,True,monument,Identified cultural attraction: monument
+Delh,11,Qutub Minar,Q187635,True,monument,Identified cultural attraction: monument
+Delh,12,Qutb complex,Q1074330,False,,Broad Qutb complex overlaps the separately recorded Qutub Minar; exclude the broader candidate.
+Delh,13,Tughlaqabad,Q2511605,True,palace_castle,Identified cultural attraction: palace_castle
+Delh,14,Akshardham (Delhi),Q1849858,True,religious,Identified cultural attraction: religious
+Delh,15,Cathedral Church of Redemption,Q5052220,True,religious,Identified cultural attraction: religious
+Delh,16,Gurdwara Bangla Sahib,Q2375435,True,religious,Identified cultural attraction: religious
+Delh,17,ISKCON Temple Delhi,Q4500907,True,religious,Identified cultural attraction: religious
+Delh,18,"Jama Masjid, Delhi",Q233678,True,religious,Identified cultural attraction: religious
+Delh,19,Lotus Temple,Q940843,True,religious,Identified cultural attraction: religious
+Delh,20,"St. James' Church, Delhi",Q2985087,True,religious,Identified cultural attraction: religious
+Delh,21,"National Museum, New Delhi",Q1356138,True,museum_library,Identified cultural attraction: museum_library
+Delh,22,"National Rail Museum, New Delhi",Q1138924,True,museum_library,Identified cultural attraction: museum_library
+Delh,23,Jantar Mantar (Delhi),Q2045115,True,monument,Identified cultural attraction: monument
+Delh,24,Nizamuddin Dargah,Q2983384,True,religious,Identified cultural attraction: religious
+Delh,25,Raj Ghat and other memorials,Q1210083,True,monument,Identified cultural attraction: monument
+Delh,26,National Zoological Park Delhi,Q3364809,False,,Outside the specified cultural attraction types or physical scope.
+Glas,1,Glasgow Central railway station,Q800825,True,historic_infrastructure,Identified cultural attraction: historic_infrastructure
+Glas,2,Glasgow Queen Street railway station,Q800823,True,historic_infrastructure,Identified cultural attraction: historic_infrastructure
+Glas,3,Glasgow Airport,Q8721,False,,Outside the specified cultural attraction types or physical scope.
+Glas,4,Glasgow Prestwick International Airport,Q8992,False,,Outside the specified cultural attraction types or physical scope.
+Glas,5,Clyde Tunnel,Q3542165,False,,Outside the specified cultural attraction types or physical scope.
+Glas,6,"Kingston Bridge, Glasgow",Q6413473,True,historic_infrastructure,Identified cultural attraction: historic_infrastructure
+Glas,7,University of Strathclyde,Q1859178,False,,Outside the specified cultural attraction types or physical scope.
+Glas,8,Glasgow Caledonian University,Q1353139,False,,Outside the specified cultural attraction types or physical scope.
+Glas,9,University of Glasgow,Q192775,False,,Outside the specified cultural attraction types or physical scope.
+Glas,10,University of Glasgow Medical School,Q7895468,False,,Outside the specified cultural attraction types or physical scope.
+Glas,11,Glasgow School of Art,Q748106,True,historic_civic,Identified cultural attraction: historic_civic
+Glas,12,Royal Scottish Academy of Music and Drama,Q3446028,False,,Outside the specified cultural attraction types or physical scope.
+Glas,13,"St. Mungo's Cathedral, Glasgow",Q1473348,True,religious,Identified cultural attraction: religious
+Glas,14,Glasgow Central Mosque,Q3493426,True,religious,Identified cultural attraction: religious
+Glas,15,Ashton Lane,Q4806055,False,,Outside the specified cultural attraction types or physical scope.
+Glas,16,Buchanan Street,Q4567908,False,,Outside the specified cultural attraction types or physical scope.
+Glas,17,Burrell Collection,Q1016909,True,museum_library,Identified cultural attraction: museum_library
+Glas,18,Celtic Park,Q216037,False,,Outside the specified cultural attraction types or physical scope.
+Glas,19,Clyde Auditorium,Q2980424,True,performing_arts,Identified cultural attraction: performing_arts
+Glas,20,Glasgow Royal Concert Hall,Q5566904,True,performing_arts,Identified cultural attraction: performing_arts
+Glas,21,Gallery of Modern Art,Q19956907,False,,Gallery identity and coordinates fail the existing entity screen.
+Glas,22,Glasgow Green,Q5566834,False,,Outside the specified cultural attraction types or physical scope.
+Glas,23,Holmwood House,Q5883823,True,historic_civic,Identified cultural attraction: historic_civic
+Glas,24,Ibrox Stadium,Q208709,False,,Sports venue; not treated as the designated heritage structure of a component.
+Glas,25,Glasgow Museum of Transport,Q3511316,True,museum_library,Identified cultural attraction: museum_library
+Glas,26,Kelvingrove Art Gallery and Museum,Q1061094,True,museum_library,Identified cultural attraction: museum_library
+Glas,27,Pollok House,Q1489852,True,historic_civic,Identified cultural attraction: historic_civic
+Glas,28,Willow Tearooms,Q1537781,True,historic_civic,Identified cultural attraction: historic_civic
+Glas,29,Glasgow International Hilton Hotel,Q5764570,False,,Outside the specified cultural attraction types or physical scope.
+Osak,1,Osaka Aquarium Kaiyukan,Q1191885,False,,Outside the specified cultural attraction types or physical scope.
+Osak,2,Tempozan Ferris Wheel,Q548263,False,,Outside the specified cultural attraction types or physical scope.
+Osak,3,Tennōji Zoo,Q1054648,False,,Outside the specified cultural attraction types or physical scope.
+Osak,4,Universal Studios Japan,Q1375103,False,,Outside the specified cultural attraction types or physical scope.
+Osak,5,HEP Five,Q751156,False,,Outside the specified cultural attraction types or physical scope.
+Osak,6,Umeda Sky Building,Q1151808,False,,Outside the specified cultural attraction types or physical scope.
+Osak,7,Nakanoshima Park,Q6960289,False,,Outside the specified cultural attraction types or physical scope.
+Osak,8,Osaka Castle,Q321242,True,palace_castle,Identified cultural attraction: palace_castle
+Osak,9,Sumiyoshi Park,Q7637168,False,,Outside the specified cultural attraction types or physical scope.
+Osak,10,Tennōji Park,Q5364342,False,,Outside the specified cultural attraction types or physical scope.
+Osak,11,Utsubo Park,Q7903271,False,,Outside the specified cultural attraction types or physical scope.
+Osak,12,Nagai Park,Q5359309,False,,Outside the specified cultural attraction types or physical scope.
+Osak,14,Sankō Shrine,Q3472342,True,religious,Identified cultural attraction: religious
+Osak,15,Shitennō-ji,Q339859,True,religious,Identified cultural attraction: religious
+Osak,16,Sumiyoshi taisha,Q705949,True,religious,Identified cultural attraction: religious
+Osak,17,Tamatsukuri Inari Shrine,Q3514709,True,religious,Identified cultural attraction: religious
+Osak,18,Ōsaka Tenmangū Shrine,Q385793,True,religious,Identified cultural attraction: religious
+Osak,19,Dōtonbori,Q964876,False,,Outside the specified cultural attraction types or physical scope.
+Osak,20,Namba,Q1075406,False,,Outside the specified cultural attraction types or physical scope.
+Osak,21,Shinsaibashi,Q1049109,False,,Outside the specified cultural attraction types or physical scope.
+Osak,22,Shinsekai,Q1049117,False,,Outside the specified cultural attraction types or physical scope.
+Osak,23,Nipponbashi,Q5191476,False,,Outside the specified cultural attraction types or physical scope.
+Osak,24,Amerikamura,Q4745722,False,,Outside the specified cultural attraction types or physical scope.
+Osak,25,Jūsō,Q6322366,False,,Outside the specified cultural attraction types or physical scope.
+Osak,26,Kyōbashi#Osaka,Q1112936,False,,"District, with existing entity/coordinate screen failure."
+Osak,27,Zepp,Q681144,False,,Venue/network identity is unresolved by the existing entity screen.
+Osak,28,"Doyama, Osaka, Japan",Q5303713,False,,Outside the specified cultural attraction types or physical scope.
+Osak,29,Tobita Shinchi,Q7811711,False,,Outside the specified cultural attraction types or physical scope.
+Pert,1,Perth Town Hall,Q7170899,True,historic_civic,Identified cultural attraction: historic_civic
+Pert,2,"Parliament House, Perth",Q1371068,True,historic_civic,Identified cultural attraction: historic_civic
+Pert,3,State Library of Western Australia,Q7603408,True,museum_library,Identified cultural attraction: museum_library
+Pert,4,"Chinatown, Perth",Q24089730,False,,Outside the specified cultural attraction types or physical scope.
+Pert,5,"Northbridge, Western Australia",Q4327495,False,,Outside the specified cultural attraction types or physical scope.
+Pert,6,Supreme Court Gardens,Q18165701,False,,Outside the specified cultural attraction types or physical scope.
+Pert,7,Stirling Gardens,Q7617571,True,historic_garden,Identified cultural attraction: historic_garden
+Pert,8,"Queens Gardens, Perth",Q7270764,True,historic_garden,Identified cultural attraction: historic_garden
+Pert,9,"Russell Square, Perth",Q14935905,False,,Outside the specified cultural attraction types or physical scope.
+Pert,10,"Kings Park, Western Australia",Q3495894,False,,Outside the specified cultural attraction types or physical scope.
+Pert,11,"Hyde Park, Perth",Q14935818,True,historic_garden,Identified cultural attraction: historic_garden
+Pert,12,Art Gallery of Western Australia,Q4796833,True,museum_library,Identified cultural attraction: museum_library
+Pert,13,Western Australian Museum,Q3567483,True,museum_library,Identified cultural attraction: museum_library
+Pert,14,WACA Ground,Q2738971,False,,Outside the specified cultural attraction types or physical scope.
+Pert,15,Perth Oval,Q978904,False,,Outside the specified cultural attraction types or physical scope.
+Pert,16,East Perth railway station,Q5329143,False,,Outside the specified cultural attraction types or physical scope.
+Pert,17,Perth railway station,Q7170917,False,,Outside the specified cultural attraction types or physical scope.
+Pert,18,Esplanade railway station,Q5399042,False,,Outside the specified cultural attraction types or physical scope.
+Pert,19,Esplanade Busport,Q14935793,False,,Outside the specified cultural attraction types or physical scope.
+Pert,20,Wellington Street bus station,Q7981514,False,,Outside the specified cultural attraction types or physical scope.
+Pert,21,Crown Perth,Q1017078,False,,Outside the specified cultural attraction types or physical scope.
+Pert,22,"Perth Concert Hall, Western Australia",Q7170839,True,performing_arts,Identified cultural attraction: performing_arts
+Pert,23,Perth Arena,Q2035401,False,,Outside the specified cultural attraction types or physical scope.
+Pert,24,Cottesloe Beach,Q21955723,False,,Outside the specified cultural attraction types or physical scope.
+Pert,25,"Coogee, Western Australia",Q5166851,False,,Outside the specified cultural attraction types or physical scope.
+Toro,1,Air Canada Centre,Q406972,False,,Outside the specified cultural attraction types or physical scope.
+Toro,2,BMO Field,Q796351,False,,Outside the specified cultural attraction types or physical scope.
+Toro,3,Maple Leaf Gardens,Q1814534,False,,Outside the specified cultural attraction types or physical scope.
+Toro,4,Rogers Centre,Q76318,False,,Outside the specified cultural attraction types or physical scope.
+Toro,5,Woodbine Racetrack,Q3135941,False,,Outside the specified cultural attraction types or physical scope.
+Toro,6,Art Gallery of Ontario,Q670250,True,museum_library,Identified cultural attraction: museum_library
+Toro,7,Hockey Hall of Fame,Q1136687,True,museum_library,Identified cultural attraction: museum_library
+Toro,8,Ripley's Aquarium of Canada,Q14875406,False,,Outside the specified cultural attraction types or physical scope.
+Toro,9,Ontario Science Centre,Q1500067,True,museum_library,Identified cultural attraction: museum_library
+Toro,10,Riverdale Farm,Q7338138,False,,Outside the specified cultural attraction types or physical scope.
+Toro,11,Royal Ontario Museum,Q649250,True,museum_library,Identified cultural attraction: museum_library
+Toro,12,Toronto Zoo,Q741395,False,,Outside the specified cultural attraction types or physical scope.
+Toro,13,Casa Loma,Q1046446,True,palace_castle,Identified cultural attraction: palace_castle
+Toro,14,Canadian National Exhibition,Q857399,False,,Outside the specified cultural attraction types or physical scope.
+Toro,15,Centreville Amusement Park,Q5062718,False,,Outside the specified cultural attraction types or physical scope.
+Toro,16,CN Tower,Q134883,False,,Outside the specified cultural attraction types or physical scope.
+Toro,17,Exhibition Place,Q1383752,False,,Outside the specified cultural attraction types or physical scope.
+Toro,18,Sunnyside Amusement Park,Q3503945,False,,Outside the specified cultural attraction types or physical scope.
+Toro,19,Toronto Islands,Q248110,False,,Outside the specified cultural attraction types or physical scope.
+Toro,20,High Park,Q1617812,False,,Outside the specified cultural attraction types or physical scope.
+Toro,21,Yonge-Dundas Square,Q607810,False,,Outside the specified cultural attraction types or physical scope.
+Toro,22,Nathan Phillips Square,Q2915521,False,,Outside the specified cultural attraction types or physical scope.
+Toro,23,Toronto Eaton Centre,Q1278419,False,,Outside the specified cultural attraction types or physical scope.
+Toro,24,Harbourfront Centre,Q14875166,False,,Outside the specified cultural attraction types or physical scope.
+Toro,25,Kensington Market,Q3195260,False,,Outside the specified cultural attraction types or physical scope.
+Toro,26,Yorkdale Shopping Centre,Q8055633,False,,Outside the specified cultural attraction types or physical scope.
+Toro,27,"Yorkville, Toronto",Q1022897,False,,Outside the specified cultural attraction types or physical scope.
+Toro,28,Old City Hall (Toronto),Q439501,True,historic_civic,Identified cultural attraction: historic_civic
+Toro,29,Ontario Legislative Building,Q980270,True,historic_civic,Identified cultural attraction: historic_civic
+Toro,30,Union Station (Toronto),Q511316,True,historic_infrastructure,Identified cultural attraction: historic_infrastructure

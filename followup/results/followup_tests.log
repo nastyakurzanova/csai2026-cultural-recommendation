@@ -1,0 +1,11 @@
+test_all_models_have_identical_contexts_per_subset (__main__.FollowupTests.test_all_models_have_identical_contexts_per_subset) ... ok
+test_gate_fallback_and_nonzero_change (__main__.FollowupTests.test_gate_fallback_and_nonzero_change) ... ok
+test_markov_counts_and_row_distributions (__main__.FollowupTests.test_markov_counts_and_row_distributions) ... ok
+test_saved_recommender_matches_evaluated_top5 (__main__.FollowupTests.test_saved_recommender_matches_evaluated_top5) ... ok
+test_transfer_has_no_development_users_or_future_history (__main__.FollowupTests.test_transfer_has_no_development_users_or_future_history) ... ok
+test_zero_weight_reduces_exactly_to_markov (__main__.FollowupTests.test_zero_weight_reduces_exactly_to_markov) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.633s
+
+OK

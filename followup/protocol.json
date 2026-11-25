@@ -1,0 +1,28 @@
+{
+  "revision": "2026-11-07",
+  "status": "Follow-up protocol fixed before computing the new model comparisons. Not an external preregistration. The original three city test results were already seen.",
+  "development": ["Buda", "Vien"],
+  "reused_test": ["Buda", "Vien", "Edin"],
+  "new_cities": ["Delh", "Glas", "Osak", "Pert", "Toro"],
+  "candidate_rule": "Full within-city cultural catalogue excluding the last observed POI. Only the next distinct cultural POI is positive. Repeats of earlier visits remain eligible.",
+  "new_city_scope": "Audit the five remaining city catalogues by identity, physical scope and cultural role, without examining model scores. Preserve every inclusion and exclusion. Use the existing Wikidata snapshot and P84/P149/P138 claims. Apply the original date floor, ambiguity and overlap exclusions. Split whole source sequences 60/20/20 by end-time cutoffs, quarantine any sequence crossing a cutoff.",
+  "training": "Fit Markov counts and popularity on each city's training period only. Transfer all hyperparameters from Budapest/Vienna validation warm contexts. No tuning on any test or new-city validation.",
+  "primary_transfer_cohort": "Test contexts from all five new cities, excluding Flickr users appearing in any of the three original city cohorts, irrespective of their split. Each context uses only earlier observations in its own city.",
+  "subset_two_profiles": "At least one older visit in a completed sequence and at least two visits in current prefix. The original warm filter requires at least three older visits and at least two in current prefix.",
+  "metric": "NDCG@5 macro over events within user, then users within city, then cities equally. HR@5 and MRR secondary. Raw context and distinct user counts reported separately.",
+  "prior": [0, 0.1, 1, 5, 20],
+  "eta": [0, 0.05, 0.1, 0.2, 0.35, 0.5],
+  "alpha": [0, 0.25, 0.5, 0.75, 1],
+  "restart": [0.15, 0.3, 0.6],
+  "beta": [0, 0.25, -0.25, 0.5, -0.5],
+  "gate_c": 3,
+  "choice": "Tune Markov prior first. Tune each graph representation and fixed short-profile weight on the same validation data, with eta=0 allowed. Separately select the best eta>0 config from each grid. For adaptive configurations hold eta, alpha0 and restart fixed and tune beta around alpha0, allowing beta=0. Resolve score ties by first grid occurrence; prediction ties by training popularity then item ID.",
+  "paired_inference": "10000 global-user cluster bootstrap and paired cluster sign permutations, shared per Flickr user across cities; descriptive 95% percentile intervals. Holm correction across the three designated transfer contrasts. Report other contrasts as descriptive.",
+  "primary_contrasts": [
+    ["GraphPositive", "CategoryMatched", "all", "H1_cultural_links"],
+    ["AdaptivePositive", "GraphPositive", "two_profiles", "H2_adaptation"],
+    ["AdaptiveFree", "Markov", "all", "end_to_end"]
+  ],
+  "diagnostics": "Report separately Markov, categories, flat same facts, positive graph and adaptive variants. Compare positive graph with matched category and flat controls. For pure semantic topology placebo use 20 relation-wise degree preserving edge shuffles on new test cities, fixed graph hyperparameters and cohort. Report accepted swaps and all seeds; shuffling is a sensitivity check, not a p-value.",
+  "seed": 20261107
+}

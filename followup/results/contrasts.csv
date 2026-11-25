@@ -1,0 +1,13 @@
+a,b,subset,metric,delta,ci_low,ci_high,p_two_sided,users_global,contexts,cities,bootstrap_draws_used,evaluation,contrast,primary,p_holm
+GraphPositive,CategoryMatched,all,NDCG5,-0.0031505463391542526,-0.009776733961707416,0.0032029723525177404,0.3494650534946505,313,1577,Buda|Vien|Edin,10000,reused,H1_cultural_links,False,
+AdaptivePositive,GraphPositive,two_profiles,NDCG5,0.0,0.0,0.0,1.0,118,652,Buda|Vien|Edin,10000,reused,H2_adaptation,False,
+AdaptiveFree,Markov,all,NDCG5,-0.0009645830637269975,-0.008091087047916699,0.006214508907770284,0.7904209579042096,313,1577,Buda|Vien|Edin,10000,reused,end_to_end,False,
+GraphPositive,FlatMatched,all,NDCG5,-0.0021002636072079118,-0.008635113502620388,0.004416850633714626,0.5227477252274773,313,1577,Buda|Vien|Edin,10000,reused,matched_graph_vs_flat,False,
+GraphPositive,Markov,all,NDCG5,-0.0009645830637269975,-0.008091087047916699,0.006214508907770284,0.7904209579042096,313,1577,Buda|Vien|Edin,10000,reused,positive_graph_vs_markov,False,
+AdaptivePositive,GraphPositive,warm,NDCG5,0.0,0.0,0.0,1.0,88,497,Buda|Vien|Edin,10000,reused,adaptation_warm,False,
+GraphPositive,CategoryMatched,all,NDCG5,-0.00022846575264372958,-0.017390588532713244,0.01992427376541283,0.9408059194080592,44,81,Delh|Glas|Osak|Pert|Toro,8697,transfer,H1_cultural_links,True,1.0
+AdaptivePositive,GraphPositive,two_profiles,NDCG5,0.0,0.0,0.0,1.0,8,16,Delh|Pert|Toro,6296,transfer,H2_adaptation,True,1.0
+AdaptiveFree,Markov,all,NDCG5,-0.02264141428606089,-0.059817128550621324,0.014869252999003487,0.22727727227277272,44,81,Delh|Glas|Osak|Pert|Toro,8697,transfer,end_to_end,True,0.6818318168183182
+GraphPositive,FlatMatched,all,NDCG5,0.010446188842494562,-0.008922726123018327,0.03386583344571521,0.49565043495650435,44,81,Delh|Glas|Osak|Pert|Toro,8697,transfer,matched_graph_vs_flat,False,
+GraphPositive,Markov,all,NDCG5,-0.02264141428606089,-0.059817128550621324,0.014869252999003487,0.22727727227277272,44,81,Delh|Glas|Osak|Pert|Toro,8697,transfer,positive_graph_vs_markov,False,
+AdaptivePositive,GraphPositive,warm,NDCG5,0.0,0.0,0.0,1.0,4,9,Pert|Toro,8792,transfer,adaptation_warm,False,

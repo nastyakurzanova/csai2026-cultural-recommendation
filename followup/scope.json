@@ -1,0 +1,32 @@
+{
+  "Delh": {
+    "monument": [1, 10, 11, 23, 25],
+    "historic_civic": [3],
+    "palace_castle": [6, 7, 8, 13],
+    "religious": [14, 15, 16, 17, 18, 19, 20, 24],
+    "museum_library": [21, 22]
+  },
+  "Glas": {
+    "historic_infrastructure": [1, 2, 6],
+    "historic_civic": [11, 23, 27, 28],
+    "religious": [13, 14],
+    "museum_library": [17, 25, 26],
+    "performing_arts": [19, 20]
+  },
+  "Osak": {
+    "palace_castle": [8],
+    "religious": [14, 15, 16, 17, 18]
+  },
+  "Pert": {
+    "historic_civic": [1, 2],
+    "museum_library": [3, 12, 13],
+    "historic_garden": [7, 8, 11],
+    "performing_arts": [22]
+  },
+  "Toro": {
+    "museum_library": [6, 7, 9, 11],
+    "palace_castle": [13],
+    "historic_civic": [28, 29],
+    "historic_infrastructure": [30]
+  }
+}

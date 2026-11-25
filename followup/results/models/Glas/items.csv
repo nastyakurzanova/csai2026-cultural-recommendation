@@ -1,0 +1,15 @@
+city,poiID,name,qid,category,lat,lon
+Glas,1,Glasgow Central railway station,Q800825,historic_infrastructure,55.858,-4.258
+Glas,2,Glasgow Queen Street railway station,Q800823,historic_infrastructure,55.8622,-4.2512
+Glas,6,"Kingston Bridge, Glasgow",Q6413473,historic_infrastructure,55.85528,-4.27
+Glas,11,Glasgow School of Art,Q748106,historic_civic,55.86611,-4.26389
+Glas,13,"St. Mungo's Cathedral, Glasgow",Q1473348,religious,55.862972,-4.234444
+Glas,14,Glasgow Central Mosque,Q3493426,religious,55.8525,-4.25083
+Glas,17,Burrell Collection,Q1016909,museum_library,55.83083,-4.3075
+Glas,19,Clyde Auditorium,Q2980424,performing_arts,55.859496,-4.287962
+Glas,20,Glasgow Royal Concert Hall,Q5566904,performing_arts,55.864503,-4.252921
+Glas,23,Holmwood House,Q5883823,historic_civic,55.8097,-4.25936
+Glas,25,Glasgow Museum of Transport,Q3511316,museum_library,55.8687,-4.295
+Glas,26,Kelvingrove Art Gallery and Museum,Q1061094,museum_library,55.8685806,-4.2905056
+Glas,27,Pollok House,Q1489852,historic_civic,55.8279278,-4.3182222
+Glas,28,Willow Tearooms,Q1537781,historic_civic,55.86502917,-4.26116083

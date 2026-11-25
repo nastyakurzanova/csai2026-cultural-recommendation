@@ -1,0 +1,14 @@
+{
+  "Buda": {
+    "train_end": 1312501864,
+    "validation_end": 1353676611
+  },
+  "Edin": {
+    "train_end": 1309501966,
+    "validation_end": 1348985737
+  },
+  "Vien": {
+    "train_end": 1306755908,
+    "validation_end": 1354410892
+  }
+}

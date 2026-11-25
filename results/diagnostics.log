@@ -1,0 +1,34 @@
+CulturalAdaptiveForced {'minimum': 0.25, 'maximum': 1.0, 'c': 1.0} validation 0.260454
+{
+  "CulturalFixedForced": {
+    "restart": 0.15,
+    "eta": 0.25,
+    "alpha": 1.0
+  },
+  "CategoryFixedForced": {
+    "restart": 0.15,
+    "eta": 0.25,
+    "alpha": 0.7
+  },
+  "CulturalFlatFixedForced": {
+    "eta": 0.25,
+    "alpha": 1.0
+  },
+  "CulturalAdaptiveForced": {
+    "minimum": 0.25,
+    "maximum": 1.0,
+    "c": 1.0
+  },
+  "NoCultureMatchedForced": {
+    "restart": 0.15,
+    "eta": 0.25,
+    "alpha": 1.0
+  }
+}
+                     a                       b     subset metric     delta    ci_low   ci_high  p_two_sided  users_global  contexts    cities  bootstrap_draws_used  p_holm_exploratory_family
+   CulturalFixedForced     CategoryFixedForced       warm  NDCG5  0.030848  0.000119  0.062708     0.061894            47       272 Buda|Vien                 10000                   0.247575
+   CulturalFixedForced  NoCultureMatchedForced       warm  NDCG5  0.033432  0.002660  0.064372     0.042296            47       272 Buda|Vien                 10000                   0.211479
+   CulturalFixedForced CulturalFlatFixedForced       warm  NDCG5  0.024468 -0.001779  0.052878     0.088891            47       272 Buda|Vien                 10000                   0.266673
+CulturalAdaptiveForced     CulturalFixedForced       warm  NDCG5  0.000607 -0.026976  0.030588     0.973003            47       272 Buda|Vien                 10000                   1.000000
+CulturalAdaptiveForced     CulturalFixedForced high_drift  NDCG5  0.003696 -0.041681  0.063397     0.911509            26        59 Buda|Vien                  9999                   1.000000
+   CulturalFixedForced                  Markov       warm  NDCG5 -0.158908 -0.238058 -0.079614     0.000500            47       272 Buda|Vien                 10000                   0.003000

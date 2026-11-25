@@ -1,0 +1,7 @@
+{
+  "protocol.json": "63162e18cc166c3ee636daca23d114d9ad58609cce27ec5de6507d81e17a45e1",
+  "scope.json": "df449109eb4eb362dbe92a48f3204adcfc5b76db72d32314f532d8e93e4fc589",
+  "prepare_transfer.py": "895cc13ef15f8e0cc962bbb775c418bea8f5b910a25abf4ea38ea65e202b3df2",
+  "recommender.py": "c471d2cbb78bbf8db0eb6bbf719551772c4db76c9eae299b91ea2d9f0fec6fd6",
+  "run.py": "bf76c40aca174f02a5a378a450d868aaf302783a556beceee9453a266707d75d"
+}

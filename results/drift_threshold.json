@@ -1,0 +1,5 @@
+{
+  "training_75th_percentile": 0.7499999999999999,
+  "training_contexts": 799,
+  "definition": "functional-category TV computed from observed old/prefix only"
+}

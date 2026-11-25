@@ -1,0 +1,26 @@
+{
+  "CulturalFixedForced": {
+    "restart": 0.15,
+    "eta": 0.25,
+    "alpha": 1.0
+  },
+  "CategoryFixedForced": {
+    "restart": 0.15,
+    "eta": 0.25,
+    "alpha": 0.7
+  },
+  "CulturalFlatFixedForced": {
+    "eta": 0.25,
+    "alpha": 1.0
+  },
+  "CulturalAdaptiveForced": {
+    "minimum": 0.25,
+    "maximum": 1.0,
+    "c": 1.0
+  },
+  "NoCultureMatchedForced": {
+    "restart": 0.15,
+    "eta": 0.25,
+    "alpha": 1.0
+  }
+}

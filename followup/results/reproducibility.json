@@ -1,0 +1,59 @@
+{
+  "check": "second complete follow-up run in separate output directory",
+  "files": [
+    {
+      "file": "metrics.csv",
+      "first_sha256": "8a4f56139de5a31001c0eb714610607deed7d03d2061e53c874968502d921287",
+      "rerun_sha256": "8a4f56139de5a31001c0eb714610607deed7d03d2061e53c874968502d921287",
+      "identical": true
+    },
+    {
+      "file": "predictions.csv",
+      "first_sha256": "96bff86a95630a08de482f968b467096de5025da3d9a9bf659c416e8343529a1",
+      "rerun_sha256": "96bff86a95630a08de482f968b467096de5025da3d9a9bf659c416e8343529a1",
+      "identical": true
+    },
+    {
+      "file": "contrasts.csv",
+      "first_sha256": "a7d535d4cb34d7f44beac2da2862fb8e50d63ffcfbbef3ea752be18828a3631a",
+      "rerun_sha256": "a7d535d4cb34d7f44beac2da2862fb8e50d63ffcfbbef3ea752be18828a3631a",
+      "identical": true
+    },
+    {
+      "file": "parameters.json",
+      "first_sha256": "a92ccf339efcbddaa0f4436009807747afa0a2db5b1097020d37d4adde7db629",
+      "rerun_sha256": "a92ccf339efcbddaa0f4436009807747afa0a2db5b1097020d37d4adde7db629",
+      "identical": true
+    },
+    {
+      "file": "validation_grid.csv",
+      "first_sha256": "1bef2a2097d9ea89b5e858e6ba3c2e81884ffa918423e6280dda9226bd6a2caa",
+      "rerun_sha256": "1bef2a2097d9ea89b5e858e6ba3c2e81884ffa918423e6280dda9226bd6a2caa",
+      "identical": true
+    },
+    {
+      "file": "graph_placebo.csv",
+      "first_sha256": "fe2e403ab2f7d70bed29952d3a1fdfd4f1a5a4470bd55835e000215e63dedad2",
+      "rerun_sha256": "fe2e403ab2f7d70bed29952d3a1fdfd4f1a5a4470bd55835e000215e63dedad2",
+      "identical": true
+    },
+    {
+      "file": "transfer_contexts.jsonl",
+      "first_sha256": "4735575a6979221af27337425dfba063cbadff9a78c13742336b9b06f38b5613",
+      "rerun_sha256": "4735575a6979221af27337425dfba063cbadff9a78c13742336b9b06f38b5613",
+      "identical": true
+    },
+    {
+      "file": "transfer_scope_decisions.csv",
+      "first_sha256": "28752f3a654aeeb0342755ef8ff6e58259bba1dee6e3035014df5ef75ad7a79d",
+      "rerun_sha256": "28752f3a654aeeb0342755ef8ff6e58259bba1dee6e3035014df5ef75ad7a79d",
+      "identical": true
+    },
+    {
+      "file": "protocol_lock.json",
+      "first_sha256": "f56e258161a290bf68dfeec96a248e93a802475da2aa67316bbb697205bd89dc",
+      "rerun_sha256": "f56e258161a290bf68dfeec96a248e93a802475da2aa67316bbb697205bd89dc",
+      "identical": true
+    }
+  ]
+}
